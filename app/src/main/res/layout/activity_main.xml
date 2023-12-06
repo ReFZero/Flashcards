@@ -1,18 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    android:orientation="vertical"
+    tools:context=".activity.MainMenu">
+
 
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        android:id="@+id/textTitle"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="60dp"
+        android:text="Flashcards"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="35sp" />
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+    <ImageView
+        android:id="@+id/imageLogo"
+        android:layout_width="match_parent"
+        android:layout_height="181dp"
+        android:layout_marginHorizontal="30dp"
+        android:src="@drawable/logoplaceholder" />
+
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="3dp"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginTop="10pt"
+        android:layout_marginBottom="15pt"
+        android:background="#64dfdf" />
+
+    <Button
+        android:id="@+id/bStart"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:text="Start"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/bAbout"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:text="O aplikacji"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/bExit"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:text="Wyjście"
+        tools:ignore="MissingConstraints" />
+
+
+</LinearLayout>
