@@ -4,4 +4,7 @@ The app for learning words in multiple languages
 - Java 11
 - Gradle 7.5
 #### Changes in the last commit
-- Added activities: MainMenu, Languages, About. MainMenu has a basic layout. Activities like Languages and About are empty
+- Added activity MenuSet with a empty layout.
+- Renamed Languages to MenuLanguages. 
+- MenuLanguages received buttons and appropriate images were added to the buttons. 
+- Added ability to scroll through languages in MenuLanguages.

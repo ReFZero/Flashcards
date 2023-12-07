@@ -31,17 +31,19 @@ public class MainMenu extends AppCompatActivity implements View.OnClickListener 
     public void onClick(View view) {
         switch (view.getId()) {
             case R.id.bStart:
-                Intent intent = new Intent(this, Languages.class);
-                startActivity(intent);
+                navigateToActivity(MenuLanguages.class);
                 break;
             case R.id.bAbout:
-                intent = new Intent(this, About.class);
-                startActivity(intent);
+                navigateToActivity(About.class);
                 break;
             case R.id.bExit:
                 finish();
                 System.exit(0);
                 break;
         }
+    }
+
+    public void navigateToActivity(Class<?> activity){
+        startActivity(new Intent(this, activity));
     }
 }

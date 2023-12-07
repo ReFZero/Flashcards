@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:background="@color/cardview_dark_background"
+    tools:ignore="ScrollViewCount">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:context=".activity.MenuLanguages">
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:layout_marginBottom="30dp"
+            android:gravity="center"
+            android:background="@color/cardview_light_background"
+            android:text="Wybierz język" />
+
+        <ImageButton
+            android:id="@+id/ib_polish_english"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/image_button_height"
+            android:layout_gravity="center"
+            android:layout_marginBottom="@dimen/image_button_margin"
+            app:srcCompat="@drawable/polish_english"
+            android:background="@null"/>
+
+        <ImageButton
+            android:id="@+id/ib_english_polish"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/image_button_height"
+            android:layout_gravity="center"
+            android:layout_marginBottom="@dimen/image_button_margin"
+            app:srcCompat="@drawable/english_polish"
+            android:background="@null"/>
+
+        <ImageButton
+            android:id="@+id/ib_polish_german"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/image_button_height"
+            android:layout_gravity="center"
+            android:layout_marginBottom="@dimen/image_button_margin"
+            app:srcCompat="@drawable/polish_german"
+            android:background="@null"/>
+
+        <ImageButton
+            android:id="@+id/ib_german_polish"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/image_button_height"
+            android:layout_gravity="center"
+            android:layout_marginBottom="@dimen/image_button_margin"
+            app:srcCompat="@drawable/german_polish"
+            android:background="@null"/>
+
+        <ImageButton
+            android:id="@+id/ib_polish_spanish"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/image_button_height"
+            android:layout_gravity="center"
+            android:layout_marginBottom="@dimen/image_button_margin"
+            app:srcCompat="@drawable/polish_spanish"
+            android:background="@null"/>
+
+        <ImageButton
+            android:id="@+id/ib_spanish_polish"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/image_button_height"
+            android:layout_gravity="center"
+            android:layout_marginBottom="@dimen/image_button_margin"
+            app:srcCompat="@drawable/spanish_polish"
+            android:background="@null"/>
+
+        <ImageButton
+            android:id="@+id/ib_polish_norwegian"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/image_button_height"
+            android:layout_gravity="center"
+            android:layout_marginBottom="@dimen/image_button_margin"
+            app:srcCompat="@drawable/polish_norwegian"
+            android:background="@null"/>
+
+        <ImageButton
+            android:id="@+id/ib_norwegian_polish"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/image_button_height"
+            android:layout_gravity="center"
+            android:layout_marginBottom="@dimen/image_button_margin"
+            app:srcCompat="@drawable/norwegian_polish"
+            android:background="@null"/>
+
+    </LinearLayout>
+</ScrollView>
