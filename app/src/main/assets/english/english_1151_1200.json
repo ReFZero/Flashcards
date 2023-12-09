@@ -1,0 +1,252 @@
+[
+    {
+        "id": 1151,
+        "polish": "nagły, gwałtowny",
+        "english": "sudden"
+    },
+    {
+        "id": 1152,
+        "polish": "doznać, doświadczyć (kontuzji, itp.) cierpieć",
+        "english": "suffer"
+    },
+    {
+        "id": 1153,
+        "polish": "dostateczny, wystarczający",
+        "english": "sufficient"
+    },
+    {
+        "id": 1154,
+        "polish": "pasować, być do twarzy",
+        "english": "suit"
+    },
+    {
+        "id": 1155,
+        "polish": "przesądny",
+        "english": "superstitious"
+    },
+    {
+        "id": 1156,
+        "polish": "nadzorować",
+        "english": "supervise"
+    },
+    {
+        "id": 1157,
+        "polish": "dostawca",
+        "english": "supplier"
+    },
+    {
+        "id": 1158,
+        "polish": "dostarczyć, zaopatrzyć, zapas",
+        "english": "supply"
+    },
+    {
+        "id": 1159,
+        "polish": "niewątpliwie, z pewnością, na pewno",
+        "english": "surely"
+    },
+    {
+        "id": 1160,
+        "polish": "operacja, zabieg chirurgiczny",
+        "english": "surgery"
+    },
+    {
+        "id": 1161,
+        "polish": "otaczający, okoliczny",
+        "english": "surrounding"
+    },
+    {
+        "id": 1162,
+        "polish": "ankieta",
+        "english": "survey"
+    },
+    {
+        "id": 1163,
+        "polish": "podejrzany",
+        "english": "suspect"
+    },
+    {
+        "id": 1164,
+        "polish": "podejrzliwy",
+        "english": "suspicious"
+    },
+    {
+        "id": 1165,
+        "polish": "zamiatać",
+        "english": "sweep"
+    },
+    {
+        "id": 1166,
+        "polish": "puchnąć",
+        "english": "swell"
+    },
+    {
+        "id": 1167,
+        "polish": "kołysać (się), huśtać (się), huśtawka",
+        "english": "swing"
+    },
+    {
+        "id": 1168,
+        "polish": "spuchnięty, opuchnięty",
+        "english": "swollen"
+    },
+    {
+        "id": 1169,
+        "polish": "obrus",
+        "english": "tablecloth"
+    },
+    {
+        "id": 1170,
+        "polish": "rozprawić się, podjąć walkę, stawić czoło, zająć się ",
+        "english": "tackle"
+    },
+    {
+        "id": 1171,
+        "polish": "identyfikator, przywieszka, etykietka, metka",
+        "english": "tag"
+    },
+    {
+        "id": 1172,
+        "polish": "opowieść, historia",
+        "english": "tale"
+    },
+    {
+        "id": 1173,
+        "polish": "opalenizna",
+        "english": "tan"
+    },
+    {
+        "id": 1174,
+        "polish": "drażnić, dokuczać",
+        "english": "tease"
+    },
+    {
+        "id": 1175,
+        "polish": "tymczasowo, przejściowo, chwilowo",
+        "english": "temporarily"
+    },
+    {
+        "id": 1176,
+        "polish": "pokusa",
+        "english": "temptation"
+    },
+    {
+        "id": 1177,
+        "polish": "wykazywać tendencje, zwykle coś robić",
+        "english": "tend"
+    },
+    {
+        "id": 1178,
+        "polish": "napięty, spięty, nerwowy",
+        "english": "tense"
+    },
+    {
+        "id": 1179,
+        "polish": "napięcie",
+        "english": "tension"
+    },
+    {
+        "id": 1180,
+        "polish": "warunki",
+        "english": "terms"
+    },
+    {
+        "id": 1181,
+        "polish": "przerazić",
+        "english": "terrify"
+    },
+    {
+        "id": 1182,
+        "polish": "kradzież",
+        "english": "theft"
+    },
+    {
+        "id": 1183,
+        "polish": "udo",
+        "english": "thigh"
+    },
+    {
+        "id": 1184,
+        "polish": "dokładny, gruntowny",
+        "english": "thorough"
+    },
+    {
+        "id": 1185,
+        "polish": "groźba, pogróżka; zagrożenie",
+        "english": "threat"
+    },
+    {
+        "id": 1186,
+        "polish": "zachwycony",
+        "english": "thrilled"
+    },
+    {
+        "id": 1187,
+        "polish": "przez cały/całą/całe (czas)",
+        "english": "throughout"
+    },
+    {
+        "id": 1188,
+        "polish": "w ten sposób, tym samym; dlatego, więc",
+        "english": "thus"
+    },
+    {
+        "id": 1189,
+        "polish": "fala, pływ",
+        "english": "tide"
+    },
+    {
+        "id": 1190,
+        "polish": "ciasno, szczelnie, mocno",
+        "english": "tight"
+    },
+    {
+        "id": 1191,
+        "polish": "latarka",
+        "english": "torch"
+    },
+    {
+        "id": 1192,
+        "polish": "lądowanie",
+        "english": "touchdown"
+    },
+    {
+        "id": 1193,
+        "polish": "trudny, ciężki, silny, mocny, wymagający, nieustępliwy",
+        "english": "tough"
+    },
+    {
+        "id": 1194,
+        "polish": "ślad",
+        "english": "trace"
+    },
+    {
+        "id": 1195,
+        "polish": "przechodni (czasownik)",
+        "english": "transitive"
+    },
+    {
+        "id": 1196,
+        "polish": "przezroczysty",
+        "english": "transparent"
+    },
+    {
+        "id": 1197,
+        "polish": "taca",
+        "english": "tray"
+    },
+    {
+        "id": 1198,
+        "polish": "Zafundować, postawić, traktować",
+        "english": "treat"
+    },
+    {
+        "id": 1199,
+        "polish": "leczyć",
+        "english": "treat"
+    },
+    {
+        "id": 1200,
+        "polish": "trząść się, drżeć",
+        "english": "tremble"
+    }
+]

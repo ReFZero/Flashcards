@@ -1,0 +1,201 @@
+[ {
+  "id" : 51,
+  "polish" : "ja",
+  "norwegian" : "jeg"
+}, {
+  "id" : 52,
+  "polish" : "ty",
+  "norwegian" : "du "
+}, {
+  "id" : 53,
+  "polish" : "on",
+  "norwegian" : "han"
+}, {
+  "id" : 54,
+  "polish" : "ona",
+  "norwegian" : "hun"
+}, {
+  "id" : 55,
+  "polish" : "ono",
+  "norwegian" : "det"
+}, {
+  "id" : 56,
+  "polish" : "on, ona",
+  "norwegian" : "den"
+}, {
+  "id" : 57,
+  "polish" : "my",
+  "norwegian" : "vi "
+}, {
+  "id" : 58,
+  "polish" : "wy",
+  "norwegian" : "dere"
+}, {
+  "id" : 59,
+  "polish" : "oni, one",
+  "norwegian" : "de "
+}, {
+  "id" : 60,
+  "polish" : "mnie, mi, mną",
+  "norwegian" : "meg"
+}, {
+  "id" : 61,
+  "polish" : "ciebie, ci, cię, tobie, tobą",
+  "norwegian" : "deg"
+}, {
+  "id" : 62,
+  "polish" : "jego, jemu, nim",
+  "norwegian" : "ham, han"
+}, {
+  "id" : 63,
+  "polish" : "jej, niej, ją, nią",
+  "norwegian" : "henne"
+}, {
+  "id" : 64,
+  "polish" : "je, jego, jemu, nim",
+  "norwegian" : "det "
+}, {
+  "id" : 65,
+  "polish" : "jego, jemu, nim, jej, niej, ją, nią",
+  "norwegian" : "den"
+}, {
+  "id" : 66,
+  "polish" : "nas, nam, nami",
+  "norwegian" : "oss"
+}, {
+  "id" : 67,
+  "polish" : "was, wam, wami",
+  "norwegian" : "dere"
+}, {
+  "id" : 68,
+  "polish" : "ich, im, nim, nich",
+  "norwegian" : "dem"
+}, {
+  "id" : 69,
+  "polish" : "kto?",
+  "norwegian" : "hvem?"
+}, {
+  "id" : 70,
+  "polish" : "co?",
+  "norwegian" : "hva?"
+}, {
+  "id" : 71,
+  "polish" : "który?, jaki?",
+  "norwegian" : "hvilken?"
+}, {
+  "id" : 72,
+  "polish" : "czyj?",
+  "norwegian" : "hvem sin?"
+}, {
+  "id" : 73,
+  "polish" : "mój",
+  "norwegian" : "min"
+}, {
+  "id" : 74,
+  "polish" : "twój",
+  "norwegian" : "din"
+}, {
+  "id" : 75,
+  "polish" : "jego",
+  "norwegian" : "hans"
+}, {
+  "id" : 76,
+  "polish" : "jej",
+  "norwegian" : "hannes"
+}, {
+  "id" : 77,
+  "polish" : "jego, jej",
+  "norwegian" : "dens"
+}, {
+  "id" : 78,
+  "polish" : "jego",
+  "norwegian" : "dets"
+}, {
+  "id" : 79,
+  "polish" : "nasz",
+  "norwegian" : "vår"
+}, {
+  "id" : 80,
+  "polish" : "wasz",
+  "norwegian" : "deres"
+}, {
+  "id" : 81,
+  "polish" : "ich",
+  "norwegian" : "deres"
+}, {
+  "id" : 82,
+  "polish" : "moja",
+  "norwegian" : "mi "
+}, {
+  "id" : 83,
+  "polish" : "twoja",
+  "norwegian" : "di"
+}, {
+  "id" : 84,
+  "polish" : "nasza",
+  "norwegian" : "vår"
+}, {
+  "id" : 85,
+  "polish" : "moje",
+  "norwegian" : "mitt"
+}, {
+  "id" : 86,
+  "polish" : "twoje",
+  "norwegian" : "ditt"
+}, {
+  "id" : 87,
+  "polish" : "nasze",
+  "norwegian" : "vårt"
+}, {
+  "id" : 88,
+  "polish" : "moi, moje",
+  "norwegian" : "mine"
+}, {
+  "id" : 89,
+  "polish" : "twoi, twoje",
+  "norwegian" : "dine"
+}, {
+  "id" : 90,
+  "polish" : "nasi, nasze",
+  "norwegian" : "våre"
+}, {
+  "id" : 91,
+  "polish" : "swój",
+  "norwegian" : "sin"
+}, {
+  "id" : 92,
+  "polish" : "swoja",
+  "norwegian" : "si "
+}, {
+  "id" : 93,
+  "polish" : "swoje",
+  "norwegian" : "sitt"
+}, {
+  "id" : 94,
+  "polish" : "swoi, swoje",
+  "norwegian" : "sine"
+}, {
+  "id" : 95,
+  "polish" : "gdzie?",
+  "norwegian" : "hvor?"
+}, {
+  "id" : 96,
+  "polish" : "kiedy?",
+  "norwegian" : "når?"
+}, {
+  "id" : 97,
+  "polish" : "jak?, jaki?, jaka?, w jaki sposób?",
+  "norwegian" : "hvordan?"
+}, {
+  "id" : 98,
+  "polish" : "który?, która?, które?, jaki?, jaka?, jakie?",
+  "norwegian" : "hvilken?"
+}, {
+  "id" : 99,
+  "polish" : "dlaczego?",
+  "norwegian" : "hvorfor?"
+}, {
+  "id" : 100,
+  "polish" : "pytać",
+  "norwegian" : "spørre"
+} ]

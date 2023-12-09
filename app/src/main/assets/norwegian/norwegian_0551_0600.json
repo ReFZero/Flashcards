@@ -1,0 +1,201 @@
+[ {
+  "id" : 551,
+  "polish" : "brzuch",
+  "norwegian" : "en mage"
+}, {
+  "id" : 552,
+  "polish" : "skóra",
+  "norwegian" : "en hud"
+}, {
+  "id" : 553,
+  "polish" : "winda",
+  "norwegian" : "en heis"
+}, {
+  "id" : 554,
+  "polish" : "mieszkanie",
+  "norwegian" : "en leilighet"
+}, {
+  "id" : 555,
+  "polish" : "sofa, kanapa",
+  "norwegian" : "en sofa"
+}, {
+  "id" : 556,
+  "polish" : "korytarz",
+  "norwegian" : "en gang"
+}, {
+  "id" : 557,
+  "polish" : "łokieć",
+  "norwegian" : "en albue"
+}, {
+  "id" : 558,
+  "polish" : "łożko",
+  "norwegian" : "ei seng"
+}, {
+  "id" : 559,
+  "polish" : "chleb",
+  "norwegian" : "et brød"
+}, {
+  "id" : 560,
+  "polish" : "problem",
+  "norwegian" : "et problem"
+}, {
+  "id" : 561,
+  "polish" : "prezent",
+  "norwegian" : "en gave"
+}, {
+  "id" : 562,
+  "polish" : "prawda",
+  "norwegian" : "sannhet"
+}, {
+  "id" : 563,
+  "polish" : "stolica",
+  "norwegian" : "en hovedstad"
+}, {
+  "id" : 564,
+  "polish" : "budynek",
+  "norwegian" : "en bygning"
+}, {
+  "id" : 565,
+  "polish" : "zeszyt",
+  "norwegian" : "et hefte"
+}, {
+  "id" : 566,
+  "polish" : "dywan, koc",
+  "norwegian" : "et teppe"
+}, {
+  "id" : 567,
+  "polish" : "radio",
+  "norwegian" : "en radio"
+}, {
+  "id" : 568,
+  "polish" : "wiadomość",
+  "norwegian" : "en nyhet"
+}, {
+  "id" : 569,
+  "polish" : "komputer",
+  "norwegian" : "en datamaskin"
+}, {
+  "id" : 570,
+  "polish" : "przystanek",
+  "norwegian" : "en holdeplass"
+}, {
+  "id" : 571,
+  "polish" : "szafa",
+  "norwegian" : "et skap"
+}, {
+  "id" : 572,
+  "polish" : "okno",
+  "norwegian" : "et vindu"
+}, {
+  "id" : 573,
+  "polish" : "lusto",
+  "norwegian" : "et speil"
+}, {
+  "id" : 574,
+  "polish" : "masło",
+  "norwegian" : "et smør"
+}, {
+  "id" : 575,
+  "polish" : "jajko",
+  "norwegian" : "et egg"
+}, {
+  "id" : 576,
+  "polish" : "woda",
+  "norwegian" : "et vann"
+}, {
+  "id" : 577,
+  "polish" : "drzewo",
+  "norwegian" : "et tre"
+}, {
+  "id" : 578,
+  "polish" : "list",
+  "norwegian" : "et brev"
+}, {
+  "id" : 579,
+  "polish" : "tort",
+  "norwegian" : "et bløtkake"
+}, {
+  "id" : 580,
+  "polish" : "tablica",
+  "norwegian" : "ei tavle"
+}, {
+  "id" : 581,
+  "polish" : "zadanie domowe",
+  "norwegian" : "ei lekse"
+}, {
+  "id" : 582,
+  "polish" : "ulica",
+  "norwegian" : "ei gate"
+}, {
+  "id" : 583,
+  "polish" : "patelnia",
+  "norwegian" : "ei stekepanne"
+}, {
+  "id" : 584,
+  "polish" : "czarownica",
+  "norwegian" : "ei heks"
+}, {
+  "id" : 585,
+  "polish" : "kosciół",
+  "norwegian" : "ei kirke"
+}, {
+  "id" : 586,
+  "polish" : "czas wolny",
+  "norwegian" : "ei fritid"
+}, {
+  "id" : 587,
+  "polish" : "dziewczyna",
+  "norwegian" : "ei jente"
+}, {
+  "id" : 588,
+  "polish" : "przewodnik",
+  "norwegian" : "ei reisebok"
+}, {
+  "id" : 589,
+  "polish" : "Ziemia",
+  "norwegian" : "ei jord"
+}, {
+  "id" : 590,
+  "polish" : "ręka",
+  "norwegian" : "en hånd"
+}, {
+  "id" : 591,
+  "polish" : "czas",
+  "norwegian" : "ei tid"
+}, {
+  "id" : 592,
+  "polish" : "kiełbasa",
+  "norwegian" : "ei pølse"
+}, {
+  "id" : 593,
+  "polish" : "zawód",
+  "norwegian" : "et yrke"
+}, {
+  "id" : 594,
+  "polish" : "jedzenie",
+  "norwegian" : "en mat"
+}, {
+  "id" : 595,
+  "polish" : "niż, od",
+  "norwegian" : "enn"
+}, {
+  "id" : 596,
+  "polish" : "stopa",
+  "norwegian" : "en fot"
+}, {
+  "id" : 597,
+  "polish" : "palec",
+  "norwegian" : "en finger"
+}, {
+  "id" : 598,
+  "polish" : "krzesło",
+  "norwegian" : "en stol"
+}, {
+  "id" : 599,
+  "polish" : "moment, chwila",
+  "norwegian" : "en øyeblikk"
+}, {
+  "id" : 600,
+  "polish" : "tramwaj",
+  "norwegian" : "en trikk"
+} ]

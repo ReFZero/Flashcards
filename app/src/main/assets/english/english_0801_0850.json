@@ -1,0 +1,252 @@
+[
+    {
+        "id": 801,
+        "polish": "drobno, cienko",
+        "english": "finely"
+    },
+    {
+        "id": 802,
+        "polish": "wyrzucić z pracy, wylać",
+        "english": "fire"
+    },
+    {
+        "id": 803,
+        "polish": "po pierwsze, najpierw",
+        "english": "firstly"
+    },
+    {
+        "id": 804,
+        "polish": "zamontować, zainstalować",
+        "english": "fit"
+    },
+    {
+        "id": 805,
+        "polish": "ustalić (np. datę spotkania), stały, ustalony",
+        "english": "fix"
+    },
+    {
+        "id": 806,
+        "polish": "czuły, ciepły, delikatny",
+        "english": "fond"
+    },
+    {
+        "id": 807,
+        "polish": "nabrać, oszukać, zwieść",
+        "english": "fool"
+    },
+    {
+        "id": 808,
+        "polish": "zakazać, zabraniać",
+        "english": "forbid"
+    },
+    {
+        "id": 809,
+        "polish": "nadchodzący, zbliżający się",
+        "english": "forthcoming"
+    },
+    {
+        "id": 810,
+        "polish": "szczerze, otwarcie",
+        "english": "frankly"
+    },
+    {
+        "id": 811,
+        "polish": "złamanie, pęknięcie",
+        "english": "fracture"
+    },
+    {
+        "id": 812,
+        "polish": "bez ograniczeń, swobodnie",
+        "english": "freely"
+    },
+    {
+        "id": 813,
+        "polish": "życzliwość, przyjazne nastawienie",
+        "english": "friendliness"
+    },
+    {
+        "id": 814,
+        "polish": "ponadto, co więcej",
+        "english": "furthermore"
+    },
+    {
+        "id": 815,
+        "polish": "hazard",
+        "english": "gambling"
+    },
+    {
+        "id": 816,
+        "polish": "zebrać, zgromadzić, zebrać się, zgromadzić się",
+        "english": "gather"
+    },
+    {
+        "id": 817,
+        "polish": "bieg (w samochodzie), wyposażenie, sprzęt, przybory",
+        "english": "gear"
+    },
+    {
+        "id": 818,
+        "polish": "hojność",
+        "english": "generosity"
+    },
+    {
+        "id": 819,
+        "polish": "hojnie; wspaniałomyślnie",
+        "english": "generously"
+    },
+    {
+        "id": 820,
+        "polish": "łagodnie, delikatnie",
+        "english": "gently"
+    },
+    {
+        "id": 821,
+        "polish": "prawdziwie, szczerze, autentycznie",
+        "english": "genuinely"
+    },
+    {
+        "id": 822,
+        "polish": "szybowiec",
+        "english": "glider"
+    },
+    {
+        "id": 823,
+        "polish": "plotkować",
+        "english": "gossip"
+    },
+    {
+        "id": 824,
+        "polish": "rządzić, zarządzać, sprawować władzę",
+        "english": "govern"
+    },
+    {
+        "id": 825,
+        "polish": "stopniowy",
+        "english": "gradual"
+    },
+    {
+        "id": 826,
+        "polish": "przyznać, udzielić",
+        "english": "grant"
+    },
+    {
+        "id": 827,
+        "polish": "poważnie",
+        "english": "gravely"
+    },
+    {
+        "id": 828,
+        "polish": "wielkość, geniusz",
+        "english": "greatness"
+    },
+    {
+        "id": 829,
+        "polish": "chciwy",
+        "english": "greedy"
+    },
+    {
+        "id": 830,
+        "polish": "żałoba, żal, smutek",
+        "english": "grief"
+    },
+    {
+        "id": 831,
+        "polish": "uścisk, chwyt",
+        "english": "grip"
+    },
+    {
+        "id": 832,
+        "polish": "wzrost",
+        "english": "growth"
+    },
+    {
+        "id": 833,
+        "polish": "poradnictwo, pomoc",
+        "english": "guidance"
+    },
+    {
+        "id": 834,
+        "polish": "zatoka",
+        "english": "gulf"
+    },
+    {
+        "id": 835,
+        "polish": "dziąsło",
+        "english": "gum"
+    },
+    {
+        "id": 836,
+        "polish": "wina",
+        "english": "guilt"
+    },
+    {
+        "id": 837,
+        "polish": "odwaga (infml.)",
+        "english": "guts"
+    },
+    {
+        "id": 838,
+        "polish": "nałóg",
+        "english": "habit"
+    },
+    {
+        "id": 839,
+        "polish": "przedpokój, korytarz",
+        "english": "hallway"
+    },
+    {
+        "id": 840,
+        "polish": "szkodliwy",
+        "english": "harmful"
+    },
+    {
+        "id": 841,
+        "polish": "krzywda, szkoda",
+        "english": "harm"
+    },
+    {
+        "id": 842,
+        "polish": "żniwa, plon, zbiór",
+        "english": "harvest"
+    },
+    {
+        "id": 843,
+        "polish": "straszyć, nawiedzać, prześladować",
+        "english": "haunt"
+    },
+    {
+        "id": 844,
+        "polish": "siano",
+        "english": "hay"
+    },
+    {
+        "id": 845,
+        "polish": "kierować, stać na czele",
+        "english": "head"
+    },
+    {
+        "id": 846,
+        "polish": "siedziba, kwatera główna",
+        "english": "headquarters"
+    },
+    {
+        "id": 847,
+        "polish": "żywopłot",
+        "english": "hedge"
+    },
+    {
+        "id": 848,
+        "polish": "pięta",
+        "english": "heel"
+    },
+    {
+        "id": 849,
+        "polish": "bohaterka",
+        "english": "heroine"
+    },
+    {
+        "id": 850,
+        "polish": "wahać się",
+        "english": "hesitate"
+    }
+]

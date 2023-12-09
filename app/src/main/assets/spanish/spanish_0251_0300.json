@@ -1,0 +1,252 @@
+[
+    {
+        "id": "251",
+        "polish": "siedemdziesiąt osiem",
+        "spanish": "setenta y ocho"
+    },
+    {
+        "id": "252",
+        "polish": "siedemdziesiąt dziewięć",
+        "spanish": "setenta y nueve"
+    },
+    {
+        "id": "253",
+        "polish": "osiemdziesiąt",
+        "spanish": "ochenta"
+    },
+    {
+        "id": "254",
+        "polish": "osiemdziesiąt jeden",
+        "spanish": "ochenta y uno"
+    },
+    {
+        "id": "255",
+        "polish": "osiemdziesiąt dwa",
+        "spanish": "ochenta y dos"
+    },
+    {
+        "id": "256",
+        "polish": "osiemdziesiąt trzy",
+        "spanish": "ochenta y tres"
+    },
+    {
+        "id": "257",
+        "polish": "osiemdziesiąt cztery",
+        "spanish": "ochenta y cuatro"
+    },
+    {
+        "id": "258",
+        "polish": "osiemdziesiąt pięć",
+        "spanish": "ochenta y cinco"
+    },
+    {
+        "id": "259",
+        "polish": "osiemdziesiąt sześć",
+        "spanish": "ochenta y seis"
+    },
+    {
+        "id": "260",
+        "polish": "osiemdziesiąt siedem",
+        "spanish": "ochenta y siete"
+    },
+    {
+        "id": "261",
+        "polish": "osiemdziesiąt osiem",
+        "spanish": "ochenta y ocho"
+    },
+    {
+        "id": "262",
+        "polish": "osiemdziesiąt dziewięć",
+        "spanish": "ochenta y nueve"
+    },
+    {
+        "id": "263",
+        "polish": "dziewięćdziesiąt",
+        "spanish": "noventa"
+    },
+    {
+        "id": "264",
+        "polish": "dziewięćdziesiąt jeden",
+        "spanish": "noventa y uno"
+    },
+    {
+        "id": "265",
+        "polish": "dziewięćdziesiąt dwa",
+        "spanish": "noventa y dos"
+    },
+    {
+        "id": "266",
+        "polish": "dziewięćdziesiąt trzy",
+        "spanish": "noventa y tres"
+    },
+    {
+        "id": "267",
+        "polish": "dziewięćdziesiąt cztery",
+        "spanish": "noventa y cuatro"
+    },
+    {
+        "id": "268",
+        "polish": "dziewięćdziesiąt pięć",
+        "spanish": "noventa y cinco"
+    },
+    {
+        "id": "269",
+        "polish": "dziewięćdziesiąt sześć",
+        "spanish": "noventa y seis"
+    },
+    {
+        "id": "270",
+        "polish": "dziewięćdziesiąt siedem",
+        "spanish": "noventa y siete"
+    },
+    {
+        "id": "271",
+        "polish": "dziewięćdziesiąt osiem",
+        "spanish": "noventa y ocho"
+    },
+    {
+        "id": "272",
+        "polish": "dziewięćdziesiąt dziewięć",
+        "spanish": "noventa y nueve"
+    },
+    {
+        "id": "273",
+        "polish": "sto",
+        "spanish": "cien"
+    },
+    {
+        "id": "274",
+        "polish": "dwieście",
+        "spanish": "doscientos"
+    },
+    {
+        "id": "275",
+        "polish": "trzysta",
+        "spanish": "trescientos"
+    },
+    {
+        "id": "276",
+        "polish": "czterysta",
+        "spanish": "cuatroscientos"
+    },
+    {
+        "id": "277",
+        "polish": "pięćset",
+        "spanish": "quinientos"
+    },
+    {
+        "id": "278",
+        "polish": "sześćset",
+        "spanish": "seisientos"
+    },
+    {
+        "id": "279",
+        "polish": "siedemset",
+        "spanish": "setecientos"
+    },
+    {
+        "id": "280",
+        "polish": "osiemset",
+        "spanish": "ochocientos"
+    },
+    {
+        "id": "281",
+        "polish": "dziewięćset",
+        "spanish": "novecientos"
+    },
+    {
+        "id": "282",
+        "polish": "tysiąc",
+        "spanish": "mil"
+    },
+    {
+        "id": "283",
+        "polish": "pierwszy",
+        "spanish": "primero"
+    },
+    {
+        "id": "284",
+        "polish": "drugi",
+        "spanish": "segundo"
+    },
+    {
+        "id": "285",
+        "polish": "trzeci",
+        "spanish": "tercero"
+    },
+    {
+        "id": "286",
+        "polish": "czwarty",
+        "spanish": "cuarto"
+    },
+    {
+        "id": "287",
+        "polish": "piąty",
+        "spanish": "quinto"
+    },
+    {
+        "id": "288",
+        "polish": "szósty",
+        "spanish": "sexto"
+    },
+    {
+        "id": "289",
+        "polish": "siódmy",
+        "spanish": "séptimo"
+    },
+    {
+        "id": "290",
+        "polish": "ósmy",
+        "spanish": "octavo"
+    },
+    {
+        "id": "291",
+        "polish": "dziewiąty",
+        "spanish": "noveno"
+    },
+    {
+        "id": "292",
+        "polish": "dziesiąty",
+        "spanish": "décimo"
+    },
+    {
+        "id": "293",
+        "polish": "Co?",
+        "spanish": "¿Qué?"
+    },
+    {
+        "id": "294",
+        "polish": "Co robisz?",
+        "spanish": "¿Qué haces? "
+    },
+    {
+        "id": "295",
+        "polish": "Co to jest?",
+        "spanish": "¿Qué es eso?"
+    },
+    {
+        "id": "296",
+        "polish": "Która jest godzina?",
+        "spanish": "¿Qué hora es?"
+    },
+    {
+        "id": "297",
+        "polish": "Co znaczy to słowo?",
+        "spanish": "¿Qué significa esta palabra?"
+    },
+    {
+        "id": "298",
+        "polish": "Kto?",
+        "spanish": "¿Quién?"
+    },
+    {
+        "id": "299",
+        "polish": "Kto? (w liczbie mnogiej)",
+        "spanish": "¿Quiénes? "
+    },
+    {
+        "id": "300",
+        "polish": "Kto to?",
+        "spanish": "¿Quién es?"
+    }
+]

@@ -1,0 +1,252 @@
+[
+    {
+        "id": "101",
+        "polish": "czekać",
+        "german": "warten"
+    },
+    {
+        "id": "102",
+        "polish": "dawać radę",
+        "german": "schaffen"
+    },
+    {
+        "id": "103",
+        "polish": "dotyczyć",
+        "german": "betreffen"
+    },
+    {
+        "id": "104",
+        "polish": "dziękować",
+        "german": "danken"
+    },
+    {
+        "id": "105",
+        "polish": "dzwonić",
+        "german": "klingeln"
+    },
+    {
+        "id": "106",
+        "polish": "dzwonić",
+        "german": "anrufen"
+    },
+    {
+        "id": "107",
+        "polish": "czuć",
+        "german": "fühlen"
+    },
+    {
+        "id": "108",
+        "polish": "handlować",
+        "german": "handeln"
+    },
+    {
+        "id": "109",
+        "polish": "iść za kimś",
+        "german": "folgen"
+    },
+    {
+        "id": "110",
+        "polish": "jeździć konno",
+        "german": "reiten"
+    },
+    {
+        "id": "111",
+        "polish": "karmić",
+        "german": "füttern"
+    },
+    {
+        "id": "112",
+        "polish": "kraść",
+        "german": "stehlen"
+    },
+    {
+        "id": "113",
+        "polish": "kroić",
+        "german": "schneiden"
+    },
+    {
+        "id": "114",
+        "polish": "kupować",
+        "german": "kaufen"
+    },
+    {
+        "id": "115",
+        "polish": "kłaść",
+        "german": "legen"
+    },
+    {
+        "id": "116",
+        "polish": "kazać",
+        "german": "lassen"
+    },
+    {
+        "id": "117",
+        "polish": "latać",
+        "german": "fliegen"
+    },
+    {
+        "id": "118",
+        "polish": "lubić",
+        "german": "lieben, mögen"
+    },
+    {
+        "id": "119",
+        "polish": "leżeć",
+        "german": "liegen"
+    },
+    {
+        "id": "120",
+        "polish": "łączyć",
+        "german": "verbinden"
+    },
+    {
+        "id": "121",
+        "polish": "łamać",
+        "german": "zerbrechen"
+    },
+    {
+        "id": "122",
+        "polish": "łapać",
+        "german": "fangen"
+    },
+    {
+        "id": "123",
+        "polish": "myśleć",
+        "german": "meinen"
+    },
+    {
+        "id": "124",
+        "polish": "mieć powinność",
+        "german": "sollen"
+    },
+    {
+        "id": "125",
+        "polish": "móc",
+        "german": "können"
+    },
+    {
+        "id": "126",
+        "polish": "mieć pozwolenie",
+        "german": "dürfen"
+    },
+    {
+        "id": "127",
+        "polish": "mieszać",
+        "german": "schütteln"
+    },
+    {
+        "id": "128",
+        "polish": "musieć",
+        "german": "müssen"
+    },
+    {
+        "id": "129",
+        "polish": "mówić",
+        "german": "sprechen, sagen, reden"
+    },
+    {
+        "id": "130",
+        "polish": "mieszkać",
+        "german": "wohnen"
+    },
+    {
+        "id": "131",
+        "polish": "mijać",
+        "german": "vergehen"
+    },
+    {
+        "id": "132",
+        "polish": "myć",
+        "german": "waschen"
+    },
+    {
+        "id": "133",
+        "polish": "myśleć",
+        "german": "denken"
+    },
+    {
+        "id": "134",
+        "polish": "nauczać",
+        "german": "lehren"
+    },
+    {
+        "id": "135",
+        "polish": "nazywać",
+        "german": "nennen"
+    },
+    {
+        "id": "136",
+        "polish": "nosić",
+        "german": "tragen"
+    },
+    {
+        "id": "137",
+        "polish": "należeć",
+        "german": "gehören"
+    },
+    {
+        "id": "138",
+        "polish": "odpowiadać",
+        "german": "antworten"
+    },
+    {
+        "id": "139",
+        "polish": "otwierać",
+        "german": "öffnen"
+    },
+    {
+        "id": "140",
+        "polish": "oferować",
+        "german": "anbieten"
+    },
+    {
+        "id": "141",
+        "polish": "oferować",
+        "german": "bieten"
+    },
+    {
+        "id": "142",
+        "polish": "opowiadać",
+        "german": "erzählen"
+    },
+    {
+        "id": "143",
+        "polish": "otrzymywać",
+        "german": "erhalten, bekommen"
+    },
+    {
+        "id": "144",
+        "polish": "osiągać",
+        "german": "erreichen"
+    },
+    {
+        "id": "145",
+        "polish": "oczekiwać",
+        "german": "erwarten"
+    },
+    {
+        "id": "146",
+        "polish": "pływać",
+        "german": "schwimmen"
+    },
+    {
+        "id": "147",
+        "polish": "przypominać coś sobie",
+        "german": "erinnern"
+    },
+    {
+        "id": "148",
+        "polish": "przedstawiać",
+        "german": "vorstellen"
+    },
+    {
+        "id": "149",
+        "polish": "przysięgać",
+        "german": "schwören"
+    },
+    {
+        "id": "150",
+        "polish": "powstawać",
+        "german": "entstehen"
+    }
+]

@@ -1,0 +1,201 @@
+[ {
+  "id" : 201,
+  "polish" : "kierować, jechać samochodem",
+  "norwegian" : "kjøre / kjørte / kjørt"
+}, {
+  "id" : 202,
+  "polish" : "ubierać (się), rozbierać (się)",
+  "norwegian" : "kle / kledde / kledd"
+}, {
+  "id" : 203,
+  "polish" : "zawiązać, związać, przywiązać",
+  "norwegian" : "knytte / knyttet / knyttet"
+}, {
+  "id" : 204,
+  "polish" : "gotować",
+  "norwegian" : "koke / kokte / kokt"
+}, {
+  "id" : 205,
+  "polish" : "przyjść, pójść",
+  "norwegian" : "komme / kom / kommet"
+}, {
+  "id" : 206,
+  "polish" : "kontaktować się",
+  "norwegian" : "kontakte / kontaktet / kontaktet"
+}, {
+  "id" : 207,
+  "polish" : "kłócić się",
+  "norwegian" : "krangle / kranglet / kranglet"
+}, {
+  "id" : 208,
+  "polish" : "krytykować",
+  "norwegian" : "kritisere / kritiserte / kritisert"
+}, {
+  "id" : 209,
+  "polish" : "móc, umieć",
+  "norwegian" : "kunne / kunne / kunnet"
+}, {
+  "id" : 210,
+  "polish" : "żałować",
+  "norwegian" : "kysse / kysset / kysset"
+}, {
+  "id" : 211,
+  "polish" : "pozwalać",
+  "norwegian" : "la / lot / latt"
+}, {
+  "id" : 212,
+  "polish" : "robić, przygotowywać",
+  "norwegian" : "lage / laget / laget "
+}, {
+  "id" : 213,
+  "polish" : "śmiać się",
+  "norwegian" : "le / lo / ledd"
+}, {
+  "id" : 214,
+  "polish" : "kłaść",
+  "norwegian" : "legge / la / lagt"
+}, {
+  "id" : 215,
+  "polish" : "wynajmować, wypożyczać",
+  "norwegian" : "leie / leide / leid"
+}, {
+  "id" : 216,
+  "polish" : "bawić się",
+  "norwegian" : "leke / lekte / lekt"
+}, {
+  "id" : 217,
+  "polish" : "czytać",
+  "norwegian" : "lese / leste / lest"
+}, {
+  "id" : 218,
+  "polish" : "szukać",
+  "norwegian" : "lete / lette / lett"
+}, {
+  "id" : 219,
+  "polish" : "żyć",
+  "norwegian" : "leve / levde / levd"
+}, {
+  "id" : 220,
+  "polish" : "leżeć",
+  "norwegian" : "ligge / lå / ligget"
+}, {
+  "id" : 221,
+  "polish" : "lubić",
+  "norwegian" : "like / likte / likt"
+}, {
+  "id" : 222,
+  "polish" : "zamykać",
+  "norwegian" : "lukke / lukket / lukket"
+}, {
+  "id" : 223,
+  "polish" : "pachnieć, wąchać",
+  "norwegian" : "lukte / luktet / luktet"
+}, {
+  "id" : 224,
+  "polish" : "słuchać",
+  "norwegian" : "lytte / lyttet / lyttet"
+}, {
+  "id" : 225,
+  "polish" : "kłamać",
+  "norwegian" : "lyve / løy / løyet "
+}, {
+  "id" : 226,
+  "polish" : "uczyć",
+  "norwegian" : "lære / lærte / lært"
+}, {
+  "id" : 227,
+  "polish" : "biegać",
+  "norwegian" : "løpe / løp / løpt"
+}, {
+  "id" : 228,
+  "polish" : "pożyczać",
+  "norwegian" : "låne / lånte / lånt"
+}, {
+  "id" : 229,
+  "polish" : "zamykać na klucz",
+  "norwegian" : "låse / låste / låst"
+}, {
+  "id" : 230,
+  "polish" : "malować",
+  "norwegian" : "male / malte / malt "
+}, {
+  "id" : 231,
+  "polish" : "mieć na myśli, uważać",
+  "norwegian" : "mene / mente / ment"
+}, {
+  "id" : 232,
+  "polish" : "zauważać, zaznaczać",
+  "norwegian" : "merke / merket / merket"
+}, {
+  "id" : 233,
+  "polish" : "gubić, tracić",
+  "norwegian" : "miste / mistet / mistet"
+}, {
+  "id" : 234,
+  "polish" : "spotykać",
+  "norwegian" : "møte / møtte / møtt"
+}, {
+  "id" : 235,
+  "polish" : "musieć",
+  "norwegian" : "måtte / måtte / måttet"
+}, {
+  "id" : 236,
+  "polish" : "przelać , przenieść",
+  "norwegian" : "overføre / overførte / overført"
+}, {
+  "id" : 237,
+  "polish" : "pakować",
+  "norwegian" : "pakke / pakket / pakket"
+}, {
+  "id" : 238,
+  "polish" : "parkować",
+  "norwegian" : "parkere / parkerte / parkert"
+}, {
+  "id" : 239,
+  "polish" : "opiekować się, dbać",
+  "norwegian" : "passe / passet / passet"
+}, {
+  "id" : 240,
+  "polish" : "wskazywać",
+  "norwegian" : "peke / pekte / pekt "
+}, {
+  "id" : 241,
+  "polish" : "planować",
+  "norwegian" : "planlegge / planla / planlagt"
+}, {
+  "id" : 242,
+  "polish" : "rozmawiać",
+  "norwegian" : "prate / pratet / pratet "
+}, {
+  "id" : 243,
+  "polish" : "próbować",
+  "norwegian" : "prøve / prøvde / prøvd"
+}, {
+  "id" : 244,
+  "polish" : "czyścić",
+  "norwegian" : "pusse / pusset / pusset"
+}, {
+  "id" : 245,
+  "polish" : "oddychać",
+  "norwegian" : "puste / pustet / pustet"
+}, {
+  "id" : 246,
+  "polish" : "kłaść",
+  "norwegian" : "putte / puttet / puttet"
+}, {
+  "id" : 247,
+  "polish" : "czyścić",
+  "norwegian" : "rense / renset / renset"
+}, {
+  "id" : 248,
+  "polish" : "naprawiać, reperować",
+  "norwegian" : "reparere / reparerte / reparert"
+}, {
+  "id" : 249,
+  "polish" : "jeździć konno",
+  "norwegian" : "ri / red / ridd"
+}, {
+  "id" : 250,
+  "polish" : "sprzątać",
+  "norwegian" : "rydde / ryddet / ryddet"
+} ]

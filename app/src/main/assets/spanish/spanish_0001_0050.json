@@ -1,0 +1,252 @@
+[
+    {
+        "id": "1",
+        "polish": "jestem",
+        "spanish": "soy"
+    },
+    {
+        "id": "2",
+        "polish": "ja",
+        "spanish": "yo"
+    },
+    {
+        "id": "3",
+        "polish": "ty",
+        "spanish": "tú"
+    },
+    {
+        "id": "4",
+        "polish": "kobieta(jakas)",
+        "spanish": "una mujer"
+    },
+    {
+        "id": "5",
+        "polish": "mezczyzna(jakiś)",
+        "spanish": "un hombre"
+    },
+    {
+        "id": "6",
+        "polish": "kobieta(ta)",
+        "spanish": "la mujer"
+    },
+    {
+        "id": "7",
+        "polish": "mezczyzna(ten)",
+        "spanish": "el hombre"
+    },
+    {
+        "id": "8",
+        "polish": "on",
+        "spanish": "él"
+    },
+    {
+        "id": "9",
+        "polish": "ona",
+        "spanish": "ella"
+    },
+    {
+        "id": "10",
+        "polish": "my",
+        "spanish": "nosotros, nosotras"
+    },
+    {
+        "id": "11",
+        "polish": "wy",
+        "spanish": "vosotros, vosotras"
+    },
+    {
+        "id": "12",
+        "polish": "oni",
+        "spanish": "ellos"
+    },
+    {
+        "id": "13",
+        "polish": "one",
+        "spanish": "ellas"
+    },
+    {
+        "id": "14",
+        "polish": "Pan, pani",
+        "spanish": "usted"
+    },
+    {
+        "id": "15",
+        "polish": "Panstwo",
+        "spanish": "ustedes"
+    },
+    {
+        "id": "16",
+        "polish": "dziewczynka(jakas)",
+        "spanish": "una niña"
+    },
+    {
+        "id": "17",
+        "polish": "chłopiec(jakiś)",
+        "spanish": "un nino"
+    },
+    {
+        "id": "18",
+        "polish": "dziewczynka(ta)",
+        "spanish": "la niña"
+    },
+    {
+        "id": "19",
+        "polish": "chłopiec(jakiś)",
+        "spanish": "el nino"
+    },
+    {
+        "id": "20",
+        "polish": "jeść",
+        "spanish": "comer"
+    },
+    {
+        "id": "21",
+        "polish": "jabłko",
+        "spanish": "manzanas"
+    },
+    {
+        "id": "22",
+        "polish": "chleb",
+        "spanish": "el pan"
+    },
+    {
+        "id": "23",
+        "polish": "pić",
+        "spanish": "beber"
+    },
+    {
+        "id": "24",
+        "polish": "otwierać",
+        "spanish": "abrir"
+    },
+    {
+        "id": "25",
+        "polish": "iść na piechotę",
+        "spanish": "andar"
+    },
+    {
+        "id": "26",
+        "polish": "szukać",
+        "spanish": "buscar"
+    },
+    {
+        "id": "27",
+        "polish": "przewracać się",
+        "spanish": "caerse"
+    },
+    {
+        "id": "28",
+        "polish": "iść na piechotę",
+        "spanish": "caminar"
+    },
+    {
+        "id": "29",
+        "polish": "zamykać",
+        "spanish": "cerrar"
+    },
+    {
+        "id": "30",
+        "polish": "zaczynać",
+        "spanish": "comenzar(empezar)"
+    },
+    {
+        "id": "31",
+        "polish": "jeść",
+        "spanish": "comer"
+    },
+    {
+        "id": "32",
+        "polish": "kupować",
+        "spanish": "comprar"
+    },
+    {
+        "id": "33",
+        "polish": "prowadzić samochód",
+        "spanish": "conducir"
+    },
+    {
+        "id": "34",
+        "polish": "znać",
+        "spanish": "conocer"
+    },
+    {
+        "id": "35",
+        "polish": "dawać",
+        "spanish": "dar"
+    },
+    {
+        "id": "36",
+        "polish": "powiedzieć",
+        "spanish": "decir"
+    },
+    {
+        "id": "37",
+        "polish": "spać",
+        "spanish": "dormir"
+    },
+    {
+        "id": "38",
+        "polish": "znaleźć",
+        "spanish": "encontrar"
+    },
+    {
+        "id": "39",
+        "polish": "rozumieć",
+        "spanish": "entender"
+    },
+    {
+        "id": "40",
+        "polish": "pisać",
+        "spanish": "escribir"
+    },
+    {
+        "id": "41",
+        "polish": "słuchać",
+        "spanish": "escuchar"
+    },
+    {
+        "id": "42",
+        "polish": "być (chwilowe)",
+        "spanish": "estar"
+    },
+    {
+        "id": "43",
+        "polish": "rozmawiać",
+        "spanish": "hablar"
+    },
+    {
+        "id": "44",
+        "polish": "robić",
+        "spanish": "hacer"
+    },
+    {
+        "id": "45",
+        "polish": "iść, jechać",
+        "spanish": "ir"
+    },
+    {
+        "id": "46",
+        "polish": "grać, bawić się",
+        "spanish": "jugar"
+    },
+    {
+        "id": "47",
+        "polish": "czytać",
+        "spanish": "leer"
+    },
+    {
+        "id": "48",
+        "polish": "dojeżdżać",
+        "spanish": "llegar"
+    },
+    {
+        "id": "49",
+        "polish": "patrzeć",
+        "spanish": "mirar"
+    },
+    {
+        "id": "50",
+        "polish": "potrzebować",
+        "spanish": "necesitar"
+    }
+]

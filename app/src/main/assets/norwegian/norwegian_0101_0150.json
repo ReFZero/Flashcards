@@ -1,0 +1,201 @@
+[ {
+  "id" : 101,
+  "polish" : "polecać",
+  "norwegian" : "anbefale / anbefalte / anbefalt "
+}, {
+  "id" : 102,
+  "polish" : "żałować",
+  "norwegian" : "angre / angret / angret"
+}, {
+  "id" : 103,
+  "polish" : "pracować",
+  "norwegian" : "arbeide / arbeidet / arbeidet "
+}, {
+  "id" : 104,
+  "polish" : "kończyć, dokończyć, zakończyć",
+  "norwegian" : "avslutte / avsluttet / avsluttet"
+}, {
+  "id" : 105,
+  "polish" : "przerywać, przeszkadzać",
+  "norwegian" : "avbryte / avbrøt / avbrutt"
+}, {
+  "id" : 106,
+  "polish" : "reklamować, głosić",
+  "norwegian" : "avertere / averterte / avertert "
+}, {
+  "id" : 107,
+  "polish" : "kąpać się",
+  "norwegian" : "bade / badet / badet"
+}, {
+  "id" : 108,
+  "polish" : "piec",
+  "norwegian" : "bake / bakte / bakt"
+}, {
+  "id" : 109,
+  "polish" : "pukać, stukać, trzepać",
+  "norwegian" : "banke / banket / banket"
+}, {
+  "id" : 110,
+  "polish" : "golić (seg - się)",
+  "norwegian" : "barbere / barberte / barbert"
+}, {
+  "id" : 111,
+  "polish" : "prosić, błagać",
+  "norwegian" : "be (om) / ba (om) / bedt (om)"
+}, {
+  "id" : 112,
+  "polish" : "ograniczać",
+  "norwegian" : "begrense / begrenset / begrenset"
+}, {
+  "id" : 113,
+  "polish" : "pojmować, rozumieć",
+  "norwegian" : "begripe / begre(i)p / begrepet"
+}, {
+  "id" : 114,
+  "polish" : "rozpoczynać",
+  "norwegian" : "begynne / begynte / begynt"
+}, {
+  "id" : 115,
+  "polish" : "przepraszać",
+  "norwegian" : "beklage / beklaget / beklaget"
+}, {
+  "id" : 116,
+  "polish" : "potwierdzać, poświadczać",
+  "norwegian" : "bekrefte / bekreftet / bekreftet"
+}, {
+  "id" : 117,
+  "polish" : "pokonywać",
+  "norwegian" : "beseire / beseiret / beseiret"
+}, {
+  "id" : 118,
+  "polish" : "opisywać",
+  "norwegian" : "beskrive / beskrev / beskrevet"
+}, {
+  "id" : 119,
+  "polish" : "decydować",
+  "norwegian" : "bestemme / bestemte / bestemt"
+}, {
+  "id" : 120,
+  "polish" : "zamawiać",
+  "norwegian" : "bestille / bestilte / bestilt"
+}, {
+  "id" : 121,
+  "polish" : "zdać (egamin, test, itp.)",
+  "norwegian" : "bestå / besto / bestått"
+}, {
+  "id" : 122,
+  "polish" : "odpowiadać",
+  "norwegian" : "besvare / besvarte / besvart"
+}, {
+  "id" : 123,
+  "polish" : "odwiedzać, uczęszczać",
+  "norwegian" : "besøke / besøkte / besøkt"
+}, {
+  "id" : 124,
+  "polish" : "płacić",
+  "norwegian" : "betale / betalte / betalt "
+}, {
+  "id" : 125,
+  "polish" : "znaczyć",
+  "norwegian" : "bety / betydde / betydd"
+}, {
+  "id" : 126,
+  "polish" : "wiązać",
+  "norwegian" : "binde / bandt / bundet"
+}, {
+  "id" : 127,
+  "polish" : "gryźć",
+  "norwegian" : "bite / bet / bitt"
+}, {
+  "id" : 128,
+  "polish" : "stawać się",
+  "norwegian" : "bli / ble / blitt"
+}, {
+  "id" : 129,
+  "polish" : "wiać",
+  "norwegian" : "blåse / blåste / blåst"
+}, {
+  "id" : 130,
+  "polish" : "mieszkać",
+  "norwegian" : "bo / bodde / bodd"
+}, {
+  "id" : 131,
+  "polish" : "łamać",
+  "norwegian" : "brekke / brakk / brukket"
+}, {
+  "id" : 132,
+  "polish" : "palić (nie w odniesieniu do palenia nikotyny)",
+  "norwegian" : "brenne / brente / brent"
+}, {
+  "id" : 133,
+  "polish" : "przynosić",
+  "norwegian" : "bringe / brakte / brakt"
+}, {
+  "id" : 134,
+  "polish" : "pękać",
+  "norwegian" : "briste / brast / bristet"
+}, {
+  "id" : 135,
+  "polish" : "używać, stosować",
+  "norwegian" : "bruke / brukte / brukt"
+}, {
+  "id" : 136,
+  "polish" : "troszczyć się o..., zalezeć na...",
+  "norwegian" : "bry seg om / brydde seg om / brydd seg om"
+}, {
+  "id" : 137,
+  "polish" : "zbić, rozbić, łamać",
+  "norwegian" : "bryte / brøt / brutt"
+}, {
+  "id" : 138,
+  "polish" : "hałasować",
+  "norwegian" : "bråke / bråket / bråket"
+}, {
+  "id" : 139,
+  "polish" : "oferować, zapraszać",
+  "norwegian" : "by / bydde / bydd"
+}, {
+  "id" : 140,
+  "polish" : "budować",
+  "norwegian" : "bygge / bygde / bygd"
+}, {
+  "id" : 141,
+  "polish" : "nosić",
+  "norwegian" : "bære / bar / båret"
+}, {
+  "id" : 142,
+  "polish" : "tańczyć",
+  "norwegian" : "danse / danset / danset"
+}, {
+  "id" : 143,
+  "polish" : "zakryć, przykryć, nakryć",
+  "norwegian" : "dekke / dekket / dekket "
+}, {
+  "id" : 144,
+  "polish" : "spadać",
+  "norwegian" : "dette / datt / dettet"
+}, {
+  "id" : 145,
+  "polish" : "dyskutować",
+  "norwegian" : "diskutere / diskuterte / diskutert"
+}, {
+  "id" : 146,
+  "polish" : "wyjeżdżać, udawać się",
+  "norwegian" : "dra / dro / dratt"
+}, {
+  "id" : 147,
+  "polish" : "pić",
+  "norwegian" : "drikke / drakk / drukket"
+}, {
+  "id" : 148,
+  "polish" : "brać prysznic",
+  "norwegian" : "dusje / dusjet / dusjet"
+}, {
+  "id" : 149,
+  "polish" : "posiadać",
+  "norwegian" : "eie / eide / eid"
+}, {
+  "id" : 150,
+  "polish" : "kochać",
+  "norwegian" : "elske / elsket / elsket"
+} ]

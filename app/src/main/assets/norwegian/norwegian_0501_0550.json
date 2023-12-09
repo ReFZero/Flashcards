@@ -1,0 +1,201 @@
+[ {
+  "id" : 501,
+  "polish" : "zdrowie",
+  "norwegian" : "ei helse"
+}, {
+  "id" : 502,
+  "polish" : "kasa",
+  "norwegian" : "ei kasse"
+}, {
+  "id" : 503,
+  "polish" : "mysz",
+  "norwegian" : "ei mus"
+}, {
+  "id" : 504,
+  "polish" : "śmieci",
+  "norwegian" : "ei soppel"
+}, {
+  "id" : 505,
+  "polish" : "nożyczki",
+  "norwegian" : "ei saks"
+}, {
+  "id" : 506,
+  "polish" : "kot",
+  "norwegian" : "ei katt"
+}, {
+  "id" : 507,
+  "polish" : "strona",
+  "norwegian" : "ei side"
+}, {
+  "id" : 508,
+  "polish" : "książka",
+  "norwegian" : "ei bok"
+}, {
+  "id" : 509,
+  "polish" : "gazeta",
+  "norwegian" : "ei avis"
+}, {
+  "id" : 510,
+  "polish" : "noc",
+  "norwegian" : "ei natt"
+}, {
+  "id" : 511,
+  "polish" : "ciasto",
+  "norwegian" : "ei kake"
+}, {
+  "id" : 512,
+  "polish" : "zegar",
+  "norwegian" : "ei klokke"
+}, {
+  "id" : 513,
+  "polish" : "drzwi",
+  "norwegian" : "ei dør"
+}, {
+  "id" : 514,
+  "polish" : "klase",
+  "norwegian" : "ei klasse"
+}, {
+  "id" : 515,
+  "polish" : "włosy",
+  "norwegian" : "et hår"
+}, {
+  "id" : 516,
+  "polish" : "salon",
+  "norwegian" : "ei stue"
+}, {
+  "id" : 517,
+  "polish" : "prom",
+  "norwegian" : "ei ferje"
+}, {
+  "id" : 518,
+  "polish" : "wóz",
+  "norwegian" : "ei vogn"
+}, {
+  "id" : 519,
+  "polish" : "mazak, pisak",
+  "norwegian" : "en tusj"
+}, {
+  "id" : 520,
+  "polish" : "most",
+  "norwegian" : "en bro"
+}, {
+  "id" : 521,
+  "polish" : "drewno",
+  "norwegian" : "et tre"
+}, {
+  "id" : 522,
+  "polish" : "serce",
+  "norwegian" : "et hjerte"
+}, {
+  "id" : 523,
+  "polish" : "ucho",
+  "norwegian" : "et øre"
+}, {
+  "id" : 524,
+  "polish" : "adres",
+  "norwegian" : "ei adresse"
+}, {
+  "id" : 525,
+  "polish" : "język",
+  "norwegian" : "ei tunge"
+}, {
+  "id" : 526,
+  "polish" : "regał",
+  "norwegian" : "ei hylle"
+}, {
+  "id" : 527,
+  "polish" : "ciocia",
+  "norwegian" : "ei tante"
+}, {
+  "id" : 528,
+  "polish" : "port",
+  "norwegian" : "ei havn"
+}, {
+  "id" : 529,
+  "polish" : "pociąg",
+  "norwegian" : "et tog"
+}, {
+  "id" : 530,
+  "polish" : "samolot",
+  "norwegian" : "et fly"
+}, {
+  "id" : 531,
+  "polish" : "telewizor",
+  "norwegian" : "en tv-apparat"
+}, {
+  "id" : 532,
+  "polish" : "twarz",
+  "norwegian" : "et ansikt"
+}, {
+  "id" : 533,
+  "polish" : "stacja",
+  "norwegian" : "en stasjon"
+}, {
+  "id" : 534,
+  "polish" : "lampa",
+  "norwegian" : "ei lampe"
+}, {
+  "id" : 535,
+  "polish" : "głowa",
+  "norwegian" : "et hode"
+}, {
+  "id" : 536,
+  "polish" : "ząb",
+  "norwegian" : "ei tann"
+}, {
+  "id" : 537,
+  "polish" : "szyja, gardło",
+  "norwegian" : "en hals"
+}, {
+  "id" : 538,
+  "polish" : "podłoga",
+  "norwegian" : "et gulv"
+}, {
+  "id" : 539,
+  "polish" : "pokój",
+  "norwegian" : "et rom"
+}, {
+  "id" : 540,
+  "polish" : "pokój dziecięcy",
+  "norwegian" : "et barnerom"
+}, {
+  "id" : 541,
+  "polish" : "kuchnia",
+  "norwegian" : "ei kjøkken"
+}, {
+  "id" : 542,
+  "polish" : "dom",
+  "norwegian" : "et hjem"
+}, {
+  "id" : 543,
+  "polish" : "łazienka",
+  "norwegian" : "et bad"
+}, {
+  "id" : 544,
+  "polish" : "toaleta",
+  "norwegian" : "et toalett"
+}, {
+  "id" : 545,
+  "polish" : "piwo",
+  "norwegian" : "et øl"
+}, {
+  "id" : 546,
+  "polish" : "statek",
+  "norwegian" : "et skip"
+}, {
+  "id" : 547,
+  "polish" : "żona",
+  "norwegian" : "ei kone"
+}, {
+  "id" : 548,
+  "polish" : "długopis",
+  "norwegian" : "en penn"
+}, {
+  "id" : 549,
+  "polish" : "fotel",
+  "norwegian" : "en lanestol"
+}, {
+  "id" : 550,
+  "polish" : "oczywiście",
+  "norwegian" : "selvfølgelig"
+} ]

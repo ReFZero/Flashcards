@@ -1,0 +1,252 @@
+[
+    {
+        "id": "301",
+        "polish": "Jak? W jaki sposób?",
+        "spanish": "¿Cómo?"
+    },
+    {
+        "id": "302",
+        "polish": "Jak się masz?",
+        "spanish": "¿Cómo estás? "
+    },
+    {
+        "id": "303",
+        "polish": "Jak ci leci?",
+        "spanish": "¿Cómo te va?"
+    },
+    {
+        "id": "304",
+        "polish": "Kiedy?",
+        "spanish": "¿Cuándo?"
+    },
+    {
+        "id": "305",
+        "polish": "Kiedy ci pasuje?",
+        "spanish": "¿Cuándo te va bien?"
+    },
+    {
+        "id": "306",
+        "polish": "Kiedy wrócisz?",
+        "spanish": "¿Cuándo vuelves?"
+    },
+    {
+        "id": "307",
+        "polish": "Ile?",
+        "spanish": "¿Cuánto?  ¿cuánto/a/os/as? "
+    },
+    {
+        "id": "308",
+        "polish": "Gdzie?",
+        "spanish": "¿Dónde?"
+    },
+    {
+        "id": "309",
+        "polish": "Gdzie jesteś?",
+        "spanish": "¿Dónde estás? "
+    },
+    {
+        "id": "310",
+        "polish": "Jaki? Który? ",
+        "spanish": "¿Cuál?"
+    },
+    {
+        "id": "311",
+        "polish": "Jaki? Który? (liczba mnoga)",
+        "spanish": "¿Cuáles?  "
+    },
+    {
+        "id": "312",
+        "polish": "Jaki jest twój problem?",
+        "spanish": "¿Cuál es tu problema?"
+    },
+    {
+        "id": "313",
+        "polish": "Dlaczego?",
+        "spanish": "¿Por qué?"
+    },
+    {
+        "id": "314",
+        "polish": "Dlaczego nie?",
+        "spanish": "¿Por qué no?"
+    },
+    {
+        "id": "315",
+        "polish": "Z kim?",
+        "spanish": "¿Con quién?   "
+    },
+    {
+        "id": "316",
+        "polish": "Czyj? Czyje? Czyja? Kogo?",
+        "spanish": "¿De quién?  "
+    },
+    {
+        "id": "317",
+        "polish": "Dla kogo?",
+        "spanish": "¿Para quién?  "
+    },
+    {
+        "id": "318",
+        "polish": "O czym? Z czego?",
+        "spanish": "¿De qué? "
+    },
+    {
+        "id": "319",
+        "polish": "Skad?",
+        "spanish": "¿De dónde?"
+    },
+    {
+        "id": "320",
+        "polish": " Dokąd?",
+        "spanish": "¿Adónde?   "
+    },
+    {
+        "id": "321",
+        "polish": "biały",
+        "spanish": "blanco"
+    },
+    {
+        "id": "322",
+        "polish": "szary",
+        "spanish": "gris"
+    },
+    {
+        "id": "323",
+        "polish": "czarny ",
+        "spanish": "negro"
+    },
+    {
+        "id": "324",
+        "polish": "zielony",
+        "spanish": "verde"
+    },
+    {
+        "id": "325",
+        "polish": "niebieski",
+        "spanish": "azul"
+    },
+    {
+        "id": "326",
+        "polish": "purpurowy",
+        "spanish": "púrpura"
+    },
+    {
+        "id": "327",
+        "polish": "fioletowy",
+        "spanish": "morado"
+    },
+    {
+        "id": "328",
+        "polish": "różowy",
+        "spanish": "rosa"
+    },
+    {
+        "id": "329",
+        "polish": "żółty",
+        "spanish": "amarillo"
+    },
+    {
+        "id": "330",
+        "polish": "pomarańczowy",
+        "spanish": "naranja"
+    },
+    {
+        "id": "331",
+        "polish": "czerwony",
+        "spanish": "rojo"
+    },
+    {
+        "id": "332",
+        "polish": "brązowy",
+        "spanish": "marrón"
+    },
+    {
+        "id": "333",
+        "polish": "pomarańcza",
+        "spanish": "la naranja"
+    },
+    {
+        "id": "334",
+        "polish": "cytryna",
+        "spanish": "el limón eureka"
+    },
+    {
+        "id": "335",
+        "polish": "limonka",
+        "spanish": "el limón"
+    },
+    {
+        "id": "336",
+        "polish": "grejpfrut",
+        "spanish": "la toronja"
+    },
+    {
+        "id": "337",
+        "polish": "mandarynka",
+        "spanish": "la mandarina"
+    },
+    {
+        "id": "338",
+        "polish": "limonka",
+        "spanish": "la lima"
+    },
+    {
+        "id": "339",
+        "polish": "cytron",
+        "spanish": "el cidro"
+    },
+    {
+        "id": "340",
+        "polish": "czerwone pomarańcze",
+        "spanish": "la naranja roja"
+    },
+    {
+        "id": "341",
+        "polish": "brzoskwinia",
+        "spanish": "el durazno"
+    },
+    {
+        "id": "342",
+        "polish": "śliwka",
+        "spanish": "la ciruela"
+    },
+    {
+        "id": "343",
+        "polish": "wiśnia",
+        "spanish": "la cereza"
+    },
+    {
+        "id": "344",
+        "polish": "nektarynka",
+        "spanish": "la nectarina"
+    },
+    {
+        "id": "345",
+        "polish": "morela",
+        "spanish": "el chabacano"
+    },
+    {
+        "id": "346",
+        "polish": "mango",
+        "spanish": "el mango"
+    },
+    {
+        "id": "347",
+        "polish": "oliwka",
+        "spanish": "la aceituna"
+    },
+    {
+        "id": "348",
+        "polish": "kokos",
+        "spanish": "el coco"
+    },
+    {
+        "id": "349",
+        "polish": "daktyl",
+        "spanish": "el dátil"
+    },
+    {
+        "id": "350",
+        "polish": "truskawka",
+        "spanish": "la fresa"
+    }
+]

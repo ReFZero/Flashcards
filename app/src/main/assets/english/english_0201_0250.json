@@ -1,0 +1,252 @@
+[
+    {
+        "id": 201,
+        "polish": "nocleg ze śniadaniem",
+        "english": "bed and breakfast"
+    },
+    {
+        "id": 202,
+        "polish": "stolik nocny",
+        "english": "bedside table"
+    },
+    {
+        "id": 203,
+        "polish": "napój",
+        "english": "beverage"
+    },
+    {
+        "id": 204,
+        "polish": "kosz na śmieci, śmietnik",
+        "english": "bin"
+    },
+    {
+        "id": 205,
+        "polish": "gorzki",
+        "english": "bitter"
+    },
+    {
+        "id": 206,
+        "polish": "wina",
+        "english": "blame"
+    },
+    {
+        "id": 207,
+        "polish": "bluzka",
+        "english": "blouse"
+    },
+    {
+        "id": 208,
+        "polish": "wejść na pokład, wsiąść do",
+        "english": "board"
+    },
+    {
+        "id": 209,
+        "polish": "bagażnik",
+        "english": "boot"
+    },
+    {
+        "id": 210,
+        "polish": "dno",
+        "english": "bottom"
+    },
+    {
+        "id": 211,
+        "polish": "oddział",
+        "english": "branch"
+    },
+    {
+        "id": 212,
+        "polish": "odważnie, śmiało, dzielnie",
+        "english": "bravely"
+    },
+    {
+        "id": 213,
+        "polish": "zerwać z kimś, zakończyć związek; rozpaść się",
+        "english": "break up"
+    },
+    {
+        "id": 214,
+        "polish": "panna młoda",
+        "english": "bride"
+    },
+    {
+        "id": 215,
+        "polish": "wychowywać",
+        "english": "bring up"
+    },
+    {
+        "id": 216,
+        "polish": "szeroki",
+        "english": "broad"
+    },
+    {
+        "id": 217,
+        "polish": "rosół",
+        "english": "broth"
+    },
+    {
+        "id": 218,
+        "polish": "pęk, bukiet, kiść",
+        "english": "bunch"
+    },
+    {
+        "id": 219,
+        "polish": "wybuchnąć płaczem",
+        "english": "burst into tears"
+    },
+    {
+        "id": 220,
+        "polish": "zakopać, pochować, pogrzebać",
+        "english": "bury"
+    },
+    {
+        "id": 221,
+        "polish": "taksówka",
+        "english": "cab"
+    },
+    {
+        "id": 222,
+        "polish": "kapusta",
+        "english": "cabbage"
+    },
+    {
+        "id": 223,
+        "polish": "cielę",
+        "english": "calf"
+    },
+    {
+        "id": 224,
+        "polish": "nazywać, zwracać się do kogoś",
+        "english": "call"
+    },
+    {
+        "id": 225,
+        "polish": "cisza, spokój",
+        "english": "calm"
+    },
+    {
+        "id": 226,
+        "polish": "stołówka, jadłodajnia",
+        "english": "canteen"
+    },
+    {
+        "id": 227,
+        "polish": "świeca",
+        "english": "candle"
+    },
+    {
+        "id": 228,
+        "polish": "beztroski",
+        "english": "carefree"
+    },
+    {
+        "id": 229,
+        "polish": "niedbały, lekkomyślny, niefrasobliwy",
+        "english": "careless"
+    },
+    {
+        "id": 230,
+        "polish": "bydło",
+        "english": "cattle"
+    },
+    {
+        "id": 231,
+        "polish": "pewny",
+        "english": "certain"
+    },
+    {
+        "id": 232,
+        "polish": "opłata",
+        "english": "charge"
+    },
+    {
+        "id": 233,
+        "polish": "czarujący, uroczy",
+        "english": "charming"
+    },
+    {
+        "id": 234,
+        "polish": "meldować się, zgłosić się do odprawy",
+        "english": "check in"
+    },
+    {
+        "id": 235,
+        "polish": "wymeldować się",
+        "english": "check out"
+    },
+    {
+        "id": 236,
+        "polish": "odprawa",
+        "english": "check-in"
+    },
+    {
+        "id": 237,
+        "polish": "kasa",
+        "english": "checkout"
+    },
+    {
+        "id": 238,
+        "polish": "policzek",
+        "english": "cheek"
+    },
+    {
+        "id": 239,
+        "polish": "wesoły, radosny",
+        "english": "cheerful"
+    },
+    {
+        "id": 240,
+        "polish": "komoda",
+        "english": "chest of drawers"
+    },
+    {
+        "id": 241,
+        "polish": "dzieciństwo",
+        "english": "childhood"
+    },
+    {
+        "id": 242,
+        "polish": "podbródek, broda",
+        "english": "chin"
+    },
+    {
+        "id": 243,
+        "polish": "trenerka, trener",
+        "english": "coach"
+    },
+    {
+        "id": 244,
+        "polish": "wybrzeże",
+        "english": "coast"
+    },
+    {
+        "id": 245,
+        "polish": "kołnierz",
+        "english": "collar"
+    },
+    {
+        "id": 246,
+        "polish": "czesać",
+        "english": "comb"
+    },
+    {
+        "id": 247,
+        "polish": "częsty, powszechny; pospolity",
+        "english": "common"
+    },
+    {
+        "id": 248,
+        "polish": "dojeżdżać (do szkoły, pracy)",
+        "english": "commute"
+    },
+    {
+        "id": 249,
+        "polish": "startować, brać udział; rywalizować",
+        "english": "compete"
+    },
+    {
+        "id": 250,
+        "polish": "zawodnik, rywal",
+        "english": "competitor"
+    }
+]

@@ -1,0 +1,252 @@
+[
+    {
+        "id": 351,
+        "polish": "wynająć, wypożyczyć",
+        "english": "hire"
+    },
+    {
+        "id": 352,
+        "polish": "łapać autostop, jeździć autostopem",
+        "english": "hitchhike"
+    },
+    {
+        "id": 353,
+        "polish": "beznadziejny; bezradny, rozpaczliwy",
+        "english": "hopeless"
+    },
+    {
+        "id": 354,
+        "polish": "pełen nadziei, optymistyczny",
+        "english": "hopeful"
+    },
+    {
+        "id": 355,
+        "polish": "wilgotny",
+        "english": "humid"
+    },
+    {
+        "id": 356,
+        "polish": "choroba",
+        "english": "illness"
+    },
+    {
+        "id": 357,
+        "polish": "kontrola paszportowa",
+        "english": "immigration"
+    },
+    {
+        "id": 358,
+        "polish": "usprawnienie, ulepszenie",
+        "english": "improvement"
+    },
+    {
+        "id": 359,
+        "polish": "niewiarygodny; niesamowity",
+        "english": "incredible"
+    },
+    {
+        "id": 360,
+        "polish": "do domu, w domu, wewnątrz",
+        "english": "indoors"
+    },
+    {
+        "id": 361,
+        "polish": "przemysł",
+        "english": "industry"
+    },
+    {
+        "id": 362,
+        "polish": "niedrogi",
+        "english": "inexpensive"
+    },
+    {
+        "id": 363,
+        "polish": "zranić, uszkodzić, kontuzjować",
+        "english": "injure"
+    },
+    {
+        "id": 364,
+        "polish": "nalegać",
+        "english": "insist"
+    },
+    {
+        "id": 365,
+        "polish": "przerwa, antrakt",
+        "english": "interval"
+    },
+    {
+        "id": 366,
+        "polish": "zazdrosny",
+        "english": "jealous"
+    },
+    {
+        "id": 367,
+        "polish": "uprzejmie",
+        "english": "kindly"
+    },
+    {
+        "id": 368,
+        "polish": "rekreacja, czas wolny",
+        "english": "leisure"
+    },
+    {
+        "id": 369,
+        "polish": "sałata",
+        "english": "lettuce"
+    },
+    {
+        "id": 370,
+        "polish": "żwawy, ożywiony",
+        "english": "lively"
+    },
+    {
+        "id": 371,
+        "polish": "ciężarówka",
+        "english": "lorry"
+    },
+    {
+        "id": 372,
+        "polish": "wspaniały",
+        "english": "magnificent"
+    },
+    {
+        "id": 373,
+        "polish": "centrum handlowe",
+        "english": "mall"
+    },
+    {
+        "id": 374,
+        "polish": "cudowny, wspaniały",
+        "english": "marvellous"
+    },
+    {
+        "id": 375,
+        "polish": "dopasować; pasować",
+        "english": "match"
+    },
+    {
+        "id": 376,
+        "polish": "naprawić, zreperować",
+        "english": "mend"
+    },
+    {
+        "id": 377,
+        "polish": "łagodny (pogoda, klimat)",
+        "english": "mild"
+    },
+    {
+        "id": 378,
+        "polish": "mieć coś przeciwko",
+        "english": "mind"
+    },
+    {
+        "id": 379,
+        "polish": "humorzasty, marudny",
+        "english": "moody"
+    },
+    {
+        "id": 380,
+        "polish": "wprowadzić się",
+        "english": "move in"
+    },
+    {
+        "id": 381,
+        "polish": "wyprowadzić się",
+        "english": "move out"
+    },
+    {
+        "id": 382,
+        "polish": "wąski",
+        "english": "narrow"
+    },
+    {
+        "id": 383,
+        "polish": "naprzeciwko",
+        "english": "opposite"
+    },
+    {
+        "id": 384,
+        "polish": "zwyczajny, zwykły",
+        "english": "ordinary"
+    },
+    {
+        "id": 385,
+        "polish": "na świeżym powietrzu, na dworze, odkryty",
+        "english": "outdoor"
+    },
+    {
+        "id": 386,
+        "polish": "przepustka, bilet okresowy",
+        "english": "pass"
+    },
+    {
+        "id": 387,
+        "polish": "chodnik",
+        "english": "pavement"
+    },
+    {
+        "id": 388,
+        "polish": "groszek",
+        "english": "pea"
+    },
+    {
+        "id": 389,
+        "polish": "szczyt",
+        "english": "peak"
+    },
+    {
+        "id": 390,
+        "polish": "pieszy",
+        "english": "pedestrian"
+    },
+    {
+        "id": 391,
+        "polish": "zbierać (np. kwiaty)",
+        "english": "pick"
+    },
+    {
+        "id": 392,
+        "polish": "stos",
+        "english": "pile"
+    },
+    {
+        "id": 393,
+        "polish": "mnóstwo, wiele, pod dostatkiem, wystarczająco dużo",
+        "english": "plenty"
+    },
+    {
+        "id": 394,
+        "polish": "wtyczka",
+        "english": "plug"
+    },
+    {
+        "id": 395,
+        "polish": "uprzejmie, grzecznie",
+        "english": "politely"
+    },
+    {
+        "id": 396,
+        "polish": "przełożyć (na inny termin)",
+        "english": "postpone"
+    },
+    {
+        "id": 397,
+        "polish": "nalewać",
+        "english": "pour"
+    },
+    {
+        "id": 398,
+        "polish": "recepta",
+        "english": "prescription"
+    },
+    {
+        "id": 399,
+        "polish": "zapobiegać; powstrzymać, nie dopuścić",
+        "english": "prevent"
+    },
+    {
+        "id": 400,
+        "polish": "podstawowy (szkoła, edukacja, itp.)",
+        "english": "primary"
+    }
+]

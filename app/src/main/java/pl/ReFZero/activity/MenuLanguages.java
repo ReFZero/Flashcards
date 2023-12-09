@@ -19,7 +19,7 @@ public class MenuLanguages extends AppCompatActivity {
     @SuppressLint("WrongViewCast")
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_languages);
+        setContentView(R.layout.activity_menu_languages);
 
         List<ImageButton> languageButtons = getLanguageButtons();
         assignButtonListeners(languageButtons);

@@ -1,0 +1,252 @@
+[
+    {
+        "id": "351",
+        "polish": "jagoda",
+        "spanish": "la mora azul"
+    },
+    {
+        "id": "352",
+        "polish": "malina",
+        "spanish": "la frambuesa"
+    },
+    {
+        "id": "353",
+        "polish": "jeżyna",
+        "spanish": "la zarzamora"
+    },
+    {
+        "id": "354",
+        "polish": "żurawina",
+        "spanish": "el arándano"
+    },
+    {
+        "id": "355",
+        "polish": "agrest",
+        "spanish": "la grosella"
+    },
+    {
+        "id": "356",
+        "polish": "czarna porzeczka",
+        "spanish": "la grosella negra"
+    },
+    {
+        "id": "357",
+        "polish": "arbuz",
+        "spanish": "la sandía"
+    },
+    {
+        "id": "358",
+        "polish": "awokado",
+        "spanish": "el aguacate"
+    },
+    {
+        "id": "359",
+        "polish": "banan",
+        "spanish": "el plátano"
+    },
+    {
+        "id": "360",
+        "polish": "smoczy owoc",
+        "spanish": "la pitahaya"
+    },
+    {
+        "id": "361",
+        "polish": "kiwi",
+        "spanish": "el kiwi"
+    },
+    {
+        "id": "362",
+        "polish": "papaja",
+        "spanish": "la papaya"
+    },
+    {
+        "id": "363",
+        "polish": "ananas",
+        "spanish": "la piña"
+    },
+    {
+        "id": "364",
+        "polish": "smoczy owoc",
+        "spanish": "la pitaya"
+    },
+    {
+        "id": "365",
+        "polish": "ciężarówka ",
+        "spanish": "el camión "
+    },
+    {
+        "id": "366",
+        "polish": "pociąg ",
+        "spanish": "el tren "
+    },
+    {
+        "id": "367",
+        "polish": "autobus ",
+        "spanish": "el autobùs, el bus"
+    },
+    {
+        "id": "368",
+        "polish": "samochód ",
+        "spanish": "el coche, el automovil"
+    },
+    {
+        "id": "369",
+        "polish": "tramwaj ",
+        "spanish": "la tranbía"
+    },
+    {
+        "id": "370",
+        "polish": "motocykl ",
+        "spanish": "la moto"
+    },
+    {
+        "id": "371",
+        "polish": "rower ",
+        "spanish": "la bicicleta "
+    },
+    {
+        "id": "372",
+        "polish": "motorower",
+        "spanish": "la motocicleta"
+    },
+    {
+        "id": "373",
+        "polish": "taksówka ",
+        "spanish": "el taxi "
+    },
+    {
+        "id": "374",
+        "polish": "metro ",
+        "spanish": "el metro "
+    },
+    {
+        "id": "375",
+        "polish": "kolejka podmiejska",
+        "spanish": "el tren de cercanías"
+    },
+    {
+        "id": "376",
+        "polish": "pieszo ",
+        "spanish": "a pie "
+    },
+    {
+        "id": "377",
+        "polish": "idąc",
+        "spanish": "andando "
+    },
+    {
+        "id": "378",
+        "polish": "konno",
+        "spanish": "a caballo "
+    },
+    {
+        "id": "379",
+        "polish": "żaglówka",
+        "spanish": "el velero"
+    },
+    {
+        "id": "380",
+        "polish": "łódka",
+        "spanish": "la barca"
+    },
+    {
+        "id": "381",
+        "polish": "statek ",
+        "spanish": "el barco "
+    },
+    {
+        "id": "382",
+        "polish": "helikopter ",
+        "spanish": "el helicoptero"
+    },
+    {
+        "id": "383",
+        "polish": "balon",
+        "spanish": "el globo "
+    },
+    {
+        "id": "384",
+        "polish": "samolot",
+        "spanish": "el avion"
+    },
+    {
+        "id": "385",
+        "polish": "ubrania",
+        "spanish": "la ropa"
+    },
+    {
+        "id": "386",
+        "polish": "czapka",
+        "spanish": "gorra"
+    },
+    {
+        "id": "387",
+        "polish": "kurtka",
+        "spanish": "campera"
+    },
+    {
+        "id": "388",
+        "polish": "chustka",
+        "spanish": "pañuelo"
+    },
+    {
+        "id": "389",
+        "polish": "koszulka",
+        "spanish": "camiseta/remera"
+    },
+    {
+        "id": "390",
+        "polish": "rekawice",
+        "spanish": "guantes"
+    },
+    {
+        "id": "391",
+        "polish": "spodnie",
+        "spanish": "pantalón"
+    },
+    {
+        "id": "392",
+        "polish": "kapcie",
+        "spanish": "zapatillas"
+    },
+    {
+        "id": "393",
+        "polish": "koszula",
+        "spanish": "camisa"
+    },
+    {
+        "id": "394",
+        "polish": "dżinsy",
+        "spanish": "vaqueros/pantalones de jean"
+    },
+    {
+        "id": "395",
+        "polish": "buty",
+        "spanish": "zapatos"
+    },
+    {
+        "id": "396",
+        "polish": "pasek",
+        "spanish": "cinturón"
+    },
+    {
+        "id": "397",
+        "polish": "bluzka",
+        "spanish": "blusa"
+    },
+    {
+        "id": "398",
+        "polish": "spódnica",
+        "spanish": "pollero"
+    },
+    {
+        "id": "399",
+        "polish": "kapelusz",
+        "spanish": "sombrero"
+    },
+    {
+        "id": "400",
+        "polish": "sukienka",
+        "spanish": "vestido"
+    }
+]

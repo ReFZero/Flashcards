@@ -1,0 +1,201 @@
+[ {
+  "id" : 401,
+  "polish" : "poniedziałek",
+  "norwegian" : "mandag"
+}, {
+  "id" : 402,
+  "polish" : "wtorek",
+  "norwegian" : "tirsdag"
+}, {
+  "id" : 403,
+  "polish" : "środa",
+  "norwegian" : "onsdag"
+}, {
+  "id" : 404,
+  "polish" : "czwartek",
+  "norwegian" : "torsdag"
+}, {
+  "id" : 405,
+  "polish" : "piątek",
+  "norwegian" : "fredag"
+}, {
+  "id" : 406,
+  "polish" : "sobota",
+  "norwegian" : "lørdag"
+}, {
+  "id" : 407,
+  "polish" : "niedziela",
+  "norwegian" : "søndag"
+}, {
+  "id" : 408,
+  "polish" : "rok",
+  "norwegian" : "et år"
+}, {
+  "id" : 409,
+  "polish" : "miesiąc",
+  "norwegian" : "en måned"
+}, {
+  "id" : 410,
+  "polish" : "dzień",
+  "norwegian" : "en dag"
+}, {
+  "id" : 411,
+  "polish" : "noc",
+  "norwegian" : "ei natt"
+}, {
+  "id" : 412,
+  "polish" : "godzina",
+  "norwegian" : "en time"
+}, {
+  "id" : 413,
+  "polish" : "minuta",
+  "norwegian" : "et minutt"
+}, {
+  "id" : 414,
+  "polish" : "zawsze",
+  "norwegian" : "alltid"
+}, {
+  "id" : 415,
+  "polish" : "codziennie",
+  "norwegian" : "hver dag"
+}, {
+  "id" : 416,
+  "polish" : "zazwyczaj",
+  "norwegian" : "vanligvis"
+}, {
+  "id" : 417,
+  "polish" : "często",
+  "norwegian" : "ofte"
+}, {
+  "id" : 418,
+  "polish" : "czasami",
+  "norwegian" : "av og till / iblant"
+}, {
+  "id" : 419,
+  "polish" : "rzadko",
+  "norwegian" : "sjelden"
+}, {
+  "id" : 420,
+  "polish" : "nigdy",
+  "norwegian" : "aldri"
+}, {
+  "id" : 421,
+  "polish" : "dzisiaj",
+  "norwegian" : "i dag"
+}, {
+  "id" : 422,
+  "polish" : "wczoraj",
+  "norwegian" : "i går"
+}, {
+  "id" : 423,
+  "polish" : "jutro",
+  "norwegian" : "i morgen"
+}, {
+  "id" : 424,
+  "polish" : "w tym roku",
+  "norwegian" : "dette året"
+}, {
+  "id" : 425,
+  "polish" : "w zeszłym / przyszłym roku",
+  "norwegian" : "i fjor / neste år"
+}, {
+  "id" : 426,
+  "polish" : "w tym miesiącu",
+  "norwegian" : "denne månaden"
+}, {
+  "id" : 427,
+  "polish" : "Która jest godzina?",
+  "norwegian" : "Hvor mye er klokka?"
+}, {
+  "id" : 428,
+  "polish" : "Jest 10",
+  "norwegian" : "Klokka er ti / Den er ti "
+}, {
+  "id" : 429,
+  "polish" : "rano",
+  "norwegian" : "om morgen"
+}, {
+  "id" : 430,
+  "polish" : "wieczorem / dziś wieczorem",
+  "norwegian" : "om kvelden / i klveld"
+}, {
+  "id" : 431,
+  "polish" : "w środku dnia / w południe",
+  "norwegian" : "midt på dagen"
+}, {
+  "id" : 432,
+  "polish" : "po południu",
+  "norwegian" : "om ettermiddagen"
+}, {
+  "id" : 433,
+  "polish" : "data",
+  "norwegian" : "en dato"
+}, {
+  "id" : 434,
+  "polish" : "styczeń",
+  "norwegian" : "januar"
+}, {
+  "id" : 435,
+  "polish" : "luty",
+  "norwegian" : "februar"
+}, {
+  "id" : 436,
+  "polish" : "marzec",
+  "norwegian" : "mars"
+}, {
+  "id" : 437,
+  "polish" : "kwiecień",
+  "norwegian" : "april"
+}, {
+  "id" : 438,
+  "polish" : "maj",
+  "norwegian" : "mai"
+}, {
+  "id" : 439,
+  "polish" : "czerwiec",
+  "norwegian" : "juni"
+}, {
+  "id" : 440,
+  "polish" : "lipiec",
+  "norwegian" : "juli"
+}, {
+  "id" : 441,
+  "polish" : "sierpień",
+  "norwegian" : "august"
+}, {
+  "id" : 442,
+  "polish" : "wrzesień",
+  "norwegian" : "september"
+}, {
+  "id" : 443,
+  "polish" : "pażdziernik",
+  "norwegian" : "oktober"
+}, {
+  "id" : 444,
+  "polish" : "listopad",
+  "norwegian" : "november"
+}, {
+  "id" : 445,
+  "polish" : "grudzień",
+  "norwegian" : "desember"
+}, {
+  "id" : 446,
+  "polish" : "urodziny",
+  "norwegian" : "en bursdag"
+}, {
+  "id" : 447,
+  "polish" : "imieniny",
+  "norwegian" : "en navnedag"
+}, {
+  "id" : 448,
+  "polish" : "Boże Narodzenie",
+  "norwegian" : "Jul"
+}, {
+  "id" : 449,
+  "polish" : "Sylwester",
+  "norwegian" : "Nyttårsaften"
+}, {
+  "id" : 450,
+  "polish" : "Wielkanoc",
+  "norwegian" : "Påske"
+} ]

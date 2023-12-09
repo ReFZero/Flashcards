@@ -1,0 +1,252 @@
+[
+    {
+        "id": 51,
+        "polish": "sufit",
+        "english": "ceiling"
+    },
+    {
+        "id": 52,
+        "polish": "oczywiście, na pewno, z pewnością, zdecydowanie",
+        "english": "certainly"
+    },
+    {
+        "id": 53,
+        "polish": "jasno; wyraźnie",
+        "english": "clearly"
+    },
+    {
+        "id": 54,
+        "polish": "autokar",
+        "english": "coach"
+    },
+    {
+        "id": 55,
+        "polish": "wchodzić, wejść",
+        "english": "come in"
+    },
+    {
+        "id": 56,
+        "polish": "zawody, konkurs",
+        "english": "competition"
+    },
+    {
+        "id": 57,
+        "polish": "wiejska okolica, wieś",
+        "english": "countryside"
+    },
+    {
+        "id": 58,
+        "polish": "przechodzić, przedostać się na drugą stronę ",
+        "english": "cross"
+    },
+    {
+        "id": 59,
+        "polish": "tłum",
+        "english": "crowd"
+    },
+    {
+        "id": 60,
+        "polish": "szafka",
+        "english": "cupboard"
+    },
+    {
+        "id": 61,
+        "polish": "zasłona",
+        "english": "curtain"
+    },
+    {
+        "id": 62,
+        "polish": "klient",
+        "english": "customer"
+    },
+    {
+        "id": 63,
+        "polish": "(co)dziennie",
+        "english": "daily"
+    },
+    {
+        "id": 64,
+        "polish": "opóźnienie",
+        "english": "delay"
+    },
+    {
+        "id": 65,
+        "polish": "terminarz, kalendarz",
+        "english": "diary"
+    },
+    {
+        "id": 66,
+        "polish": "rabat, zniżka",
+        "english": "discount"
+    },
+    {
+        "id": 67,
+        "polish": "na dole, na dół, na parterze, piętro niżej",
+        "english": "downstairs"
+    },
+    {
+        "id": 68,
+        "polish": "szuflada",
+        "english": "drawer"
+    },
+    {
+        "id": 69,
+        "polish": "się, sobą, siebie (wzajemnie)",
+        "english": "each other"
+    },
+    {
+        "id": 70,
+        "polish": "zarabiać",
+        "english": "earn"
+    },
+    {
+        "id": 71,
+        "polish": "elektryczność, prąd",
+        "english": "electricity"
+    },
+    {
+        "id": 72,
+        "polish": "wejście",
+        "english": "entrance"
+    },
+    {
+        "id": 73,
+        "polish": "koperta",
+        "english": "envelope"
+    },
+    {
+        "id": 74,
+        "polish": "gumka do mazania/ścierania",
+        "english": "eraser"
+    },
+    {
+        "id": 75,
+        "polish": "zwłaszcza, szczególnie",
+        "english": "especially"
+    },
+    {
+        "id": 76,
+        "polish": "mglisty",
+        "english": "foggy"
+    },
+    {
+        "id": 77,
+        "polish": "smażony",
+        "english": "fried"
+    },
+    {
+        "id": 78,
+        "polish": "meble",
+        "english": "furniture"
+    },
+    {
+        "id": 79,
+        "polish": "dalszy; dodatkowy",
+        "english": "further"
+    },
+    {
+        "id": 80,
+        "polish": "wysiadać",
+        "english": "get off"
+    },
+    {
+        "id": 81,
+        "polish": "wsiadać",
+        "english": "get on"
+    },
+    {
+        "id": 82,
+        "polish": "zadowolony",
+        "english": "glad"
+    },
+    {
+        "id": 83,
+        "polish": "wejść, dostać się do środka",
+        "english": "go in"
+    },
+    {
+        "id": 84,
+        "polish": "winogrono",
+        "english": "grape"
+    },
+    {
+        "id": 85,
+        "polish": "domyślać się, zgadnąć",
+        "english": "guess"
+    },
+    {
+        "id": 86,
+        "polish": "dyrektor szkoły",
+        "english": "headteacher"
+    },
+    {
+        "id": 87,
+        "polish": "uczciwy, szczery, prawdomówny",
+        "english": "honest"
+    },
+    {
+        "id": 88,
+        "polish": "jednak",
+        "english": "however"
+    },
+    {
+        "id": 89,
+        "polish": "natychmiast",
+        "english": "immediately"
+    },
+    {
+        "id": 90,
+        "polish": "poprawić (się), ulepszyć",
+        "english": "improve"
+    },
+    {
+        "id": 91,
+        "polish": "obejmować, zawierać, uwzględniać",
+        "english": "include"
+    },
+    {
+        "id": 92,
+        "polish": "w zamian, zamiast ",
+        "english": "instead"
+    },
+    {
+        "id": 93,
+        "polish": "zaproszenie",
+        "english": "invitation"
+    },
+    {
+        "id": 94,
+        "polish": "żakiet, marynarka; kurtka",
+        "english": "jacket"
+    },
+    {
+        "id": 95,
+        "polish": "trzymać, zatrzymać; przechowywać",
+        "english": "keep"
+    },
+    {
+        "id": 96,
+        "polish": "latawiec",
+        "english": "kite"
+    },
+    {
+        "id": 97,
+        "polish": "jezioro",
+        "english": "lake"
+    },
+    {
+        "id": 98,
+        "polish": "ostatni, najnowszy",
+        "english": "latest"
+    },
+    {
+        "id": 99,
+        "polish": "położyć się",
+        "english": "lie down"
+    },
+    {
+        "id": 100,
+        "polish": "opiekować się, doglądać",
+        "english": "look after"
+    }
+]

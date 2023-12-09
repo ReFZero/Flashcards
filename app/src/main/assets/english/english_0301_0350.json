@@ -1,0 +1,253 @@
+[
+    
+    {
+        "id": 301,
+        "polish": "sytuacja awaryjna, nagły wypadek",
+        "english": "emergency"
+    },
+    {
+        "id": 302,
+        "polish": "zatrudniać",
+        "english": "employ"
+    },
+    {
+        "id": 303,
+        "polish": "zachęcić",
+        "english": "encourage"
+    },
+    {
+        "id": 304,
+        "polish": "przyjemny, dający radość",
+        "english": "enjoyable"
+    },
+    {
+        "id": 305,
+        "polish": "ogromny",
+        "english": "enormous"
+    },
+    {
+        "id": 306,
+        "polish": "zapisać się, zgłosić udział",
+        "english": "enter"
+    },
+    {
+        "id": 307,
+        "polish": "zabawiać",
+        "english": "entertain"
+    },
+    {
+        "id": 308,
+        "polish": "wejście; wstęp",
+        "english": "entry"
+    },
+    {
+        "id": 309,
+        "polish": "dokładny",
+        "english": "exact"
+    },
+    {
+        "id": 310,
+        "polish": "niezbędny, konieczny",
+        "english": "essential"
+    },
+    {
+        "id": 311,
+        "polish": "wymieniać się czymś",
+        "english": "exchange"
+    },
+    {
+        "id": 312,
+        "polish": "nadbagaż",
+        "english": "excess luggage"
+    },
+    {
+        "id": 313,
+        "polish": "z podnieceniem",
+        "english": "excitedly"
+    },
+    {
+        "id": 314,
+        "polish": "podniecenie, ekscytacja",
+        "english": "excitement"
+    },
+    {
+        "id": 315,
+        "polish": "wybaczyć",
+        "english": "excuse"
+    },
+    {
+        "id": 316,
+        "polish": "wystawiać, eksponować",
+        "english": "exhibit"
+    },
+    {
+        "id": 317,
+        "polish": "obiekty; udogodnienia",
+        "english": "facilities"
+    },
+    {
+        "id": 318,
+        "polish": "zasnąć",
+        "english": "fall asleep"
+    },
+    {
+        "id": 319,
+        "polish": "mieć ochotę",
+        "english": "fancy"
+    },
+    {
+        "id": 320,
+        "polish": "opłata za przejazd",
+        "english": "fare"
+    },
+    {
+        "id": 321,
+        "polish": "znajomy, znany, zaznajomiony",
+        "english": "familiar"
+    },
+    {
+        "id": 322,
+        "polish": "zapiąć, przymocować",
+        "english": "fasten"
+    },
+    {
+        "id": 323,
+        "polish": "prom",
+        "english": "ferry"
+    },
+    {
+        "id": 324,
+        "polish": "przynieść",
+        "english": "fetch"
+    },
+    {
+        "id": 325,
+        "polish": "gorączka; febra",
+        "english": "fever"
+    },
+    {
+        "id": 326,
+        "polish": "napój gazowany",
+        "english": "fizzy drink"
+    },
+    {
+        "id": 327,
+        "polish": "unosić się na wodzie",
+        "english": "float"
+    },
+    {
+        "id": 328,
+        "polish": "obcokrajowiec",
+        "english": "foreigner"
+    },
+    {
+        "id": 329,
+        "polish": "czoło",
+        "english": "forehead"
+    },
+    {
+        "id": 330,
+        "polish": "prognoza",
+        "english": "forecast"
+    },
+    {
+        "id": 331,
+        "polish": "zapominalski",
+        "english": "forgetful"
+    },
+    {
+        "id": 332,
+        "polish": "dwa tygodnie",
+        "english": "fortnight"
+    },
+    {
+        "id": 333,
+        "polish": "do przodu",
+        "english": "forward"
+    },
+    {
+        "id": 334,
+        "polish": "częsty",
+        "english": "frequent"
+    },
+    {
+        "id": 335,
+        "polish": "przestraszony, przerażony",
+        "english": "frightened"
+    },
+    {
+        "id": 336,
+        "polish": "najdalszy",
+        "english": "furthest"
+    },
+    {
+        "id": 337,
+        "polish": "sklep meblowy",
+        "english": "furniture store"
+    },
+    {
+        "id": 338,
+        "polish": "delikatny, łagodny",
+        "english": "gentle"
+    },
+    {
+        "id": 339,
+        "polish": "hojny",
+        "english": "generous"
+    },
+    {
+        "id": 340,
+        "polish": "pokolenie",
+        "english": "generation"
+    },
+    {
+        "id": 341,
+        "polish": "rozdać",
+        "english": "give away"
+    },
+    {
+        "id": 342,
+        "polish": "towar",
+        "english": "goods"
+    },
+    {
+        "id": 343,
+        "polish": "cudowny, zachwycający, wspaniały",
+        "english": "gorgeous"
+    },
+    {
+        "id": 344,
+        "polish": "pan młody",
+        "english": "groom"
+    },
+    {
+        "id": 345,
+        "polish": "winny",
+        "english": "guilty"
+    },
+    {
+        "id": 346,
+        "polish": "nawyk, zwyczaj",
+        "english": "habit"
+    },
+    {
+        "id": 347,
+        "polish": "ręczny, przenośny6",
+        "english": "hand-held"
+    },
+    {
+        "id": 348,
+        "polish": "zająć się czymś, poradzić sobie z czymś",
+        "english": "handle"
+    },
+    {
+        "id": 349,
+        "polish": "szczęśliwie; na szczęście",
+        "english": "happily"
+    },
+    {
+        "id": 350,
+        "polish": "port",
+        "english": "harbour"
+    }
+]

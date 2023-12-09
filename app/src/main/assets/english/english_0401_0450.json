@@ -1,0 +1,252 @@
+[
+    {
+        "id": 401,
+        "polish": "awansować (kogoś)",
+        "english": "promote"
+    },
+    {
+        "id": 402,
+        "polish": "dumny",
+        "english": "proud"
+    },
+    {
+        "id": 403,
+        "polish": "udowodnić",
+        "english": "prove"
+    },
+    {
+        "id": 404,
+        "polish": "zapewnić, dostarczyć, wyposażyć kogoś w coś; świadczyć (usługi)",
+        "english": "provide"
+    },
+    {
+        "id": 405,
+        "polish": "karać",
+        "english": "punish"
+    },
+    {
+        "id": 406,
+        "polish": "ilość",
+        "english": "quantity"
+    },
+    {
+        "id": 407,
+        "polish": "tyć, przybierać na wadze",
+        "english": "put on weight"
+    },
+    {
+        "id": 408,
+        "polish": "wykwalifikowany",
+        "english": "qualified"
+    },
+    {
+        "id": 409,
+        "polish": "kłótliwy",
+        "english": "quarrelsome"
+    },
+    {
+        "id": 410,
+        "polish": "przestać coś robić, rzucić, zrezygnować z czegoś",
+        "english": "quit"
+    },
+    {
+        "id": 411,
+        "polish": "zdać sobie sprawę, zorientować się",
+        "english": "realize"
+    },
+    {
+        "id": 412,
+        "polish": "rozsądny, niewygórowany",
+        "english": "reasonable"
+    },
+    {
+        "id": 413,
+        "polish": "przekąski",
+        "english": "refreshments"
+    },
+    {
+        "id": 414,
+        "polish": "żałować",
+        "english": "regret"
+    },
+    {
+        "id": 415,
+        "polish": "krewny",
+        "english": "relative"
+    },
+    {
+        "id": 416,
+        "polish": "rzetelny, niezawodny",
+        "english": "reliable"
+    },
+    {
+        "id": 417,
+        "polish": "wymienić, zastąpić",
+        "english": "replace"
+    },
+    {
+        "id": 418,
+        "polish": "kurort",
+        "english": "resort"
+    },
+    {
+        "id": 419,
+        "polish": "przejść na emeryturę",
+        "english": "retire"
+    },
+    {
+        "id": 420,
+        "polish": "powtarzać (przed egzaminem)",
+        "english": "revise"
+    },
+    {
+        "id": 421,
+        "polish": "powtórka",
+        "english": "revision"
+    },
+    {
+        "id": 422,
+        "polish": "nagroda; nagroda pieniężna",
+        "english": "reward"
+    },
+    {
+        "id": 423,
+        "polish": "okraść, obrabować",
+        "english": "rob"
+    },
+    {
+        "id": 424,
+        "polish": "bułka",
+        "english": "roll"
+    },
+    {
+        "id": 425,
+        "polish": "trasa",
+        "english": "route"
+    },
+    {
+        "id": 426,
+        "polish": "śmieci",
+        "english": "rubbish"
+    },
+    {
+        "id": 427,
+        "polish": "niegrzeczny, nieuprzejmy, ordynarny, gruboskórny",
+        "english": "rude"
+    },
+    {
+        "id": 428,
+        "polish": "dywanik, chodnik",
+        "english": "rug"
+    },
+    {
+        "id": 429,
+        "polish": "spodek",
+        "english": "saucer"
+    },
+    {
+        "id": 430,
+        "polish": "rzeźba",
+        "english": "sculpture"
+    },
+    {
+        "id": 431,
+        "polish": "wydawać się",
+        "english": "seem"
+    },
+    {
+        "id": 432,
+        "polish": "szkoła średnia",
+        "english": "secondary school"
+    },
+    {
+        "id": 433,
+        "polish": "pewny siebie",
+        "english": "self-confident"
+    },
+    {
+        "id": 434,
+        "polish": "samoobsługowy",
+        "english": "self-service"
+    },
+    {
+        "id": 435,
+        "polish": "egoistyczny, samolubny",
+        "english": "selfish"
+    },
+    {
+        "id": 436,
+        "polish": "poczucie; zmysł",
+        "english": "sense"
+    },
+    {
+        "id": 437,
+        "polish": "rozsądny",
+        "english": "sensible"
+    },
+    {
+        "id": 438,
+        "polish": "obsługiwać",
+        "english": "serve"
+    },
+    {
+        "id": 439,
+        "polish": "zachodzić (o słońcu)",
+        "english": "set"
+    },
+    {
+        "id": 440,
+        "polish": "szyć",
+        "english": "sew"
+    },
+    {
+        "id": 441,
+        "polish": "cień",
+        "english": "shade"
+    },
+    {
+        "id": 442,
+        "polish": "prześcieradło",
+        "english": "sheet"
+    },
+    {
+        "id": 443,
+        "polish": "wybrzeże, brzeg",
+        "english": "shore"
+    },
+    {
+        "id": 444,
+        "polish": "krewetka",
+        "english": "shrimp"
+    },
+    {
+        "id": 445,
+        "polish": "głupi, głupawy, głupiutki, niemądry",
+        "english": "silly"
+    },
+    {
+        "id": 446,
+        "polish": "usytuowany, położony",
+        "english": "situated"
+    },
+    {
+        "id": 447,
+        "polish": "rękaw",
+        "english": "sleeve"
+    },
+    {
+        "id": 448,
+        "polish": "kapcie, papucie",
+        "english": "slippers"
+    },
+    {
+        "id": 449,
+        "polish": "gładki, równy",
+        "english": "smooth"
+    },
+    {
+        "id": 450,
+        "polish": "obolały, bolesny",
+        "english": "sore"
+    }
+]

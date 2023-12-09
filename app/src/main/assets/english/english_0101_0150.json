@@ -1,0 +1,252 @@
+[
+    {
+        "id": 101,
+        "polish": "bagaż",
+        "english": "luggage"
+    },
+    {
+        "id": 102,
+        "polish": "danie główne",
+        "english": "main course"
+    },
+    {
+        "id": 103,
+        "polish": "liczyć się, mieć znaczenie",
+        "english": "matter"
+    },
+    {
+        "id": 104,
+        "polish": "południe",
+        "english": "midday"
+    },
+    {
+        "id": 105,
+        "polish": "móc, może",
+        "english": "might"
+    },
+    {
+        "id": 106,
+        "polish": "miesięczny, comiesięczny",
+        "english": "monthly"
+    },
+    {
+        "id": 107,
+        "polish": "prawie, niemal",
+        "english": "nearly"
+    },
+    {
+        "id": 108,
+        "polish": "południe",
+        "english": "noon"
+    },
+    {
+        "id": 109,
+        "polish": "praca, zawód, zajęcie",
+        "english": "occupation"
+    },
+    {
+        "id": 110,
+        "polish": "pieszo",
+        "english": "on foot"
+    },
+    {
+        "id": 111,
+        "polish": "zamawiać",
+        "english": "order"
+    },
+    {
+        "id": 112,
+        "polish": "ponad, powyżej",
+        "english": "over"
+    },
+    {
+        "id": 113,
+        "polish": "jasny, blady",
+        "english": "pale"
+    },
+    {
+        "id": 114,
+        "polish": "może, być może",
+        "english": "perhaps"
+    },
+    {
+        "id": 115,
+        "polish": "szkoda (że)",
+        "english": "pity"
+    },
+    {
+        "id": 116,
+        "polish": "miły, przyjemny",
+        "english": "pleasant"
+    },
+    {
+        "id": 117,
+        "polish": "zadowolony",
+        "english": "pleased"
+    },
+    {
+        "id": 118,
+        "polish": "kieszeń",
+        "english": "pocket"
+    },
+    {
+        "id": 119,
+        "polish": "wskazywać",
+        "english": "point"
+    },
+    {
+        "id": 120,
+        "polish": "uprzejmy, kulturalny, grzeczny",
+        "english": "polite"
+    },
+    {
+        "id": 121,
+        "polish": "basen",
+        "english": "pool"
+    },
+    {
+        "id": 122,
+        "polish": "ładny",
+        "english": "pretty"
+    },
+    {
+        "id": 123,
+        "polish": "ciągnąć",
+        "english": "pull"
+    },
+    {
+        "id": 124,
+        "polish": "założyć (ubranie)",
+        "english": "put on"
+    },
+    {
+        "id": 125,
+        "polish": "kolej, tory, szyny",
+        "english": "railway"
+    },
+    {
+        "id": 126,
+        "polish": "płaszcz przeciwdeszczowy",
+        "english": "raincoat"
+    },
+    {
+        "id": 127,
+        "polish": "otrzymać, odebrać",
+        "english": "receive"
+    },
+    {
+        "id": 128,
+        "polish": "wynajmować",
+        "english": "rent"
+    },
+    {
+        "id": 129,
+        "polish": "odpoczynek",
+        "english": "rest"
+    },
+    {
+        "id": 130,
+        "polish": "pieczony",
+        "english": "roast"
+    },
+    {
+        "id": 131,
+        "polish": "linijka",
+        "english": "ruler"
+    },
+    {
+        "id": 132,
+        "polish": "dach",
+        "english": "roof"
+    },
+    {
+        "id": 133,
+        "polish": "chusta, szalik",
+        "english": "scarf"
+    },
+    {
+        "id": 134,
+        "polish": "podawać, serwować",
+        "english": "serve"
+    },
+    {
+        "id": 135,
+        "polish": "zlewozmywak, zlew",
+        "english": "sink"
+    },
+    {
+        "id": 136,
+        "polish": "plasterek, kawałek, kromka",
+        "english": "slice"
+    },
+    {
+        "id": 137,
+        "polish": "rodzaj",
+        "english": "sort"
+    },
+    {
+        "id": 138,
+        "polish": "wolny, zapasowy",
+        "english": "spare"
+    },
+    {
+        "id": 139,
+        "polish": "personel, pracownicy",
+        "english": "staff"
+    },
+    {
+        "id": 140,
+        "polish": "ból brzucha/żołądka",
+        "english": "stomach ache"
+    },
+    {
+        "id": 141,
+        "polish": "prosty",
+        "english": "straight"
+    },
+    {
+        "id": 142,
+        "polish": "taki",
+        "english": "such"
+    },
+    {
+        "id": 143,
+        "polish": "kolacja",
+        "english": "supper"
+    },
+    {
+        "id": 144,
+        "polish": "zdjąć (np. ubranie)",
+        "english": "take off"
+    },
+    {
+        "id": 145,
+        "polish": "wystartować (o samolocie)",
+        "english": "take off"
+    },
+    {
+        "id": 146,
+        "polish": "semestr",
+        "english": "term"
+    },
+    {
+        "id": 147,
+        "polish": "chudy",
+        "english": "thin"
+    },
+    {
+        "id": 148,
+        "polish": "sprzątać",
+        "english": "tidy"
+    },
+    {
+        "id": 149,
+        "polish": "posprzątać",
+        "english": "tidy up"
+    },
+    {
+        "id": 150,
+        "polish": "krawat",
+        "english": "tie"
+    }
+]

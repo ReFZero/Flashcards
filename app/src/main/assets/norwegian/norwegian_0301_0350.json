@@ -1,0 +1,201 @@
+[ {
+  "id" : 301,
+  "polish" : "jeden",
+  "norwegian" : "en"
+}, {
+  "id" : 302,
+  "polish" : "dwa",
+  "norwegian" : "to"
+}, {
+  "id" : 303,
+  "polish" : "trzy",
+  "norwegian" : "tre"
+}, {
+  "id" : 304,
+  "polish" : "cztery",
+  "norwegian" : "fire"
+}, {
+  "id" : 305,
+  "polish" : "pięć",
+  "norwegian" : "fem"
+}, {
+  "id" : 306,
+  "polish" : "sześć",
+  "norwegian" : "seks"
+}, {
+  "id" : 307,
+  "polish" : "siedem",
+  "norwegian" : "sju / syv"
+}, {
+  "id" : 308,
+  "polish" : "osiem",
+  "norwegian" : "åtte"
+}, {
+  "id" : 309,
+  "polish" : "dziewięć",
+  "norwegian" : "ni"
+}, {
+  "id" : 310,
+  "polish" : "dziesięć",
+  "norwegian" : "ti"
+}, {
+  "id" : 311,
+  "polish" : "jedenaście",
+  "norwegian" : "elleve"
+}, {
+  "id" : 312,
+  "polish" : "dwanaście",
+  "norwegian" : "tolv"
+}, {
+  "id" : 313,
+  "polish" : "trzynaście",
+  "norwegian" : "tretten"
+}, {
+  "id" : 314,
+  "polish" : "czternaście",
+  "norwegian" : "fjorten"
+}, {
+  "id" : 315,
+  "polish" : "piętnaście",
+  "norwegian" : "femten"
+}, {
+  "id" : 316,
+  "polish" : "szesnaście",
+  "norwegian" : "seksten"
+}, {
+  "id" : 317,
+  "polish" : "siedemnaście",
+  "norwegian" : "sytten"
+}, {
+  "id" : 318,
+  "polish" : "osiemnaście",
+  "norwegian" : "atten"
+}, {
+  "id" : 319,
+  "polish" : "dziewiętnaście",
+  "norwegian" : "nitten"
+}, {
+  "id" : 320,
+  "polish" : "dwadzieścia",
+  "norwegian" : "tjue"
+}, {
+  "id" : 321,
+  "polish" : "dwadzieścia jeden",
+  "norwegian" : "tjueen"
+}, {
+  "id" : 322,
+  "polish" : "dwadzieścia dwa",
+  "norwegian" : "tjueto"
+}, {
+  "id" : 323,
+  "polish" : "trzydzieści",
+  "norwegian" : "tretti"
+}, {
+  "id" : 324,
+  "polish" : "trzydzieści jeden",
+  "norwegian" : "trettien"
+}, {
+  "id" : 325,
+  "polish" : "czterdzieści",
+  "norwegian" : "førti"
+}, {
+  "id" : 326,
+  "polish" : "pięćdziesiąt",
+  "norwegian" : "femti"
+}, {
+  "id" : 327,
+  "polish" : "sześćset",
+  "norwegian" : "seksti"
+}, {
+  "id" : 328,
+  "polish" : "siedemdziesiąt",
+  "norwegian" : "sytti"
+}, {
+  "id" : 329,
+  "polish" : "osiemdziesiąt",
+  "norwegian" : "åtti"
+}, {
+  "id" : 330,
+  "polish" : "dziewiećdziesiąt",
+  "norwegian" : "nitti"
+}, {
+  "id" : 331,
+  "polish" : "sto",
+  "norwegian" : "hundre"
+}, {
+  "id" : 332,
+  "polish" : "sto jeden",
+  "norwegian" : "hundre og en"
+}, {
+  "id" : 333,
+  "polish" : "dwieście",
+  "norwegian" : "to hundre"
+}, {
+  "id" : 334,
+  "polish" : "tysiąc",
+  "norwegian" : "tusen"
+}, {
+  "id" : 335,
+  "polish" : "dwa tysiące",
+  "norwegian" : "to tusen"
+}, {
+  "id" : 336,
+  "polish" : "dziesięć tysięcy",
+  "norwegian" : "ti tusen"
+}, {
+  "id" : 337,
+  "polish" : "sto tysięcy",
+  "norwegian" : "hundre tusen"
+}, {
+  "id" : 338,
+  "polish" : "milion",
+  "norwegian" : "en million"
+}, {
+  "id" : 339,
+  "polish" : "osiemset piećdziesiąt sześć",
+  "norwegian" : "åtte hundre og femtiseks"
+}, {
+  "id" : 340,
+  "polish" : "pierwszy",
+  "norwegian" : "første"
+}, {
+  "id" : 341,
+  "polish" : "drugi",
+  "norwegian" : "andre"
+}, {
+  "id" : 342,
+  "polish" : "trzeci",
+  "norwegian" : "tredje"
+}, {
+  "id" : 343,
+  "polish" : "czwarty",
+  "norwegian" : "fjerde"
+}, {
+  "id" : 344,
+  "polish" : "piąty",
+  "norwegian" : "femte"
+}, {
+  "id" : 345,
+  "polish" : "szósty",
+  "norwegian" : "sjette"
+}, {
+  "id" : 346,
+  "polish" : "siódmy",
+  "norwegian" : "sjuende / syvende"
+}, {
+  "id" : 347,
+  "polish" : "ósmy",
+  "norwegian" : "åttende"
+}, {
+  "id" : 348,
+  "polish" : "jedenasty",
+  "norwegian" : "ellevte"
+}, {
+  "id" : 349,
+  "polish" : "trzynasty",
+  "norwegian" : "trettende"
+}, {
+  "id" : 350,
+  "polish" : "trzydziesty",
+  "norwegian" : "trettiende"
+} ]

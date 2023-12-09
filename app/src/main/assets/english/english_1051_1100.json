@@ -1,0 +1,252 @@
+[
+    {
+        "id": 1051,
+        "polish": "ulga",
+        "english": "relief"
+    },
+    {
+        "id": 1052,
+        "polish": "uspokojony, odczuwający ulgę",
+        "english": "relieved"
+    },
+    {
+        "id": 1053,
+        "polish": "pozostały",
+        "english": "remaining"
+    },
+    {
+        "id": 1054,
+        "polish": "szczątki",
+        "english": "remains"
+    },
+    {
+        "id": 1055,
+        "polish": "wspomnieć, skomentować, zauważyć, uwaga",
+        "english": "remark"
+    },
+    {
+        "id": 1056,
+        "polish": "lekarstwo",
+        "english": "remedy"
+    },
+    {
+        "id": 1057,
+        "polish": "daleki, odległy",
+        "english": "remote"
+    },
+    {
+        "id": 1058,
+        "polish": "odwdzięczyć się, zrewanżować się, odpłacić",
+        "english": "repay"
+    },
+    {
+        "id": 1059,
+        "polish": "wymaganie",
+        "english": "requirement"
+    },
+    {
+        "id": 1060,
+        "polish": "mieszkaniec",
+        "english": "resident"
+    },
+    {
+        "id": 1061,
+        "polish": "zrezygnować z pracy/stanowiska, złożyć wypowiedzenie",
+        "english": "resign"
+    },
+    {
+        "id": 1062,
+        "polish": "oprzeć się, powstrzymać się (od)",
+        "english": "resist"
+    },
+    {
+        "id": 1063,
+        "polish": "pomysłowy, przedsiębiorczy, zaradny, obrotny",
+        "english": "resourceful"
+    },
+    {
+        "id": 1064,
+        "polish": "reagować, odpowiadać",
+        "english": "respond"
+    },
+    {
+        "id": 1065,
+        "polish": "odnowić, odrestaurować, odbudować",
+        "english": "restore"
+    },
+    {
+        "id": 1066,
+        "polish": "emerytura (okres życia)",
+        "english": "retirement"
+    },
+    {
+        "id": 1067,
+        "polish": "ujawnić",
+        "english": "reveal"
+    },
+    {
+        "id": 1068,
+        "polish": "zemsta, rewanż",
+        "english": "revenge"
+    },
+    {
+        "id": 1069,
+        "polish": "poprawiać, korygować, ulepszać",
+        "english": "revise"
+    },
+    {
+        "id": 1070,
+        "polish": "nosorożec",
+        "english": "rhinoceros"
+    },
+    {
+        "id": 1071,
+        "polish": "żebro",
+        "english": "rib"
+    },
+    {
+        "id": 1072,
+        "polish": "absurdalny, niedorzeczny, idiotyczny, groteskowy, śmieszny",
+        "english": "ridiculous"
+    },
+    {
+        "id": 1073,
+        "polish": "słusznie",
+        "english": "rightly"
+    },
+    {
+        "id": 1074,
+        "polish": "opłukać",
+        "english": "rinse"
+    },
+    {
+        "id": 1075,
+        "polish": "drzeć, targać, zrywać, rozpruwać",
+        "english": "rip"
+    },
+    {
+        "id": 1076,
+        "polish": "dojrzały",
+        "english": "ripe"
+    },
+    {
+        "id": 1077,
+        "polish": "rabunek, napad rabunkowy",
+        "english": "robbery"
+    },
+    {
+        "id": 1078,
+        "polish": "pręt, kij, drążek, laska",
+        "english": "rod"
+    },
+    {
+        "id": 1079,
+        "polish": "współlokator",
+        "english": "roommate"
+    },
+    {
+        "id": 1080,
+        "polish": "lina",
+        "english": "rope"
+    },
+    {
+        "id": 1081,
+        "polish": "zgniły, zepsuty",
+        "english": "rotten"
+    },
+    {
+        "id": 1082,
+        "polish": "szorstki, chropowaty; burzliwy",
+        "english": "rough"
+    },
+    {
+        "id": 1083,
+        "polish": "około, w przybliżeniu, mniej więcej",
+        "english": "roughly"
+    },
+    {
+        "id": 1084,
+        "polish": "pocierać, masować",
+        "english": "rub"
+    },
+    {
+        "id": 1085,
+        "polish": "pogłoska, plotka",
+        "english": "rumour"
+    },
+    {
+        "id": 1086,
+        "polish": "wiejski",
+        "english": "rural"
+    },
+    {
+        "id": 1087,
+        "polish": "pośpiech, gonitwapoganiać, ponaglać",
+        "english": "rush"
+    },
+    {
+        "id": 1088,
+        "polish": "zaniedbany, przykurzony (o znajomości języka)",
+        "english": "rusty"
+    },
+    {
+        "id": 1089,
+        "polish": "bezwzględny, bezlitosny",
+        "english": "ruthless"
+    },
+    {
+        "id": 1090,
+        "polish": "wyrzucić z pracy, zwolnić",
+        "english": "sack"
+    },
+    {
+        "id": 1091,
+        "polish": "wzgląd",
+        "english": "sake"
+    },
+    {
+        "id": 1092,
+        "polish": "zadowalający",
+        "english": "satisfactory"
+    },
+    {
+        "id": 1093,
+        "polish": "zapach",
+        "english": "scent"
+    },
+    {
+        "id": 1094,
+        "polish": "sezonowy",
+        "english": "seasonal"
+    },
+    {
+        "id": 1095,
+        "polish": "po drugie",
+        "english": "secondly"
+    },
+    {
+        "id": 1096,
+        "polish": "szukać, poszukiwać",
+        "english": "seek"
+    },
+    {
+        "id": 1097,
+        "polish": "chwytać, łapać",
+        "english": "seize"
+    },
+    {
+        "id": 1098,
+        "polish": "rzadko",
+        "english": "seldom"
+    },
+    {
+        "id": 1099,
+        "polish": "służący",
+        "english": "servant"
+    },
+    {
+        "id": 1100,
+        "polish": "służba",
+        "english": "service"
+    }
+]

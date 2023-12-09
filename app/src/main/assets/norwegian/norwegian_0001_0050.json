@@ -1,0 +1,201 @@
+[ {
+  "id" : 1,
+  "polish" : "kot",
+  "norwegian" : "en katt"
+}, {
+  "id" : 2,
+  "polish" : "pies",
+  "norwegian" : "en hund"
+}, {
+  "id" : 3,
+  "polish" : "koń",
+  "norwegian" : "en hest"
+}, {
+  "id" : 4,
+  "polish" : "mysz",
+  "norwegian" : "en/ei mus"
+}, {
+  "id" : 5,
+  "polish" : "rekin",
+  "norwegian" : "en hai"
+}, {
+  "id" : 6,
+  "polish" : "koza",
+  "norwegian" : "en/ei geit"
+}, {
+  "id" : 7,
+  "polish" : "lew",
+  "norwegian" : "en/ei løve"
+}, {
+  "id" : 8,
+  "polish" : "ryś",
+  "norwegian" : "en/ei gaupe"
+}, {
+  "id" : 9,
+  "polish" : "świnia",
+  "norwegian" : "en gris"
+}, {
+  "id" : 10,
+  "polish" : "małpa",
+  "norwegian" : "en/ei ape"
+}, {
+  "id" : 11,
+  "polish" : "jeleń",
+  "norwegian" : "en hjort"
+}, {
+  "id" : 12,
+  "polish" : "lis",
+  "norwegian" : "en rev"
+}, {
+  "id" : 13,
+  "polish" : "niedźwiedź",
+  "norwegian" : "en bjørn"
+}, {
+  "id" : 14,
+  "polish" : "wilk",
+  "norwegian" : "en ulv "
+}, {
+  "id" : 15,
+  "polish" : "krowa",
+  "norwegian" : "en/ei ku"
+}, {
+  "id" : 16,
+  "polish" : "owca",
+  "norwegian" : "en sau"
+}, {
+  "id" : 17,
+  "polish" : "ryba",
+  "norwegian" : "en fisk"
+}, {
+  "id" : 18,
+  "polish" : "osioł",
+  "norwegian" : "et esel"
+}, {
+  "id" : 19,
+  "polish" : "kaczka",
+  "norwegian" : "en/ei and"
+}, {
+  "id" : 20,
+  "polish" : "wąż",
+  "norwegian" : "en slange"
+}, {
+  "id" : 21,
+  "polish" : "ptak",
+  "norwegian" : "en fugl"
+}, {
+  "id" : 22,
+  "polish" : "wiewiórka",
+  "norwegian" : "en ekorn"
+}, {
+  "id" : 23,
+  "polish" : "królik",
+  "norwegian" : "en kanin"
+}, {
+  "id" : 24,
+  "polish" : "krokodyl",
+  "norwegian" : "en krokodille"
+}, {
+  "id" : 25,
+  "polish" : "tygrys",
+  "norwegian" : "en tiger"
+}, {
+  "id" : 26,
+  "polish" : "wół",
+  "norwegian" : "en okse"
+}, {
+  "id" : 27,
+  "polish" : "kura",
+  "norwegian" : "en høne"
+}, {
+  "id" : 28,
+  "polish" : "kogut",
+  "norwegian" : "en hane"
+}, {
+  "id" : 29,
+  "polish" : "kurczak",
+  "norwegian" : "en kylling"
+}, {
+  "id" : 30,
+  "polish" : "orzeł",
+  "norwegian" : "en/ei ørn"
+}, {
+  "id" : 31,
+  "polish" : "biały",
+  "norwegian" : "hvit"
+}, {
+  "id" : 32,
+  "polish" : "czarny",
+  "norwegian" : "svart"
+}, {
+  "id" : 33,
+  "polish" : "szary",
+  "norwegian" : "grå"
+}, {
+  "id" : 34,
+  "polish" : "niebieski",
+  "norwegian" : "blå"
+}, {
+  "id" : 35,
+  "polish" : "zielony",
+  "norwegian" : "grønn"
+}, {
+  "id" : 36,
+  "polish" : "brązowy",
+  "norwegian" : "brun"
+}, {
+  "id" : 37,
+  "polish" : "czerwony",
+  "norwegian" : "rød"
+}, {
+  "id" : 38,
+  "polish" : "żółty",
+  "norwegian" : "gul"
+}, {
+  "id" : 39,
+  "polish" : "różowy",
+  "norwegian" : "rosa"
+}, {
+  "id" : 40,
+  "polish" : "pomarańczowy",
+  "norwegian" : "oransje"
+}, {
+  "id" : 41,
+  "polish" : "fioletowy",
+  "norwegian" : "lilla"
+}, {
+  "id" : 42,
+  "polish" : "owoce",
+  "norwegian" : "frukt"
+}, {
+  "id" : 43,
+  "polish" : "jabłko",
+  "norwegian" : "et eple"
+}, {
+  "id" : 44,
+  "polish" : "pomarańcza",
+  "norwegian" : "en appelsin"
+}, {
+  "id" : 45,
+  "polish" : "gruszka",
+  "norwegian" : "en/ei pære"
+}, {
+  "id" : 46,
+  "polish" : "truskawka",
+  "norwegian" : "et jordbær"
+}, {
+  "id" : 47,
+  "polish" : "malina",
+  "norwegian" : "et bringebær"
+}, {
+  "id" : 48,
+  "polish" : "jagoda",
+  "norwegian" : "et blåbær"
+}, {
+  "id" : 49,
+  "polish" : "śliwka",
+  "norwegian" : "en/ei plomme"
+}, {
+  "id" : 50,
+  "polish" : "winogrono",
+  "norwegian" : "en/ei drue"
+} ]

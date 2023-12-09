@@ -1,0 +1,252 @@
+[
+    {
+        "id": 1001,
+        "polish": "fabuła, intryga",
+        "english": "plot"
+    },
+    {
+        "id": 1002,
+        "polish": "zanieczyszczać",
+        "english": "pollute"
+    },
+    {
+        "id": 1003,
+        "polish": "uprzejmość, grzeczność",
+        "english": "politeness"
+    },
+    {
+        "id": 1004,
+        "polish": "badanie opinii publicznej, ankieta, sondaż",
+        "english": "poll"
+    },
+    {
+        "id": 1005,
+        "polish": "staw, oczko wodne",
+        "english": "pond"
+    },
+    {
+        "id": 1006,
+        "polish": "wykwintny, elegancki, z wyższych sfer, arystokratyczny",
+        "english": "posh"
+    },
+    {
+        "id": 1007,
+        "polish": "garncarstwo, wyroby garncarskie",
+        "english": "pottery"
+    },
+    {
+        "id": 1008,
+        "polish": "walić, tłuc, łomotać",
+        "english": "pound"
+    },
+    {
+        "id": 1009,
+        "polish": "bieda",
+        "english": "poverty"
+    },
+    {
+        "id": 1010,
+        "polish": "władza",
+        "english": "power"
+    },
+    {
+        "id": 1011,
+        "polish": "uprzedzenie, uprzedzenia",
+        "english": "prejudice"
+    },
+    {
+        "id": 1012,
+        "polish": "obecność",
+        "english": "presence"
+    },
+    {
+        "id": 1013,
+        "polish": "zachować, ochronić",
+        "english": "preserve"
+    },
+    {
+        "id": 1014,
+        "polish": "przypuszczalnie, zapewne",
+        "english": "presumably"
+    },
+    {
+        "id": 1015,
+        "polish": "udawać",
+        "english": "pretend"
+    },
+    {
+        "id": 1016,
+        "polish": "zapobieganie, prewencja",
+        "english": "prevention"
+    },
+    {
+        "id": 1017,
+        "polish": "głównie, przede wszystkim",
+        "english": "primarily"
+    },
+    {
+        "id": 1018,
+        "polish": "podstawowy (najważniejszy)",
+        "english": "primary"
+    },
+    {
+        "id": 1019,
+        "polish": "szybki, natychmiastowy, bezzwłoczny, punktualny",
+        "english": "prompt"
+    },
+    {
+        "id": 1020,
+        "polish": "dowód",
+        "english": "proof"
+    },
+    {
+        "id": 1021,
+        "polish": "własność; nieruchomość",
+        "english": "property"
+    },
+    {
+        "id": 1022,
+        "polish": "oferta, propozycja",
+        "english": "proposal"
+    },
+    {
+        "id": 1023,
+        "polish": "perspektywa",
+        "english": "prospect"
+    },
+    {
+        "id": 1024,
+        "polish": "o ile; pod warunkiem, że",
+        "english": "provided"
+    },
+    {
+        "id": 1025,
+        "polish": "uderzyć, zadać cios pięścią",
+        "english": "punch"
+    },
+    {
+        "id": 1026,
+        "polish": "kara",
+        "english": "punishment"
+    },
+    {
+        "id": 1027,
+        "polish": "zakup, nabytek",
+        "english": "purchase"
+    },
+    {
+        "id": 1028,
+        "polish": "cecha",
+        "english": "quality"
+    },
+    {
+        "id": 1029,
+        "polish": "kłócić się",
+        "english": "quarrel"
+    },
+    {
+        "id": 1030,
+        "polish": "rasowy",
+        "english": "racial"
+    },
+    {
+        "id": 1031,
+        "polish": "rzodkiewka",
+        "english": "radish"
+    },
+    {
+        "id": 1032,
+        "polish": "wściekłość",
+        "english": "rage"
+    },
+    {
+        "id": 1033,
+        "polish": "opady",
+        "english": "rainfall"
+    },
+    {
+        "id": 1034,
+        "polish": "błyskawiczny, gwałtowny, szybki",
+        "english": "rapid"
+    },
+    {
+        "id": 1035,
+        "polish": "maszynka do golenia, golarka",
+        "english": "razor"
+    },
+    {
+        "id": 1036,
+        "polish": "chętnie, bez wahania; łatwo",
+        "english": "readily"
+    },
+    {
+        "id": 1037,
+        "polish": "przestawić, przełożyć, zmienić ułożenie, przearanżować",
+        "english": "rearrange"
+    },
+    {
+        "id": 1038,
+        "polish": "rozsądny",
+        "english": "reasonable"
+    },
+    {
+        "id": 1039,
+        "polish": "buntowniczka, buntownik, rebeliantka, rebeliant",
+        "english": "rebel"
+    },
+    {
+        "id": 1040,
+        "polish": "przypominać sobie",
+        "english": "recall"
+    },
+    {
+        "id": 1041,
+        "polish": "odbiorca",
+        "english": "recipient"
+    },
+    {
+        "id": 1042,
+        "polish": "uważać, sądzić, myśleć",
+        "english": "reckon"
+    },
+    {
+        "id": 1043,
+        "polish": "prostokątny",
+        "english": "rectangular"
+    },
+    {
+        "id": 1044,
+        "polish": "zwolniony (z pracy), zbędny, niepotrzebny",
+        "english": "redundant"
+    },
+    {
+        "id": 1045,
+        "polish": "sędzia, arbiter",
+        "english": "referee"
+    },
+    {
+        "id": 1046,
+        "polish": "odzyskać",
+        "english": "regain"
+    },
+    {
+        "id": 1047,
+        "polish": "uważać (za coś, za kogoś)",
+        "english": "regard"
+    },
+    {
+        "id": 1048,
+        "polish": "żal, smutek",
+        "english": "regret"
+    },
+    {
+        "id": 1049,
+        "polish": "wydać, wypuścić na rynek (płytę, film, itp.)",
+        "english": "release"
+    },
+    {
+        "id": 1050,
+        "polish": "istotny, znaczący",
+        "english": "relevant"
+    }
+]

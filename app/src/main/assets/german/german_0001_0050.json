@@ -1,0 +1,252 @@
+[
+    {
+        "id": "1",
+        "polish": "bezpieczny, pewny",
+        "german": "sicher"
+    },
+    {
+        "id": "2",
+        "polish": "biedny",
+        "german": "arm"
+    },
+    {
+        "id": "3",
+        "polish": "bliski",
+        "german": "nah"
+    },
+    {
+        "id": "4",
+        "polish": "błędny, fałszywy",
+        "german": "falsch"
+    },
+    {
+        "id": "5",
+        "polish": "bogaty",
+        "german": "reich"
+    },
+    {
+        "id": "6",
+        "polish": "brudny",
+        "german": "schmutzig"
+    },
+    {
+        "id": "7",
+        "polish": "brzydki",
+        "german": "hässlich"
+    },
+    {
+        "id": "8",
+        "polish": "chłodny",
+        "german": "kühl"
+    },
+    {
+        "id": "9",
+        "polish": "chory",
+        "german": "krank"
+    },
+    {
+        "id": "10",
+        "polish": "chudy",
+        "german": "dünn"
+    },
+    {
+        "id": "11",
+        "polish": "cichy",
+        "german": "leise"
+    },
+    {
+        "id": "12",
+        "polish": "ciekawy, interesujący",
+        "german": "interessant"
+    },
+    {
+        "id": "13",
+        "polish": "ciemny",
+        "german": "dunkel"
+    },
+    {
+        "id": "14",
+        "polish": "ciepły",
+        "german": "warm"
+    },
+    {
+        "id": "15",
+        "polish": "ciężki, trudny",
+        "german": "schwer"
+    },
+    {
+        "id": "16",
+        "polish": "czysty",
+        "german": "sauber"
+    },
+    {
+        "id": "17",
+        "polish": "daleki",
+        "german": "weit"
+    },
+    {
+        "id": "18",
+        "polish": "długi",
+        "german": "lang"
+    },
+    {
+        "id": "19",
+        "polish": "dobry",
+        "german": "gut"
+    },
+    {
+        "id": "20",
+        "polish": "drogi",
+        "german": "teuer"
+    },
+    {
+        "id": "21",
+        "polish": "duży",
+        "german": "groß"
+    },
+    {
+        "id": "22",
+        "polish": "głęboki",
+        "german": "tief"
+    },
+    {
+        "id": "23",
+        "polish": "głodny",
+        "german": "hungrig"
+    },
+    {
+        "id": "24",
+        "polish": "głośny",
+        "german": "laut"
+    },
+    {
+        "id": "25",
+        "polish": "głupi",
+        "german": "dumm"
+    },
+    {
+        "id": "26",
+        "polish": "gorący",
+        "german": "heiß"
+    },
+    {
+        "id": "27",
+        "polish": "gruby",
+        "german": "dick, fett"
+    },
+    {
+        "id": "28",
+        "polish": "jasny",
+        "german": "hell"
+    },
+    {
+        "id": "29",
+        "polish": "krótki",
+        "german": "kurz"
+    },
+    {
+        "id": "30",
+        "polish": "kwaśny",
+        "german": "sauer"
+    },
+    {
+        "id": "31",
+        "polish": "lekki, łatwy",
+        "german": "leicht"
+    },
+    {
+        "id": "32",
+        "polish": "leniwy",
+        "german": "faul"
+    },
+    {
+        "id": "33",
+        "polish": "ładny",
+        "german": "schön"
+    },
+    {
+        "id": "34",
+        "polish": "łatwy",
+        "german": "einfach"
+    },
+    {
+        "id": "35",
+        "polish": "mały",
+        "german": "klein"
+    },
+    {
+        "id": "36",
+        "polish": "mądry",
+        "german": "klug"
+    },
+    {
+        "id": "37",
+        "polish": "miły",
+        "german": "nett"
+    },
+    {
+        "id": "38",
+        "polish": "młody",
+        "german": "jung"
+    },
+    {
+        "id": "39",
+        "polish": "mokry",
+        "german": "nass"
+    },
+    {
+        "id": "40",
+        "polish": "możliwy",
+        "german": "möglich"
+    },
+    {
+        "id": "41",
+        "polish": "naturalny",
+        "german": "natürlich"
+    },
+    {
+        "id": "42",
+        "polish": "niebezpieczny",
+        "german": "gefährlich"
+    },
+    {
+        "id": "43",
+        "polish": "niski",
+        "german": "niedrig"
+    },
+    {
+        "id": "44",
+        "polish": "normalny",
+        "german": "normal"
+    },
+    {
+        "id": "45",
+        "polish": "nowy",
+        "german": "neu"
+    },
+    {
+        "id": "46",
+        "polish": "nudny",
+        "german": "langweilig"
+    },
+    {
+        "id": "47",
+        "polish": "okrągły",
+        "german": "rund"
+    },
+    {
+        "id": "48",
+        "polish": "ostatni",
+        "german": "letzter"
+    },
+    {
+        "id": "49",
+        "polish": "ostry",
+        "german": "scharf"
+    },
+    {
+        "id": "50",
+        "polish": "otwarty",
+        "german": "offen"
+    }
+]
