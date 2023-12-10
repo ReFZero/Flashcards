@@ -9,7 +9,7 @@
 
 
     <TextView
-        android:id="@+id/textTitle"
+        android:id="@+id/text_main_menu_title"
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:layout_marginTop="60dp"
@@ -35,7 +35,7 @@
         android:background="#64dfdf" />
 
     <Button
-        android:id="@+id/bStart"
+        android:id="@+id/b_start"
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
@@ -44,7 +44,7 @@
         tools:ignore="MissingConstraints" />
 
     <Button
-        android:id="@+id/bAbout"
+        android:id="@+id/b_about"
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
@@ -53,7 +53,7 @@
         tools:ignore="MissingConstraints" />
 
     <Button
-        android:id="@+id/bExit"
+        android:id="@+id/b_exit"
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center"

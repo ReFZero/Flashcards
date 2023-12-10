@@ -3,8 +3,10 @@ The app for learning words in multiple languages
 ## Info:
 - Java 11
 - Gradle 7.5
+- Lombok
+- Jackson
 #### Changes in the last commit
-- Added layout for MenuSet. 
-- Added words for specific languages. 
-- Added logic for MenuSet. 
-- The number of buttons depends on the information about the language selected in the previous activity and the number of files in a specific asset folder.
+- Model classes introduced (EnglishWord, GermanWord, SpanishWord, NorwegianWord).
+- Flashcards activity added. added layout for Flashcards activity.
+- Currently, Flashcards allows you to create a list of objects depending on the language you have chosen.
+- Added Lombok and Jackson

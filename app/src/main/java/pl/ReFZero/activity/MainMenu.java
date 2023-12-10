@@ -17,9 +17,9 @@ public class MainMenu extends AppCompatActivity implements View.OnClickListener 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_menu);
 
-        Button bStart = findViewById(R.id.bStart);
-        Button bAbout = findViewById(R.id.bAbout);
-        Button bExit = findViewById(R.id.bExit);
+        Button bStart = findViewById(R.id.b_start);
+        Button bAbout = findViewById(R.id.b_about);
+        Button bExit = findViewById(R.id.b_exit);
 
         bStart.setOnClickListener(this);
         bAbout.setOnClickListener(this);
@@ -30,13 +30,13 @@ public class MainMenu extends AppCompatActivity implements View.OnClickListener 
     @Override
     public void onClick(View view) {
         switch (view.getId()) {
-            case R.id.bStart:
+            case R.id.b_start:
                 navigateToActivity(MenuLanguages.class);
                 break;
-            case R.id.bAbout:
+            case R.id.b_about:
                 navigateToActivity(About.class);
                 break;
-            case R.id.bExit:
+            case R.id.b_exit:
                 finish();
                 System.exit(0);
                 break;

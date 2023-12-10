@@ -1,9 +1,10 @@
 package pl.ReFZero.activity;
 
+import android.annotation.SuppressLint;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.ViewGroup;
 import android.widget.Button;
-import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.GridLayoutManager;
@@ -15,6 +16,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import java.util.stream.Collectors;
 
 import pl.ReFZero.R;
 
@@ -29,48 +31,47 @@ public class MenuSet extends AppCompatActivity {
         String[] parts = languageType.split("_");
 
         // Przypisz części do zmiennych
-        String first = parts[0];
-        String second = parts[1];
+        String firstLanguage = parts[0];
+        String secondLanguage = parts[1];
         List<String> listFileNames = new ArrayList<>();
 
+
         if (Arrays.stream(parts).anyMatch(s -> s.contains("english"))) {
-            listFileNames = createListContainsFileNames(listFileNames, "english");
+            listFileNames = createListContainsFileNames("english");
         } else if (Arrays.stream(parts).anyMatch(s -> s.contains("german"))) {
-            listFileNames = createListContainsFileNames(listFileNames, "german");
+            listFileNames = createListContainsFileNames("german");
         } else if (Arrays.stream(parts).anyMatch(s -> s.contains("spanish"))) {
-            listFileNames = createListContainsFileNames(listFileNames, "spanish");
+            listFileNames = createListContainsFileNames("spanish");
         } else if (Arrays.stream(parts).anyMatch(s -> s.contains("norwegian"))) {
-            listFileNames = createListContainsFileNames(listFileNames, "norwegian");
+            listFileNames = createListContainsFileNames("norwegian");
         }
 
-
         RecyclerView recyclerView = findViewById(R.id.recyclerView);
-
-        // Przykładowa liczba przycisków
-        int numberOfButtons = listFileNames.size();
 
         // Ustawiamy ilość kolumn w siatce
         int numberOfColumns = 3;
         recyclerView.setLayoutManager(new GridLayoutManager(this, numberOfColumns));
 
-        // Tworzenie i dodawanie przycisków do listy
-        List<String> buttonList = new ArrayList<>();
-        for (int i = 0; i < numberOfButtons; i++) {
-            buttonList.add(extractRange(listFileNames.get(i)));
-        }
-
+        List<String> buttonLabels = listFileNames.stream()
+                .map(MenuSet::extractRange)
+                .collect(Collectors.toList());
         // Tworzenie adaptera i ustawianie na RecyclerView
-        ButtonAdapter buttonAdapter = new ButtonAdapter(buttonList);
+        ButtonAdapter buttonAdapter = new ButtonAdapter(
+                firstLanguage,
+                secondLanguage,
+                buttonLabels
+        );
         recyclerView.setAdapter(buttonAdapter);
     }
 
-    private List<String> createListContainsFileNames(List<String> listFileNames, String language) {
+    private List<String> createListContainsFileNames(String language) {
+        List<String> fileNames;
         try {
-            listFileNames = Arrays.asList(getAssets().list(language + "/"));
+            fileNames = Arrays.asList(getAssets().list(language + "/"));
         } catch (IOException e) {
-            throw new RuntimeException(e);
+            throw new RuntimeException(e); // Dodac obsluge wyjatku
         }
-        return listFileNames;
+        return fileNames;
     }
 
     private static String extractRange(String input) {
@@ -103,10 +104,13 @@ public class MenuSet extends AppCompatActivity {
 
     // Adapter dla RecyclerView
     private class ButtonAdapter extends RecyclerView.Adapter<ButtonAdapter.ButtonViewHolder> {
+        private String firstLanguage;
+        private String secondLanguage;
+        private final List<String> buttonList;
 
-        private List<String> buttonList;
-
-        ButtonAdapter(List<String> buttonList) {
+        public ButtonAdapter(String firstLanguage, String secondLanguage, List<String> buttonList) {
+            this.firstLanguage = firstLanguage;
+            this.secondLanguage = secondLanguage;
             this.buttonList = buttonList;
         }
 
@@ -126,17 +130,61 @@ public class MenuSet extends AppCompatActivity {
             return buttonList.size();
         }
 
+        public String getFirstLanguage() {
+            return firstLanguage;
+        }
+
+        public String getSecondLanguage() {
+            return secondLanguage;
+        }
+
         // Klasa ViewHolder dla przycisków
         class ButtonViewHolder extends RecyclerView.ViewHolder {
+
             Button button;
 
             ButtonViewHolder(Button button) {
                 super(button);
                 this.button = button;
                 this.button.setOnClickListener(view -> {
-                    Toast.makeText(MenuSet.this, "Kliknięto " + button.getText(), Toast.LENGTH_SHORT).show();
+//                    Toast.makeText(MenuSet.this, "Kliknięto " + button.getText(), Toast.LENGTH_SHORT).show();
+                    Intent intent = new Intent(getApplicationContext(), Flashcards.class);
+                    addInfoFileNameToUse(intent, button);
+                    addInfoAboutLanguages(intent,
+                            ButtonAdapter.this.getFirstLanguage(),
+                            ButtonAdapter.this.getSecondLanguage());
+                    startActivity(intent);
                 });
             }
         }
     }
+
+    private void addInfoFileNameToUse(Intent intent, Button b) {
+        String fileName = buttonTextToFileNameConverter(b);
+        intent.putExtra("fileNameToUse", fileName);
+    }
+
+    private void addInfoAboutLanguages(Intent intent, String firstLanguage, String secondLanguage) {
+        intent.putExtra("firstLanguage", firstLanguage);
+        intent.putExtra("secondLanguage", secondLanguage);
+    }
+
+    @SuppressLint("DefaultLocale")
+    private String buttonTextToFileNameConverter(Button b) {
+        String text = b.getText().toString();
+
+        // Podziel tekst na zakres
+        String[] range = text.split("-");
+        int start = Integer.parseInt(range[0]);
+        int end = Integer.parseInt(range[1]);
+
+        // Sformatuj liczby do oczekiwanej postaci
+        String formattedStart = String.format("%04d", start);
+        String formattedEnd = String.format("%04d", end);
+
+        // Utwórz ostateczny łańcuch znaków
+        return formattedStart + "_" + formattedEnd;
+    }
+
+
 }

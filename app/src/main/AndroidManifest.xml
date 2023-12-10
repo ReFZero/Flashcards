@@ -14,6 +14,7 @@
         <activity android:name=".activity.MenuLanguages" />
         <activity android:name=".activity.About" />
         <activity android:name=".activity.MenuSet" />
+        <activity android:name=".activity.Flashcards" />
         <activity
             android:name=".activity.MainMenu"
             android:exported="true">
