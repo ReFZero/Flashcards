@@ -5,9 +5,7 @@ The app for learning words in multiple languages
 - Gradle 7.5
 - Jackson
 #### Changes in the last commit
-- Added additional logic to the Flashcards activity. 
-- The application implements the intended logic. 
-- Lombok was removed (did not work properly). 
+- Fixed a bug that sometimes required pressing the button twice
 #### Application functionalities
 The application enables:
 - the application allows you to choose from 4 languages
