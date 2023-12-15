@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="light_orange">#ffae69  </color>
+    <color name="orange">#FF6000</color>
+
+    <color name="White_transparent_white_hex_1">#11ffffff</color>
+    <color name="White_transparent_white_hex_10">#aaffffff</color>
+    <color name="White_transparent_white_hex_11">#bbffffff</color>
+    <color name="White_transparent_white_hex_12">#ccffffff</color>
+    <color name="White_transparent_white_hex_13">#ddffffff</color>
+    <color name="White_transparent_white_hex_14">#eeffffff</color>
+    <color name="White_transparent_white_hex_15">#ffffffff</color>
+    <color name="White_transparent_white_hex_2">#22ffffff</color>
+    <color name="White_transparent_white_hex_3">#33ffffff</color>
+    <color name="White_transparent_white_hex_4">#44ffffff</color>
+    <color name="White_transparent_white_hex_5">#55ffffff</color>
+    <color name="White_transparent_white_hex_6">#66ffffff</color>
+    <color name="White_transparent_white_hex_7">#77ffffff</color>
+    <color name="White_transparent_white_hex_8">#88ffffff</color>
+    <color name="White_transparent_white_hex_9">#99ffffff</color>
+
 </resources>

@@ -2,12 +2,15 @@ package pl.ReFZero.activity;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;
+import android.graphics.Color;
+import android.graphics.Typeface;
 import android.os.Bundle;
 import android.view.ViewGroup;
 import android.widget.Button;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.app.AppCompatDelegate;
+import androidx.core.content.res.ResourcesCompat;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
@@ -15,18 +18,22 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Objects;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
 import pl.ReFZero.R;
+import pl.ReFZero.decorator.MarginItemDecoration;
 
 public class MenuSet extends AppCompatActivity {
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_menu_set);
-        AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO);
+
 
         Bundle extras = getIntent().getExtras();
         String languageType = extras.getString("languageType");
@@ -51,8 +58,8 @@ public class MenuSet extends AppCompatActivity {
         RecyclerView recyclerView = findViewById(R.id.recyclerView);
 
         // Ustawiamy ilość kolumn w siatce
-        int numberOfColumns = 3;
-        recyclerView.setLayoutManager(new GridLayoutManager(this, numberOfColumns));
+        int NUMBER_OF_COLUMNS = 3;
+        recyclerView.setLayoutManager(new GridLayoutManager(this, NUMBER_OF_COLUMNS));
 
         List<String> buttonLabels = listFileNames.stream()
                 .map(MenuSet::extractRange)
@@ -63,13 +70,18 @@ public class MenuSet extends AppCompatActivity {
                 secondLanguage,
                 buttonLabels
         );
+
+
+        MarginItemDecoration itemDecoration = new MarginItemDecoration(16);
+        recyclerView.addItemDecoration(itemDecoration);
         recyclerView.setAdapter(buttonAdapter);
     }
 
     private List<String> createListContainsFileNames(String language) {
         List<String> fileNames;
+        String delimiter = "/";
         try {
-            fileNames = Arrays.asList(getAssets().list(language + "/"));
+            fileNames = Arrays.asList(getAssets().list(language + delimiter));
         } catch (IOException e) {
             throw new RuntimeException(e); // Dodac obsluge wyjatku
         }
@@ -87,8 +99,8 @@ public class MenuSet extends AppCompatActivity {
         // Sprawdzenie dopasowań
         if (matcher.matches()) {
             // Pobranie dopasowanych grup
-            String start = removeLeadingZeros(matcher.group(1));
-            String end = removeLeadingZeros(matcher.group(2));
+            String start = removeLeadingZeros(Objects.requireNonNull(matcher.group(1)));
+            String end = removeLeadingZeros(Objects.requireNonNull(matcher.group(2)));
 
             // Utworzenie ciągu wynikowego "start-end"
             return start + "-" + end;
@@ -106,9 +118,12 @@ public class MenuSet extends AppCompatActivity {
 
     // Adapter dla RecyclerView
     private class ButtonAdapter extends RecyclerView.Adapter<ButtonAdapter.ButtonViewHolder> {
-        private String firstLanguage;
-        private String secondLanguage;
+        private final String firstLanguage;
+        private final String secondLanguage;
         private final List<String> buttonList;
+        //Set button font
+        private final int BUTTON_FONT = R.font.font_button_menu_set;
+        private final float BUTTON_FONT_SIZE = 17;
 
         public ButtonAdapter(String firstLanguage, String secondLanguage, List<String> buttonList) {
             this.firstLanguage = firstLanguage;
@@ -119,6 +134,11 @@ public class MenuSet extends AppCompatActivity {
         @Override
         public ButtonViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
             Button button = new Button(parent.getContext());
+            button.setBackgroundResource(R.drawable.custom_button_menu_set);
+            button.setTextColor(Color.parseColor("#FFFFFF"));
+            button.setTypeface(ResourcesCompat.getFont(getApplicationContext(), BUTTON_FONT));
+
+            button.setTextSize(BUTTON_FONT_SIZE);
             return new ButtonViewHolder(button);
         }
 
@@ -140,17 +160,20 @@ public class MenuSet extends AppCompatActivity {
             return secondLanguage;
         }
 
+
+
         // Klasa ViewHolder dla przycisków
         class ButtonViewHolder extends RecyclerView.ViewHolder {
 
             Button button;
 
+            @SuppressLint("ResourceType")
             ButtonViewHolder(Button button) {
                 super(button);
                 this.button = button;
                 this.button.setOnClickListener(view -> {
-//                    Toast.makeText(MenuSet.this, "Kliknięto " + button.getText(), Toast.LENGTH_SHORT).show();
                     Intent intent = new Intent(getApplicationContext(), Flashcards.class);
+
                     addInfoFileNameToUse(intent, button);
                     addInfoAboutLanguages(intent,
                             ButtonAdapter.this.getFirstLanguage(),
@@ -158,35 +181,33 @@ public class MenuSet extends AppCompatActivity {
                     startActivity(intent);
                 });
             }
+
+            @SuppressLint("DefaultLocale")
+            private String buttonTextToFileNameConverter(Button b) {
+                String text = b.getText().toString();
+
+                // Podziel tekst na zakres
+                String[] range = text.split("-");
+                int start = Integer.parseInt(range[0]);
+                int end = Integer.parseInt(range[1]);
+
+                // Sformatuj liczby do oczekiwanej postaci
+                String formattedStart = String.format("%04d", start);
+                String formattedEnd = String.format("%04d", end);
+
+                // Utwórz ostateczny łańcuch znaków
+                return formattedStart + "_" + formattedEnd;
+            }
+
+            private void addInfoFileNameToUse(Intent intent, Button b) {
+                String fileName = buttonTextToFileNameConverter(b);
+                intent.putExtra("fileNameToUse", fileName);
+            }
+
+            private void addInfoAboutLanguages(Intent intent, String firstLanguage, String secondLanguage) {
+                intent.putExtra("firstLanguage", firstLanguage);
+                intent.putExtra("secondLanguage", secondLanguage);
+            }
         }
     }
-
-    private void addInfoFileNameToUse(Intent intent, Button b) {
-        String fileName = buttonTextToFileNameConverter(b);
-        intent.putExtra("fileNameToUse", fileName);
-    }
-
-    private void addInfoAboutLanguages(Intent intent, String firstLanguage, String secondLanguage) {
-        intent.putExtra("firstLanguage", firstLanguage);
-        intent.putExtra("secondLanguage", secondLanguage);
-    }
-
-    @SuppressLint("DefaultLocale")
-    private String buttonTextToFileNameConverter(Button b) {
-        String text = b.getText().toString();
-
-        // Podziel tekst na zakres
-        String[] range = text.split("-");
-        int start = Integer.parseInt(range[0]);
-        int end = Integer.parseInt(range[1]);
-
-        // Sformatuj liczby do oczekiwanej postaci
-        String formattedStart = String.format("%04d", start);
-        String formattedEnd = String.format("%04d", end);
-
-        // Utwórz ostateczny łańcuch znaków
-        return formattedStart + "_" + formattedEnd;
-    }
-
-
 }

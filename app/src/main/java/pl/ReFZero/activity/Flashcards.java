@@ -23,22 +23,22 @@ import java.util.function.Function;
 import pl.ReFZero.R;
 import pl.ReFZero.model.EnglishWord;
 import pl.ReFZero.model.GermanWord;
+import pl.ReFZero.model.LanguageType;
 import pl.ReFZero.model.NorwegianWord;
 import pl.ReFZero.model.SpanishWord;
 
 @SuppressLint("MissingInflatedId")
 public class Flashcards extends AppCompatActivity {
-
+    private static final int MAX_RANDOM_VALUE = 50;
+    private final Random rand = new Random();
+    private Integer random = rand.nextInt(MAX_RANDOM_VALUE);
     private ObjectMapper mapper = new ObjectMapper();
     boolean reversed;
-    private Random rand = new Random();
-    private Integer random = rand.nextInt(50);
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_flashcards);
-        AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO);
 
         Button bNext = findViewById(R.id.b_next);
         Button bReverse = findViewById(R.id.b_reverse);
@@ -51,111 +51,79 @@ public class Flashcards extends AppCompatActivity {
         String secondLanguage = extras.getString("secondLanguage");
         String numberFileName = extras.getString("fileNameToUse");
 
-        String providedLanguage = provideLanguage(firstLanguage, secondLanguage);
+        LanguageType providedLanguage = provideLanguage(firstLanguage, secondLanguage);
 
         if (numberFileName != null) {
             switch (providedLanguage) {
-                case "english": {
+                case ENGLISH: {
                     ArrayList<EnglishWord> englishWords = createListWords(EnglishWord[].class, numberFileName, providedLanguage);
                     bNext.setOnClickListener(v -> {
                         randomizeNumber();
-                        switch (firstLanguage) {
-                            case "polish":
-                                message.setText(englishWords.get(random).getPolish());
-                                wordNumber.setText(String.valueOf(englishWords.get(random).getId()));
-                                reversed = false;
-                                break;
-                            case "english":
-                                message.setText(englishWords.get(random).getEnglish());
-                                wordNumber.setText(String.valueOf(englishWords.get(random).getId()));
-                                reversed = false;
-                                break;
-                        }
+                        if (firstLanguage.equals(LanguageType.POLISH.getStringValue()))
+                            createFlashcard(wordNumber, message, englishWords, EnglishWord::getId, EnglishWord::getPolish);
+                        else
+                            createFlashcard(wordNumber, message, englishWords, EnglishWord::getId, EnglishWord::getEnglish);
                     });
 
                     bReverse.setOnClickListener(v -> {
-                        if (secondLanguage.equals("polish"))
-                            reversed = reverseFlashcard(reversed, message, englishWords, EnglishWord::getPolish, EnglishWord::getEnglish);
-                        else if (secondLanguage.equals("english"))
-                            reversed = reverseFlashcard(reversed, message, englishWords, EnglishWord::getEnglish, EnglishWord::getPolish);
+                        if (secondLanguage.equals(LanguageType.POLISH.getStringValue()))
+                            reversed = reverseFlashcard(message, englishWords, EnglishWord::getPolish, EnglishWord::getEnglish);
+                        else
+                            reversed = reverseFlashcard(message, englishWords, EnglishWord::getEnglish, EnglishWord::getPolish);
                     });
                     break;
                 }
-                case "german": {
+                case GERMAN: {
                     ArrayList<GermanWord> germanWords = createListWords(GermanWord[].class, numberFileName, providedLanguage);
                     bNext.setOnClickListener(v -> {
                         randomizeNumber();
-                        switch (firstLanguage) {
-                            case "polish":
-                                message.setText(germanWords.get(random).getPolish());
-                                wordNumber.setText(String.valueOf(germanWords.get(random).getId()));
-                                reversed = false;
-                                break;
-                            case "german":
-                                message.setText(germanWords.get(random).getGerman());
-                                wordNumber.setText(String.valueOf(germanWords.get(random).getId()));
-                                reversed = false;
-                                break;
-                        }
+                        if (firstLanguage.equals(LanguageType.POLISH.getStringValue()))
+                            createFlashcard(wordNumber, message, germanWords, GermanWord::getId, GermanWord::getPolish);
+                        else
+                            createFlashcard(wordNumber, message, germanWords, GermanWord::getId, GermanWord::getGerman);
                     });
 
                     bReverse.setOnClickListener(v -> {
-                            if (secondLanguage.equals("polish"))
-                                reversed = reverseFlashcard(reversed, message, germanWords, GermanWord::getPolish, GermanWord::getGerman);
-                            else if (secondLanguage.equals("german"))
-                                reversed = reverseFlashcard(reversed, message, germanWords, GermanWord::getGerman, GermanWord::getPolish);
+                        if (secondLanguage.equals(LanguageType.POLISH.getStringValue()))
+                            reversed = reverseFlashcard(message, germanWords, GermanWord::getPolish, GermanWord::getGerman);
+                        else
+                            reversed = reverseFlashcard(message, germanWords, GermanWord::getGerman, GermanWord::getPolish);
                     });
                     break;
                 }
-                case "spanish": {
+                case SPANISH: {
                     ArrayList<SpanishWord> spanishWords = createListWords(SpanishWord[].class, numberFileName, providedLanguage);
                     bNext.setOnClickListener(v -> {
                         randomizeNumber();
-                        switch (firstLanguage) {
-                            case "polish":
-                                message.setText(spanishWords.get(random).getPolish());
-                                wordNumber.setText(String.valueOf(spanishWords.get(random).getId()));
-                                reversed = false;
-                                break;
-                            case "spanish":
-                                message.setText(spanishWords.get(random).getSpanish());
-                                wordNumber.setText(String.valueOf(spanishWords.get(random).getId()));
-                                reversed = false;
-                                break;
-                        }
+                        if (firstLanguage.equals(LanguageType.POLISH.getStringValue()))
+                            createFlashcard(wordNumber, message, spanishWords, SpanishWord::getId, SpanishWord::getPolish);
+                        else
+                            createFlashcard(wordNumber, message, spanishWords, SpanishWord::getId, SpanishWord::getSpanish);
                     });
 
                     bReverse.setOnClickListener(v -> {
-                        if (secondLanguage.equals("polish"))
-                            reversed = reverseFlashcard(reversed, message, spanishWords, SpanishWord::getPolish, SpanishWord::getSpanish);
-                        else if (secondLanguage.equals("spanish"))
-                            reversed = reverseFlashcard(reversed, message, spanishWords, SpanishWord::getSpanish, SpanishWord::getPolish);
+                        if (secondLanguage.equals(LanguageType.POLISH.getStringValue()))
+                            reversed = reverseFlashcard(message, spanishWords, SpanishWord::getPolish, SpanishWord::getSpanish);
+                        else
+                            reversed = reverseFlashcard(message, spanishWords, SpanishWord::getSpanish, SpanishWord::getPolish);
                     });
                     break;
                 }
-                case "norwegian": {
+                case NORWEGIAN: {
                     ArrayList<NorwegianWord> norwegianWords = createListWords(NorwegianWord[].class, numberFileName, providedLanguage);
                     bNext.setOnClickListener(v -> {
                         randomizeNumber();
-                        switch (firstLanguage) {
-                            case "polish":
-                                message.setText(norwegianWords.get(random).getPolish());
-                                wordNumber.setText(String.valueOf(norwegianWords.get(random).getId()));
-                                reversed = false;
-                                break;
-                            case "norwegian":
-                                message.setText(norwegianWords.get(random).getNorwegian());
-                                wordNumber.setText(String.valueOf(norwegianWords.get(random).getId()));
-                                reversed = false;
-                                break;
-                        }
+                        if (firstLanguage.equals(LanguageType.POLISH.getStringValue()))
+                            createFlashcard(wordNumber, message, norwegianWords, NorwegianWord::getId, NorwegianWord::getPolish);
+                        else
+                            createFlashcard(wordNumber, message, norwegianWords, NorwegianWord::getId, NorwegianWord::getNorwegian);
                     });
 
                     bReverse.setOnClickListener(v -> {
-                        if (secondLanguage.equals("polish"))
-                            reversed = reverseFlashcard(reversed, message, norwegianWords, NorwegianWord::getPolish, NorwegianWord::getNorwegian);
-                        else if (secondLanguage.equals("norwegian"))
-                            reversed = reverseFlashcard(reversed, message, norwegianWords, NorwegianWord::getNorwegian, NorwegianWord::getPolish);
+                        if (secondLanguage.equals(LanguageType.POLISH.getStringValue()))
+                            reversed = reverseFlashcard(message, norwegianWords, NorwegianWord::getPolish, NorwegianWord::getNorwegian);
+                        else
+                            reversed = reverseFlashcard(message, norwegianWords, NorwegianWord::getNorwegian, NorwegianWord::getPolish);
                     });
                     break;
                 }
@@ -167,12 +135,23 @@ public class Flashcards extends AppCompatActivity {
 
     }
 
-    private <T> boolean reverseFlashcard(boolean reverse,
-                                         TextView message,
-                                         ArrayList<T> list,
-                                         Function<T, String> firstGetter,
-                                         Function<T, String> secondGetter) {
-        if (!reverse) {
+    private <T> void createFlashcard(
+            TextView wordNumber,
+            TextView message,
+            ArrayList<T> list,
+            Function<T, Integer> getterId,
+            Function<T, String> getterLanguage) {
+        wordNumber.setText(String.valueOf(getterId.apply(list.get(random))));
+        message.setText(getterLanguage.apply(list.get(random)));
+        reversed = false;
+    }
+
+    private <T> boolean reverseFlashcard(
+            TextView message,
+            ArrayList<T> list,
+            Function<T, String> firstGetter,
+            Function<T, String> secondGetter) {
+        if (!reversed) {
             message.setText(firstGetter.apply(list.get(random)));
             return true;
         } else {
@@ -189,9 +168,9 @@ public class Flashcards extends AppCompatActivity {
     }
 
     private <T> ArrayList<T> createListWords(Class<T[]> languageClass, String
-            numberFileName, String providedLanguage) {
+            numberFileName, LanguageType providedLanguage) {
         List<T> wordList = new ArrayList<>(50);
-        String fullFileName = createFullFileName(providedLanguage, numberFileName);
+        String fullFileName = createFullFileName(providedLanguage.getStringValue(), numberFileName);
         if (languageClass == null) {
             Log.e("App", "Error: languageClass array is null or empty!");
         } else {
@@ -210,16 +189,16 @@ public class Flashcards extends AppCompatActivity {
         return fromLanguage + "/" + fromLanguage + "_" + numberFileName + ".json";
     }
 
-    private String provideLanguage(String first, String second) {
+    private LanguageType provideLanguage(String first, String second) {
         if (first.equals("english") || second.equals("english")) {
-            return "english";
+            return LanguageType.ENGLISH;
         } else if (first.equals("german") || second.equals("german")) {
-            return "german";
+            return LanguageType.GERMAN;
         } else if (first.equals("spanish") || second.equals("spanish")) {
-            return "spanish";
+            return LanguageType.SPANISH;
         } else if (first.equals("norwegian") || second.equals("norwegian")) {
-            return "norwegian";
+            return LanguageType.NORWEGIAN;
         }
-        return "Error";
+        return LanguageType.POLISH;
     }
 }

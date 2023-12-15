@@ -3,7 +3,7 @@ package pl.ReFZero.activity;
 import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.os.Bundle;
-import android.widget.ImageButton;
+import android.widget.ImageView;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
@@ -21,14 +21,14 @@ public class MenuLanguages extends AppCompatActivity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_menu_languages);
-        AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO);
 
-        List<ImageButton> languageButtons = getLanguageButtons();
+        List<ImageView> languageButtons = getLanguageButtons();
         assignButtonListeners(languageButtons);
     }
 
-    private List<ImageButton> getLanguageButtons() {
-        List<ImageButton> languageButtons = new ArrayList<>();
+
+    private List<ImageView> getLanguageButtons() {
+        List<ImageView> languageButtons = new ArrayList<>();
         languageButtons.add(findViewById(R.id.ib_polish_english));
         languageButtons.add(findViewById(R.id.ib_english_polish));
         languageButtons.add(findViewById(R.id.ib_polish_german));
@@ -40,7 +40,7 @@ public class MenuLanguages extends AppCompatActivity {
         return languageButtons;
     }
 
-    private void assignButtonListeners(List<ImageButton> languageButtons) {
+    private void assignButtonListeners(List<ImageView> languageButtons) {
         languageButtons.forEach(languageButton -> languageButton.setOnClickListener(
                 view -> navigateToActivity(
                         new Intent(getApplicationContext(), MenuSet.class),

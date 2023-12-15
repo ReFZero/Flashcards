@@ -2,4 +2,5 @@
 <resources>
     <dimen name="image_button_height">90dp</dimen>
     <dimen name="image_button_margin">40dp</dimen>
+    <dimen name="main_menu_size_button">50dp</dimen>
 </resources>

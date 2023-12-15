@@ -3,18 +3,21 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/background_set_menu"
     tools:context=".activity.MenuSet">
 
     <TextView
         android:id="@+id/text_menu_set_title"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-
-
-        android:layout_alignParentTop="true"
-        android:layout_centerInParent="true"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
         android:layout_marginTop="50dp"
-        android:text="Wybierz zestaw" />
+        android:layout_marginBottom="30dp"
+        android:background="@color/White_transparent_white_hex_4"
+        android:fontFamily="@font/ubuntu_bold"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:text="Wybierz zestaw"
+        android:textSize="30dp" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerView"
@@ -22,6 +25,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerVertical="true"
-        android:layout_marginTop="89dp" />
+        android:fontFamily="@font/ubuntu_bold"
+        android:layout_marginTop="90dp"
+        android:padding="20dp"/>
 
 </RelativeLayout>

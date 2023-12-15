@@ -3,18 +3,20 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:padding="40dp"
-
+    android:background="@drawable/gradient_1"
     android:orientation="vertical"
+
+    android:padding="40dp"
     tools:context=".activity.Flashcards">
 
     <TextView
         android:id="@+id/word_number"
         android:layout_width="99dp"
         android:layout_height="46dp"
+        android:fontFamily="@font/ubuntu_bold"
         android:gravity="center"
-        android:textColor="#000000"
-        android:text=" "
+        android:text="1"
+        android:textColor="@color/white"
         android:textSize="30dp" />
 
     <TextView
@@ -22,9 +24,10 @@
         android:layout_width="350dp"
         android:layout_height="206dp"
         android:layout_centerInParent="true"
+        android:fontFamily="@font/ubuntu_bold"
         android:gravity="center"
         android:text="słowo"
-        android:textColor="#000000"
+        android:textColor="@color/white"
         android:textSize="45dp" />
 
     <Button
@@ -32,18 +35,22 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignTop="@id/b_reverse"
-        android:textColor="#FFFFFF"
         android:width="120dp"
-        android:text="Następna" />
+        android:background="@drawable/custom_button_flashcard"
+        android:fontFamily="@font/ubuntu_bold"
+        android:text="Następna"
+        android:textColor="#FFFFFF" />
 
     <Button
         android:id="@+id/b_reverse"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentBottom="true"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textColor="#FFFFFF"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
         android:width="120dp"
-        android:text="Obróć" />
+        android:background="@drawable/custom_button_flashcard"
+        android:fontFamily="@font/ubuntu_bold"
+        android:text="Obróć"
+        android:textColor="#FFFFFF" />
 
 </RelativeLayout>

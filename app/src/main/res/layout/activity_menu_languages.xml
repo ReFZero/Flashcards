@@ -4,8 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/background_language_menu"
     android:fillViewport="true"
-    android:background="@color/cardview_dark_background"
     tools:ignore="ScrollViewCount">
 
     <LinearLayout
@@ -16,84 +16,80 @@
         <TextView
             android:id="@+id/t_title"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="50dp"
             android:layout_marginTop="50dp"
             android:layout_marginBottom="30dp"
+            android:background="@color/White_transparent_white_hex_4"
+            android:fontFamily="@font/ubuntu_bold"
             android:gravity="center"
-            android:background="@color/cardview_light_background"
-            android:text="Wybierz język" />
+            android:textColor="@color/white"
+            android:text="Wybierz język"
+            android:textSize="30dp" />
 
-        <ImageButton
+        <ImageView
             android:id="@+id/ib_polish_english"
             android:layout_width="wrap_content"
             android:layout_height="@dimen/image_button_height"
             android:layout_gravity="center"
             android:layout_marginBottom="@dimen/image_button_margin"
-            app:srcCompat="@drawable/polish_english"
-            android:background="@null"/>
+            android:background="@drawable/polish_english"
+            />
 
-        <ImageButton
+        <ImageView
             android:id="@+id/ib_english_polish"
             android:layout_width="wrap_content"
             android:layout_height="@dimen/image_button_height"
             android:layout_gravity="center"
             android:layout_marginBottom="@dimen/image_button_margin"
-            app:srcCompat="@drawable/english_polish"
-            android:background="@null"/>
+            android:background="@drawable/english_polish" />
 
-        <ImageButton
+        <ImageView
             android:id="@+id/ib_polish_german"
             android:layout_width="wrap_content"
             android:layout_height="@dimen/image_button_height"
             android:layout_gravity="center"
             android:layout_marginBottom="@dimen/image_button_margin"
-            app:srcCompat="@drawable/polish_german"
-            android:background="@null"/>
+            android:background="@drawable/polish_german" />
 
-        <ImageButton
+        <ImageView
             android:id="@+id/ib_german_polish"
             android:layout_width="wrap_content"
             android:layout_height="@dimen/image_button_height"
             android:layout_gravity="center"
             android:layout_marginBottom="@dimen/image_button_margin"
-            app:srcCompat="@drawable/german_polish"
-            android:background="@null"/>
+            android:background="@drawable/german_polish" />
 
-        <ImageButton
+        <ImageView
             android:id="@+id/ib_polish_spanish"
             android:layout_width="wrap_content"
             android:layout_height="@dimen/image_button_height"
             android:layout_gravity="center"
             android:layout_marginBottom="@dimen/image_button_margin"
-            app:srcCompat="@drawable/polish_spanish"
-            android:background="@null"/>
+            android:background="@drawable/polish_spanish" />
 
-        <ImageButton
+        <ImageView
             android:id="@+id/ib_spanish_polish"
             android:layout_width="wrap_content"
             android:layout_height="@dimen/image_button_height"
             android:layout_gravity="center"
             android:layout_marginBottom="@dimen/image_button_margin"
-            app:srcCompat="@drawable/spanish_polish"
-            android:background="@null"/>
+            android:background="@drawable/spanish_polish" />
 
-        <ImageButton
+        <ImageView
             android:id="@+id/ib_polish_norwegian"
             android:layout_width="wrap_content"
             android:layout_height="@dimen/image_button_height"
             android:layout_gravity="center"
             android:layout_marginBottom="@dimen/image_button_margin"
-            app:srcCompat="@drawable/polish_norwegian"
-            android:background="@null"/>
+            android:background="@drawable/polish_norwegian" />
 
-        <ImageButton
+        <ImageView
             android:id="@+id/ib_norwegian_polish"
             android:layout_width="wrap_content"
             android:layout_height="@dimen/image_button_height"
             android:layout_gravity="center"
             android:layout_marginBottom="@dimen/image_button_margin"
-            app:srcCompat="@drawable/norwegian_polish"
-            android:background="@null"/>
+            android:background="@drawable/norwegian_polish" />
 
     </LinearLayout>
 </ScrollView>
