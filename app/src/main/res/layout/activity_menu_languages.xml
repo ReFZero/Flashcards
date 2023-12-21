@@ -24,7 +24,7 @@
             android:gravity="center"
             android:textColor="@color/white"
             android:text="Wybierz język"
-            android:textSize="30dp" />
+            android:textSize="30sp" />
 
         <ImageView
             android:id="@+id/ib_polish_english"

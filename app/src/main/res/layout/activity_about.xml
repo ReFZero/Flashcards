@@ -2,15 +2,42 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
     android:id="@+id/main_menu_layout"
+    android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/background_about"
     android:orientation="vertical"
     tools:context=".activity.About">
 
     <TextView
+        android:id="@+id/about_1"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="40dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="5dp"
+        android:text="@string/about_app"
+        android:textColor="@color/white"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/website"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="40dp"
+        android:layout_marginBottom="5dp"
+        android:text="@string/github_website"
+        android:textColor="@color/white"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/dev"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="40dp"
+        android:layout_marginBottom="5dp"
+        android:text="@string/dev_name"
+        android:textColor="@color/white"
+        android:textSize="15sp" />
 
 </LinearLayout>

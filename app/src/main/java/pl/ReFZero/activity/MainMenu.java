@@ -1,18 +1,32 @@
+/*
+About App:
+The application allows to learn words from various languages.
+Converts paper flashcards to electronic versions.
+Uses JSON files as a vocabulary database.
+Java version used - 11
+
+Main menu class. is the entry point to the application.
+Application flow:
+MainMenu -> MenuLanguages -> MenuSet -> Flashcards
+In:
+ MenuLanguages - allows you to select the language
+ MenuSet - allows you to select a collection of flashcards
+ Flashcards - allows you to learn words from a selected language and set
+ ReFZero 2023
+*/
+
 package pl.ReFZero.activity;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;
-import android.graphics.drawable.AnimationDrawable;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-import android.widget.LinearLayout;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.app.AppCompatDelegate;
-import androidx.constraintlayout.widget.ConstraintLayout;
 
 import pl.ReFZero.R;
+import pl.ReFZero.exceptions.ButtonNotSupportedException;
 
 public class MainMenu extends AppCompatActivity implements View.OnClickListener {
     @SuppressLint("MissingInflatedId")
@@ -44,6 +58,7 @@ public class MainMenu extends AppCompatActivity implements View.OnClickListener 
                 finish();
                 System.exit(0);
                 break;
+            default: throw new ButtonNotSupportedException("Button not supported. Check id button.");
         }
     }
 

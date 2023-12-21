@@ -1,3 +1,7 @@
+/*
+The class allows you to choose learning languages.
+The base language is the one on the left and every flashcard will start with this language.
+ */
 package pl.ReFZero.activity;
 
 import android.annotation.SuppressLint;
@@ -7,12 +11,12 @@ import android.widget.ImageView;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.app.AppCompatDelegate;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import pl.ReFZero.R;
+import pl.ReFZero.exceptions.ButtonNotSupportedException;
 
 public class MenuLanguages extends AppCompatActivity {
 
@@ -25,7 +29,6 @@ public class MenuLanguages extends AppCompatActivity {
         List<ImageView> languageButtons = getLanguageButtons();
         assignButtonListeners(languageButtons);
     }
-
 
     private List<ImageView> getLanguageButtons() {
         List<ImageView> languageButtons = new ArrayList<>();
@@ -40,6 +43,7 @@ public class MenuLanguages extends AppCompatActivity {
         return languageButtons;
     }
 
+    // Assigns appropriate behavior to buttons
     private void assignButtonListeners(List<ImageView> languageButtons) {
         languageButtons.forEach(languageButton -> languageButton.setOnClickListener(
                 view -> navigateToActivity(
@@ -77,7 +81,7 @@ public class MenuLanguages extends AppCompatActivity {
             case R.id.ib_norwegian_polish:
                 return "norwegian_polish";
             default:
-                return "";
+                throw new ButtonNotSupportedException("Button not supported. Check id button.");
         }
     }
 }

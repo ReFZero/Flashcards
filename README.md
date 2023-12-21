@@ -5,8 +5,8 @@ The app for learning words in multiple languages
 - Gradle 7.5
 - Jackson
 #### Changes in the last commit
-- Activity logic changed.
-- Application frontend added
+- Exceptions added. 
+- The application code was changed and tidied up.
 #### Application functionalities
 The application enables:
 - the application allows you to choose from 4 languages

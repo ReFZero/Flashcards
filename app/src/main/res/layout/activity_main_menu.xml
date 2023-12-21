@@ -9,24 +9,13 @@
     android:orientation="vertical"
     tools:context=".activity.MainMenu">
 
-
-    <TextView
-        android:id="@+id/text_main_menu_title"
-        android:layout_width="match_parent"
-        android:layout_height="50dp"
-        android:layout_marginTop="60dp"
-        android:fontFamily="@font/ubuntu_bold"
-        android:text="Flashcards"
-        android:textAlignment="center"
-        android:textColor="@color/white"
-        android:textSize="35sp" />
-
     <ImageView
         android:id="@+id/imageLogo"
-        android:layout_width="match_parent"
-        android:layout_height="181dp"
+        android:layout_width="362dp"
+        android:layout_height="248dp"
         android:layout_marginHorizontal="30dp"
-        android:src="@drawable/logoplaceholder" />
+        android:layout_marginTop="80dp"
+        android:src="@drawable/logo_flashcards" />
 
     <View
         android:layout_width="wrap_content"
