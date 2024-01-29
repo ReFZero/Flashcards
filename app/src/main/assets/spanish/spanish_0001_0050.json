@@ -1,252 +1,252 @@
 [
     {
-        "id": "1",
-        "polish": "jestem",
-        "spanish": "soy"
+        "id": 1,
+        "polish": "dokąd?",
+        "spanish": "¿adónde?"
     },
     {
-        "id": "2",
-        "polish": "ja",
-        "spanish": "yo"
+        "id": 2,
+        "polish": "z kim?",
+        "spanish": "¿con quién?"
     },
     {
-        "id": "3",
-        "polish": "ty",
-        "spanish": "tú"
+        "id": 3,
+        "polish": "jak się masz?",
+        "spanish": "¿cómo estás?"
     },
     {
-        "id": "4",
-        "polish": "kobieta(jakas)",
-        "spanish": "una mujer"
+        "id": 4,
+        "polish": "jak ci leci?",
+        "spanish": "¿cómo teva?"
     },
     {
-        "id": "5",
-        "polish": "mezczyzna(jakiś)",
-        "spanish": "un hombre"
+        "id": 5,
+        "polish": "jak? w jaki sposób?",
+        "spanish": "¿cómo?"
     },
     {
-        "id": "6",
-        "polish": "kobieta(ta)",
-        "spanish": "la mujer"
+        "id": 6,
+        "polish": "jaki jest twój problem?",
+        "spanish": "¿cuál es tu problema?"
     },
     {
-        "id": "7",
-        "polish": "mezczyzna(ten)",
-        "spanish": "el hombre"
+        "id": 7,
+        "polish": "jaki? który? ",
+        "spanish": "¿cuál?"
     },
     {
-        "id": "8",
-        "polish": "on",
-        "spanish": "él"
+        "id": 8,
+        "polish": "jaki? który? (liczba mnoga)",
+        "spanish": "¿cuáles?  "
     },
     {
-        "id": "9",
-        "polish": "ona",
-        "spanish": "ella"
+        "id": 9,
+        "polish": "kiedy ci pasuje?",
+        "spanish": "¿cuándo te va bien?"
     },
     {
-        "id": "10",
-        "polish": "my",
-        "spanish": "nosotros, nosotras"
+        "id": 10,
+        "polish": "kiedy wrócisz?",
+        "spanish": "¿cuándo vuelves?"
     },
     {
-        "id": "11",
-        "polish": "wy",
-        "spanish": "vosotros, vosotras"
+        "id": 11,
+        "polish": "kiedy?",
+        "spanish": "¿cuándo?"
     },
     {
-        "id": "12",
-        "polish": "oni",
-        "spanish": "ellos"
+        "id": 12,
+        "polish": "ile?",
+        "spanish": "¿cuánto? ¿cuánto/a/os/as?"
     },
     {
-        "id": "13",
-        "polish": "one",
-        "spanish": "ellas"
+        "id": 13,
+        "polish": "skad?",
+        "spanish": "¿de dónde?"
     },
     {
-        "id": "14",
-        "polish": "Pan, pani",
-        "spanish": "usted"
+        "id": 14,
+        "polish": "o czym? z czego?",
+        "spanish": "¿de qué?"
     },
     {
-        "id": "15",
-        "polish": "Panstwo",
-        "spanish": "ustedes"
+        "id": 15,
+        "polish": "czyj? czyje? czyja? kogo?",
+        "spanish": "¿de quién?"
     },
     {
-        "id": "16",
-        "polish": "dziewczynka(jakas)",
-        "spanish": "una niña"
+        "id": 16,
+        "polish": "gdzie jesteś?",
+        "spanish": "¿dónde estás? "
     },
     {
-        "id": "17",
-        "polish": "chłopiec(jakiś)",
-        "spanish": "un nino"
+        "id": 17,
+        "polish": "gdzie?",
+        "spanish": "¿dónde?"
     },
     {
-        "id": "18",
-        "polish": "dziewczynka(ta)",
-        "spanish": "la niña"
+        "id": 18,
+        "polish": "dla kogo?",
+        "spanish": "¿para quién?"
     },
     {
-        "id": "19",
-        "polish": "chłopiec(jakiś)",
-        "spanish": "el nino"
+        "id": 19,
+        "polish": "dlaczego nie?",
+        "spanish": "¿por qué no?"
     },
     {
-        "id": "20",
-        "polish": "jeść",
-        "spanish": "comer"
+        "id": 20,
+        "polish": "dlaczego?",
+        "spanish": "¿por qué?"
     },
     {
-        "id": "21",
-        "polish": "jabłko",
-        "spanish": "manzanas"
+        "id": 21,
+        "polish": "co to jest?",
+        "spanish": "¿qué es eso?"
     },
     {
-        "id": "22",
-        "polish": "chleb",
-        "spanish": "el pan"
+        "id": 22,
+        "polish": "co robisz?",
+        "spanish": "¿qué haces?"
     },
     {
-        "id": "23",
-        "polish": "pić",
-        "spanish": "beber"
+        "id": 23,
+        "polish": "która jest godzina?",
+        "spanish": "¿qué hora es?"
     },
     {
-        "id": "24",
+        "id": 24,
+        "polish": "co znaczy to słowo?",
+        "spanish": "¿qué significa esta palabra?"
+    },
+    {
+        "id": 25,
+        "polish": "co?",
+        "spanish": "¿qué?"
+    },
+    {
+        "id": 26,
+        "polish": "kto to?",
+        "spanish": "¿quién es?"
+    },
+    {
+        "id": 27,
+        "polish": "kto?",
+        "spanish": "¿quién?"
+    },
+    {
+        "id": 28,
+        "polish": "kto? (w liczbie mnogiej)",
+        "spanish": "¿quiénes? "
+    },
+    {
+        "id": 29,
+        "polish": "do, w kierunku",
+        "spanish": "a"
+    },
+    {
+        "id": 30,
+        "polish": "konno",
+        "spanish": "a caballo "
+    },
+    {
+        "id": 31,
+        "polish": "codziennie",
+        "spanish": "a diario"
+    },
+    {
+        "id": 32,
+        "polish": "dokąd",
+        "spanish": "a dónde"
+    },
+    {
+        "id": 33,
+        "polish": "jej",
+        "spanish": "a ella"
+    },
+    {
+        "id": 34,
+        "polish": "w tej sytuacji",
+        "spanish": "a estas alturas"
+    },
+    {
+        "id": 35,
+        "polish": "po prawej stronie",
+        "spanish": "a la derecha"
+    },
+    {
+        "id": 36,
+        "polish": "w lewo, po lewej stronie",
+        "spanish": "a la izquierda"
+    },
+    {
+        "id": 37,
+        "polish": "o (podanej godzinie)",
+        "spanish": "a las"
+    },
+    {
+        "id": 38,
+        "polish": "być może, może",
+        "spanish": "a lo mejor"
+    },
+    {
+        "id": 39,
+        "polish": "nam; nas",
+        "spanish": "a nosotros"
+    },
+    {
+        "id": 40,
+        "polish": "pieszo ",
+        "spanish": "a pie "
+    },
+    {
+        "id": 41,
+        "polish": "czasami",
+        "spanish": "a veces"
+    },
+    {
+        "id": 42,
+        "polish": "w dole, na dole",
+        "spanish": "abajo"
+    },
+    {
+        "id": 43,
+        "polish": "porzucac, opuszczać",
+        "spanish": "abandonar"
+    },
+    {
+        "id": 44,
+        "polish": "otwarty",
+        "spanish": "abierto"
+    },
+    {
+        "id": 45,
+        "polish": "obejmować",
+        "spanish": "abrazar"
+    },
+    {
+        "id": 46,
         "polish": "otwierać",
         "spanish": "abrir"
     },
     {
-        "id": "25",
-        "polish": "iść na piechotę",
-        "spanish": "andar"
+        "id": 47,
+        "polish": "nudny",
+        "spanish": "aburrido"
     },
     {
-        "id": "26",
-        "polish": "szukać",
-        "spanish": "buscar"
+        "id": 48,
+        "polish": "tu, tutaj",
+        "spanish": "acá"
     },
     {
-        "id": "27",
-        "polish": "przewracać się",
-        "spanish": "caerse"
+        "id": 49,
+        "polish": "zgodzić się",
+        "spanish": "acceder"
     },
     {
-        "id": "28",
-        "polish": "iść na piechotę",
-        "spanish": "caminar"
-    },
-    {
-        "id": "29",
-        "polish": "zamykać",
-        "spanish": "cerrar"
-    },
-    {
-        "id": "30",
-        "polish": "zaczynać",
-        "spanish": "comenzar(empezar)"
-    },
-    {
-        "id": "31",
-        "polish": "jeść",
-        "spanish": "comer"
-    },
-    {
-        "id": "32",
-        "polish": "kupować",
-        "spanish": "comprar"
-    },
-    {
-        "id": "33",
-        "polish": "prowadzić samochód",
-        "spanish": "conducir"
-    },
-    {
-        "id": "34",
-        "polish": "znać",
-        "spanish": "conocer"
-    },
-    {
-        "id": "35",
-        "polish": "dawać",
-        "spanish": "dar"
-    },
-    {
-        "id": "36",
-        "polish": "powiedzieć",
-        "spanish": "decir"
-    },
-    {
-        "id": "37",
-        "polish": "spać",
-        "spanish": "dormir"
-    },
-    {
-        "id": "38",
-        "polish": "znaleźć",
-        "spanish": "encontrar"
-    },
-    {
-        "id": "39",
-        "polish": "rozumieć",
-        "spanish": "entender"
-    },
-    {
-        "id": "40",
-        "polish": "pisać",
-        "spanish": "escribir"
-    },
-    {
-        "id": "41",
-        "polish": "słuchać",
-        "spanish": "escuchar"
-    },
-    {
-        "id": "42",
-        "polish": "być (chwilowe)",
-        "spanish": "estar"
-    },
-    {
-        "id": "43",
-        "polish": "rozmawiać",
-        "spanish": "hablar"
-    },
-    {
-        "id": "44",
-        "polish": "robić",
-        "spanish": "hacer"
-    },
-    {
-        "id": "45",
-        "polish": "iść, jechać",
-        "spanish": "ir"
-    },
-    {
-        "id": "46",
-        "polish": "grać, bawić się",
-        "spanish": "jugar"
-    },
-    {
-        "id": "47",
-        "polish": "czytać",
-        "spanish": "leer"
-    },
-    {
-        "id": "48",
-        "polish": "dojeżdżać",
-        "spanish": "llegar"
-    },
-    {
-        "id": "49",
-        "polish": "patrzeć",
-        "spanish": "mirar"
-    },
-    {
-        "id": "50",
-        "polish": "potrzebować",
-        "spanish": "necesitar"
+        "id": 50,
+        "polish": "kwaśny",
+        "spanish": "ácido"
     }
 ]

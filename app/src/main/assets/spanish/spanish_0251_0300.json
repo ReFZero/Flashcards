@@ -1,252 +1,252 @@
 [
     {
-        "id": "251",
-        "polish": "siedemdziesiąt osiem",
-        "spanish": "setenta y ocho"
+        "id": 251,
+        "polish": "odkrywać",
+        "spanish": "descubrir"
     },
     {
-        "id": "252",
-        "polish": "siedemdziesiąt dziewięć",
-        "spanish": "setenta y nueve"
+        "id": 252,
+        "polish": "od, z",
+        "spanish": "desde"
     },
     {
-        "id": "253",
-        "polish": "osiemdziesiąt",
-        "spanish": "ochenta"
+        "id": 253,
+        "polish": "życzyć sobie",
+        "spanish": "desear"
     },
     {
-        "id": "254",
-        "polish": "osiemdziesiąt jeden",
-        "spanish": "ochenta y uno"
+        "id": 254,
+        "polish": "niestety",
+        "spanish": "desgraciadamente"
     },
     {
-        "id": "255",
-        "polish": "osiemdziesiąt dwa",
-        "spanish": "ochenta y dos"
+        "id": 255,
+        "polish": "nieszczesliwy",
+        "spanish": "desgraciado"
     },
     {
-        "id": "256",
-        "polish": "osiemdziesiąt trzy",
-        "spanish": "ochenta y tres"
+        "id": 256,
+        "polish": "chaotyczny",
+        "spanish": "desordenado"
     },
     {
-        "id": "257",
-        "polish": "osiemdziesiąt cztery",
-        "spanish": "ochenta y cuatro"
+        "id": 257,
+        "polish": "powoli",
+        "spanish": "despacio"
     },
     {
-        "id": "258",
-        "polish": "osiemdziesiąt pięć",
-        "spanish": "ochenta y cinco"
+        "id": 258,
+        "polish": "pożegnać",
+        "spanish": "despedir"
     },
     {
-        "id": "259",
-        "polish": "osiemdziesiąt sześć",
-        "spanish": "ochenta y seis"
+        "id": 259,
+        "polish": "obudzić się",
+        "spanish": "despertarse"
     },
     {
-        "id": "260",
-        "polish": "osiemdziesiąt siedem",
-        "spanish": "ochenta y siete"
+        "id": 260,
+        "polish": "rozbudzony, nieśpiący",
+        "spanish": "despierto"
     },
     {
-        "id": "261",
-        "polish": "osiemdziesiąt osiem",
-        "spanish": "ochenta y ocho"
+        "id": 261,
+        "polish": "następnie, potem, później, po tym",
+        "spanish": "después"
     },
     {
-        "id": "262",
-        "polish": "osiemdziesiąt dziewięć",
-        "spanish": "ochenta y nueve"
+        "id": 262,
+        "polish": "po",
+        "spanish": "después de"
     },
     {
-        "id": "263",
-        "polish": "dziewięćdziesiąt",
-        "spanish": "noventa"
+        "id": 263,
+        "polish": "z tyłu, w tyle",
+        "spanish": "detrás"
     },
     {
-        "id": "264",
-        "polish": "dziewięćdziesiąt jeden",
-        "spanish": "noventa y uno"
+        "id": 264,
+        "polish": "po",
+        "spanish": "detrás de"
     },
     {
-        "id": "265",
-        "polish": "dziewięćdziesiąt dwa",
-        "spanish": "noventa y dos"
+        "id": 265,
+        "polish": "dziewiętnaście",
+        "spanish": "diecinueve"
     },
     {
-        "id": "266",
-        "polish": "dziewięćdziesiąt trzy",
-        "spanish": "noventa y tres"
+        "id": 266,
+        "polish": "osiemnaście",
+        "spanish": "dieciocho"
     },
     {
-        "id": "267",
-        "polish": "dziewięćdziesiąt cztery",
-        "spanish": "noventa y cuatro"
+        "id": 267,
+        "polish": "szesnaście",
+        "spanish": "dieciséis"
     },
     {
-        "id": "268",
-        "polish": "dziewięćdziesiąt pięć",
-        "spanish": "noventa y cinco"
+        "id": 268,
+        "polish": "siedemnaście",
+        "spanish": "diecisiete"
     },
     {
-        "id": "269",
-        "polish": "dziewięćdziesiąt sześć",
-        "spanish": "noventa y seis"
+        "id": 269,
+        "polish": "dziesięć",
+        "spanish": "diez"
     },
     {
-        "id": "270",
-        "polish": "dziewięćdziesiąt siedem",
-        "spanish": "noventa y siete"
+        "id": 270,
+        "polish": "odróżniać, rozróżniać",
+        "spanish": "diferenciar"
     },
     {
-        "id": "271",
-        "polish": "dziewięćdziesiąt osiem",
-        "spanish": "noventa y ocho"
+        "id": 271,
+        "polish": "inny, różny, odmienny",
+        "spanish": "diferente"
     },
     {
-        "id": "272",
-        "polish": "dziewięćdziesiąt dziewięć",
-        "spanish": "noventa y nueve"
+        "id": 272,
+        "polish": "trudny",
+        "spanish": "difícil"
     },
     {
-        "id": "273",
-        "polish": "sto",
-        "spanish": "cien"
+        "id": 273,
+        "polish": "wybaczać, usprawiedliwiać",
+        "spanish": "disculpar"
     },
     {
-        "id": "274",
+        "id": 274,
+        "polish": "dyskutować",
+        "spanish": "discutir"
+    },
+    {
+        "id": 275,
+        "polish": "korzystać, cieszyc się z, dobrze się bawić",
+        "spanish": "disfrutar"
+    },
+    {
+        "id": 276,
+        "polish": "inny, różny, odmienny",
+        "spanish": "distinto"
+    },
+    {
+        "id": 277,
+        "polish": "zabawny, śmieszny",
+        "spanish": "divertido"
+    },
+    {
+        "id": 278,
+        "polish": "dzielić",
+        "spanish": "dividir"
+    },
+    {
+        "id": 279,
+        "polish": "rozwiedziony",
+        "spanish": "divorciado"
+    },
+    {
+        "id": 280,
+        "polish": "dwanaście",
+        "spanish": "doce"
+    },
+    {
+        "id": 281,
+        "polish": "gdzie",
+        "spanish": "donde"
+    },
+    {
+        "id": 282,
+        "polish": "śpiący",
+        "spanish": "dormido"
+    },
+    {
+        "id": 283,
+        "polish": "spać",
+        "spanish": "dormir"
+    },
+    {
+        "id": 284,
+        "polish": "zasypiać",
+        "spanish": "dormirse"
+    },
+    {
+        "id": 285,
+        "polish": "dwa",
+        "spanish": "dos"
+    },
+    {
+        "id": 286,
         "polish": "dwieście",
         "spanish": "doscientos"
     },
     {
-        "id": "275",
-        "polish": "trzysta",
-        "spanish": "trescientos"
+        "id": 287,
+        "polish": "słodki",
+        "spanish": "dulce"
     },
     {
-        "id": "276",
-        "polish": "czterysta",
-        "spanish": "cuatroscientos"
+        "id": 288,
+        "polish": "trwać",
+        "spanish": "durar"
     },
     {
-        "id": "277",
-        "polish": "pięćset",
-        "spanish": "quinientos"
+        "id": 289,
+        "polish": "twardy",
+        "spanish": "duro"
     },
     {
-        "id": "278",
-        "polish": "sześćset",
-        "spanish": "seisientos"
+        "id": 290,
+        "polish": "on",
+        "spanish": "él"
     },
     {
-        "id": "279",
-        "polish": "siedemset",
-        "spanish": "setecientos"
+        "id": 291,
+        "polish": "płaszcz",
+        "spanish": "el abrigo"
     },
     {
-        "id": "280",
-        "polish": "osiemset",
-        "spanish": "ochocientos"
+        "id": 292,
+        "polish": "dziadek",
+        "spanish": "el abuelo"
     },
     {
-        "id": "281",
-        "polish": "dziewięćset",
-        "spanish": "novecientos"
+        "id": 293,
+        "polish": "olej silnikowy",
+        "spanish": "el aceite del motor"
     },
     {
-        "id": "282",
-        "polish": "tysiąc",
-        "spanish": "mil"
+        "id": 294,
+        "polish": "dorosły",
+        "spanish": "el adulto"
     },
     {
-        "id": "283",
-        "polish": "pierwszy",
-        "spanish": "primero"
+        "id": 295,
+        "polish": "lotnisko",
+        "spanish": "el aeropuerto"
     },
     {
-        "id": "284",
-        "polish": "drugi",
-        "spanish": "segundo"
+        "id": 296,
+        "polish": "uczucie, przychylność, miłość",
+        "spanish": "el afecto"
     },
     {
-        "id": "285",
-        "polish": "trzeci",
-        "spanish": "tercero"
+        "id": 297,
+        "polish": "woda pitna",
+        "spanish": "el agua potable"
     },
     {
-        "id": "286",
-        "polish": "czwarty",
-        "spanish": "cuarto"
+        "id": 298,
+        "polish": "awokado",
+        "spanish": "el aguacate"
     },
     {
-        "id": "287",
-        "polish": "piąty",
-        "spanish": "quinto"
+        "id": 299,
+        "polish": "powietrze",
+        "spanish": "el aire"
     },
     {
-        "id": "288",
-        "polish": "szósty",
-        "spanish": "sexto"
-    },
-    {
-        "id": "289",
-        "polish": "siódmy",
-        "spanish": "séptimo"
-    },
-    {
-        "id": "290",
-        "polish": "ósmy",
-        "spanish": "octavo"
-    },
-    {
-        "id": "291",
-        "polish": "dziewiąty",
-        "spanish": "noveno"
-    },
-    {
-        "id": "292",
-        "polish": "dziesiąty",
-        "spanish": "décimo"
-    },
-    {
-        "id": "293",
-        "polish": "Co?",
-        "spanish": "¿Qué?"
-    },
-    {
-        "id": "294",
-        "polish": "Co robisz?",
-        "spanish": "¿Qué haces? "
-    },
-    {
-        "id": "295",
-        "polish": "Co to jest?",
-        "spanish": "¿Qué es eso?"
-    },
-    {
-        "id": "296",
-        "polish": "Która jest godzina?",
-        "spanish": "¿Qué hora es?"
-    },
-    {
-        "id": "297",
-        "polish": "Co znaczy to słowo?",
-        "spanish": "¿Qué significa esta palabra?"
-    },
-    {
-        "id": "298",
-        "polish": "Kto?",
-        "spanish": "¿Quién?"
-    },
-    {
-        "id": "299",
-        "polish": "Kto? (w liczbie mnogiej)",
-        "spanish": "¿Quiénes? "
-    },
-    {
-        "id": "300",
-        "polish": "Kto to?",
-        "spanish": "¿Quién es?"
+        "id": 300,
+        "polish": "obiad",
+        "spanish": "el almuerzo"
     }
 ]

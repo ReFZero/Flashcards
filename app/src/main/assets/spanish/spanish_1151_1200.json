@@ -1,0 +1,252 @@
+[
+    {
+        "id": 1151,
+        "polish": "jego, jej, pana, pani",
+        "spanish": "su"
+    },
+    {
+        "id": 1152,
+        "polish": "delikatny",
+        "spanish": "suave"
+    },
+    {
+        "id": 1153,
+        "polish": "wsiadać",
+        "spanish": "subir"
+    },
+    {
+        "id": 1154,
+        "polish": "brudny",
+        "spanish": "sucio"
+    },
+    {
+        "id": 1155,
+        "polish": "wystarczający",
+        "spanish": "suficiente"
+    },
+    {
+        "id": 1156,
+        "polish": "trzymać, przytrzymać",
+        "spanish": "sujetar"
+    },
+    {
+        "id": 1157,
+        "polish": "wstrzymywać",
+        "spanish": "suspender "
+    },
+    {
+        "id": 1158,
+        "polish": "taki, taka, takie, tak",
+        "spanish": "tal"
+    },
+    {
+        "id": 1159,
+        "polish": "również, także, też",
+        "spanish": "también"
+    },
+    {
+        "id": 1160,
+        "polish": "jak tylko, gdy tylko",
+        "spanish": "tan pronto como"
+    },
+    {
+        "id": 1161,
+        "polish": "zarówno… jak i",
+        "spanish": "tanto… como"
+    },
+    {
+        "id": 1162,
+        "polish": "późno",
+        "spanish": "tarde"
+    },
+    {
+        "id": 1163,
+        "polish": "bać się",
+        "spanish": "temer"
+    },
+    {
+        "id": 1164,
+        "polish": "mieć",
+        "spanish": "tener"
+    },
+    {
+        "id": 1165,
+        "polish": "uważać, być ostrożnym",
+        "spanish": "tener cuidado"
+    },
+    {
+        "id": 1166,
+        "polish": "zwracać uwagę, uwzględniać",
+        "spanish": "tener en cuenta"
+    },
+    {
+        "id": 1167,
+        "polish": "odbywać się",
+        "spanish": "tener lugar"
+    },
+    {
+        "id": 1168,
+        "polish": "trzeci",
+        "spanish": "tercero"
+    },
+    {
+        "id": 1169,
+        "polish": "okropny",
+        "spanish": "terrible"
+    },
+    {
+        "id": 1170,
+        "polish": "typowy",
+        "spanish": "tipico"
+    },
+    {
+        "id": 1171,
+        "polish": "rzucać, skręcać, pociągnać",
+        "spanish": "tirar"
+    },
+    {
+        "id": 1172,
+        "polish": "dotykać",
+        "spanish": "tocar"
+    },
+    {
+        "id": 1173,
+        "polish": "jeszcze",
+        "spanish": "todavia"
+    },
+    {
+        "id": 1174,
+        "polish": "wszystko",
+        "spanish": "todo"
+    },
+    {
+        "id": 1175,
+        "polish": "wszyscy, wszystkie",
+        "spanish": "todos"
+    },
+    {
+        "id": 1176,
+        "polish": "brać",
+        "spanish": "tomar"
+    },
+    {
+        "id": 1177,
+        "polish": "głupi",
+        "spanish": "tonto"
+    },
+    {
+        "id": 1178,
+        "polish": "pracować",
+        "spanish": "trabajar"
+    },
+    {
+        "id": 1179,
+        "polish": "przynosić, przyprowadzać",
+        "spanish": "traer"
+    },
+    {
+        "id": 1180,
+        "polish": "uspokajać się",
+        "spanish": "tranquilizarse"
+    },
+    {
+        "id": 1181,
+        "polish": "spokojny, spokojnie",
+        "spanish": "tranquilo"
+    },
+    {
+        "id": 1182,
+        "polish": "trzynaście",
+        "spanish": "trece"
+    },
+    {
+        "id": 1183,
+        "polish": "trzydzieści",
+        "spanish": "treinta"
+    },
+    {
+        "id": 1184,
+        "polish": "trzydzieści pięć",
+        "spanish": "treinta y cinco"
+    },
+    {
+        "id": 1185,
+        "polish": "trzydzieści cztery",
+        "spanish": "treinta y cuatro"
+    },
+    {
+        "id": 1186,
+        "polish": "trzydzieści dwa",
+        "spanish": "treinta y dos"
+    },
+    {
+        "id": 1187,
+        "polish": "trzydzieści dziewięć",
+        "spanish": "treinta y nueve"
+    },
+    {
+        "id": 1188,
+        "polish": "trzydzieści osiem",
+        "spanish": "treinta y ocho"
+    },
+    {
+        "id": 1189,
+        "polish": "trzydzieści sześć",
+        "spanish": "treinta y seis"
+    },
+    {
+        "id": 1190,
+        "polish": "trzydzieści siedem",
+        "spanish": "treinta y siete"
+    },
+    {
+        "id": 1191,
+        "polish": "trzydzieści trzy",
+        "spanish": "treinta y tres"
+    },
+    {
+        "id": 1192,
+        "polish": "trzydzieści jeden",
+        "spanish": "treinta y uno"
+    },
+    {
+        "id": 1193,
+        "polish": "trzy",
+        "spanish": "tres"
+    },
+    {
+        "id": 1194,
+        "polish": "trzysta",
+        "spanish": "trescientos"
+    },
+    {
+        "id": 1195,
+        "polish": "smutny",
+        "spanish": "triste"
+    },
+    {
+        "id": 1196,
+        "polish": "twój, twoje, twojego, twojej",
+        "spanish": "tu"
+    },
+    {
+        "id": 1197,
+        "polish": "ty",
+        "spanish": "tú"
+    },
+    {
+        "id": 1198,
+        "polish": "położyć się, kłaść się",
+        "spanish": "tumbarse"
+    },
+    {
+        "id": 1199,
+        "polish": "znajdować się",
+        "spanish": "ubicarse"
+    },
+    {
+        "id": 1200,
+        "polish": "ostani, ostatnie",
+        "spanish": "último"
+    }
+]

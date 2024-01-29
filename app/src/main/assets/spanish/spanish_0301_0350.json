@@ -1,252 +1,252 @@
 [
     {
-        "id": "301",
-        "polish": "Jak? W jaki sposób?",
-        "spanish": "¿Cómo?"
+        "id": 301,
+        "polish": "czynsz, wynajem",
+        "spanish": "el alquiler"
     },
     {
-        "id": "302",
-        "polish": "Jak się masz?",
-        "spanish": "¿Cómo estás? "
+        "id": 302,
+        "polish": "przyjaciel, kolega",
+        "spanish": "el amigo"
     },
     {
-        "id": "303",
-        "polish": "Jak ci leci?",
-        "spanish": "¿Cómo te va?"
+        "id": 303,
+        "polish": "miłość",
+        "spanish": "el amor"
     },
     {
-        "id": "304",
-        "polish": "Kiedy?",
-        "spanish": "¿Cuándo?"
+        "id": 304,
+        "polish": "starszy pan",
+        "spanish": "el anciano"
     },
     {
-        "id": "305",
-        "polish": "Kiedy ci pasuje?",
-        "spanish": "¿Cuándo te va bien?"
+        "id": 305,
+        "polish": "peron",
+        "spanish": "el andén"
     },
     {
-        "id": "306",
-        "polish": "Kiedy wrócisz?",
-        "spanish": "¿Cuándo vuelves?"
+        "id": 306,
+        "polish": "pierścionek",
+        "spanish": "el anillo"
     },
     {
-        "id": "307",
-        "polish": "Ile?",
-        "spanish": "¿Cuánto?  ¿cuánto/a/os/as? "
+        "id": 307,
+        "polish": "zwierze",
+        "spanish": "el animal"
     },
     {
-        "id": "308",
-        "polish": "Gdzie?",
-        "spanish": "¿Dónde?"
+        "id": 308,
+        "polish": "rok",
+        "spanish": "el año"
     },
     {
-        "id": "309",
-        "polish": "Gdzie jesteś?",
-        "spanish": "¿Dónde estás? "
+        "id": 309,
+        "polish": "parking",
+        "spanish": "el aparcamiento"
     },
     {
-        "id": "310",
-        "polish": "Jaki? Który? ",
-        "spanish": "¿Cuál?"
+        "id": 310,
+        "polish": "woda",
+        "spanish": "el aqua"
     },
     {
-        "id": "311",
-        "polish": "Jaki? Który? (liczba mnoga)",
-        "spanish": "¿Cuáles?  "
+        "id": 311,
+        "polish": "żurawina",
+        "spanish": "el arándano"
     },
     {
-        "id": "312",
-        "polish": "Jaki jest twój problem?",
-        "spanish": "¿Cuál es tu problema?"
+        "id": 312,
+        "polish": "drzewo",
+        "spanish": "el árbol"
     },
     {
-        "id": "313",
-        "polish": "Dlaczego?",
-        "spanish": "¿Por qué?"
+        "id": 313,
+        "polish": "kolczyk",
+        "spanish": "el arete"
     },
     {
-        "id": "314",
-        "polish": "Dlaczego nie?",
-        "spanish": "¿Por qué no?"
+        "id": 314,
+        "polish": "szafa",
+        "spanish": "el armario"
     },
     {
-        "id": "315",
-        "polish": "Z kim?",
-        "spanish": "¿Con quién?   "
+        "id": 315,
+        "polish": "winda",
+        "spanish": "el ascensor"
     },
     {
-        "id": "316",
-        "polish": "Czyj? Czyje? Czyja? Kogo?",
-        "spanish": "¿De quién?  "
+        "id": 316,
+        "polish": "autobus",
+        "spanish": "el autobús"
     },
     {
-        "id": "317",
-        "polish": "Dla kogo?",
-        "spanish": "¿Para quién?  "
+        "id": 317,
+        "polish": "autobus ",
+        "spanish": "el autobùs, el bus"
     },
     {
-        "id": "318",
-        "polish": "O czym? Z czego?",
-        "spanish": "¿De qué? "
+        "id": 318,
+        "polish": "samolot",
+        "spanish": "el avion"
     },
     {
-        "id": "319",
-        "polish": "Skad?",
-        "spanish": "¿De dónde?"
+        "id": 319,
+        "polish": "samolot",
+        "spanish": "el avión"
     },
     {
-        "id": "320",
-        "polish": " Dokąd?",
-        "spanish": "¿Adónde?   "
+        "id": 320,
+        "polish": "taniec",
+        "spanish": "el baile"
     },
     {
-        "id": "321",
-        "polish": "biały",
-        "spanish": "blanco"
+        "id": 321,
+        "polish": "bank, ławka",
+        "spanish": "el banco"
     },
     {
-        "id": "322",
-        "polish": "szary",
-        "spanish": "gris"
+        "id": 322,
+        "polish": "kąpiel, toaleta, łazienka",
+        "spanish": "el baño"
     },
     {
-        "id": "323",
-        "polish": "czarny ",
-        "spanish": "negro"
+        "id": 323,
+        "polish": "bar",
+        "spanish": "el bar"
     },
     {
-        "id": "324",
-        "polish": "zielony",
-        "spanish": "verde"
+        "id": 324,
+        "polish": "statek ",
+        "spanish": "el barco "
     },
     {
-        "id": "325",
-        "polish": "niebieski",
-        "spanish": "azul"
+        "id": 325,
+        "polish": "małe dziecko, niemowle",
+        "spanish": "el bebé"
     },
     {
-        "id": "326",
-        "polish": "purpurowy",
-        "spanish": "púrpura"
+        "id": 326,
+        "polish": "pocałunek, buziak",
+        "spanish": "el beso"
     },
     {
-        "id": "327",
-        "polish": "fioletowy",
-        "spanish": "morado"
+        "id": 327,
+        "polish": "banknot, bilet",
+        "spanish": "el billete"
     },
     {
-        "id": "328",
-        "polish": "różowy",
-        "spanish": "rosa"
+        "id": 328,
+        "polish": "torebka (damska)",
+        "spanish": "el bolsa"
     },
     {
-        "id": "329",
-        "polish": "żółty",
-        "spanish": "amarillo"
+        "id": 329,
+        "polish": "las",
+        "spanish": "el bosque"
     },
     {
-        "id": "330",
-        "polish": "pomarańczowy",
-        "spanish": "naranja"
+        "id": 330,
+        "polish": "ramię, ręka",
+        "spanish": "el brazo"
     },
     {
-        "id": "331",
-        "polish": "czerwony",
-        "spanish": "rojo"
+        "id": 331,
+        "polish": "koń",
+        "spanish": "el caballo"
     },
     {
-        "id": "332",
-        "polish": "brązowy",
-        "spanish": "marrón"
+        "id": 332,
+        "polish": "kawa",
+        "spanish": "el café"
     },
     {
-        "id": "333",
-        "polish": "pomarańcza",
-        "spanish": "la naranja"
+        "id": 333,
+        "polish": "skarpetka",
+        "spanish": "el calcetín"
     },
     {
-        "id": "334",
-        "polish": "cytryna",
-        "spanish": "el limón eureka"
+        "id": 334,
+        "polish": "gorąco, ciepło",
+        "spanish": "el calor"
     },
     {
-        "id": "335",
-        "polish": "limonka",
-        "spanish": "el limón"
+        "id": 335,
+        "polish": "kelner",
+        "spanish": "el camarero"
     },
     {
-        "id": "336",
-        "polish": "grejpfrut",
-        "spanish": "la toronja"
+        "id": 336,
+        "polish": "droga",
+        "spanish": "el camino"
     },
     {
-        "id": "337",
-        "polish": "mandarynka",
-        "spanish": "la mandarina"
+        "id": 337,
+        "polish": "cieżarówka",
+        "spanish": "el camión"
     },
     {
-        "id": "338",
-        "polish": "limonka",
-        "spanish": "la lima"
+        "id": 338,
+        "polish": "mistrzostwa świata",
+        "spanish": "el campeonato mundial"
     },
     {
-        "id": "339",
-        "polish": "cytron",
-        "spanish": "el cidro"
+        "id": 339,
+        "polish": "pole",
+        "spanish": "el campo"
     },
     {
-        "id": "340",
-        "polish": "czerwone pomarańcze",
-        "spanish": "la naranja roja"
+        "id": 340,
+        "polish": "prawo jazdy",
+        "spanish": "el carné de conducir"
     },
     {
-        "id": "341",
-        "polish": "brzoskwinia",
-        "spanish": "el durazno"
+        "id": 341,
+        "polish": "dowód osobisty",
+        "spanish": "el carné de identidad"
     },
     {
-        "id": "342",
-        "polish": "śliwka",
-        "spanish": "la ciruela"
+        "id": 342,
+        "polish": "plakat, szyld, znak",
+        "spanish": "el cartel"
     },
     {
-        "id": "343",
-        "polish": "wiśnia",
-        "spanish": "la cereza"
+        "id": 343,
+        "polish": "centrum handlowe",
+        "spanish": "el centro comercial"
     },
     {
-        "id": "344",
-        "polish": "nektarynka",
-        "spanish": "la nectarina"
+        "id": 344,
+        "polish": "szczoteczka do zębów",
+        "spanish": "el cepillo de dientes"
     },
     {
-        "id": "345",
+        "id": 345,
+        "polish": "świnia",
+        "spanish": "el cerdo"
+    },
+    {
+        "id": 346,
         "polish": "morela",
         "spanish": "el chabacano"
     },
     {
-        "id": "346",
-        "polish": "mango",
-        "spanish": "el mango"
+        "id": 347,
+        "polish": "chłopak, chłopiec",
+        "spanish": "el chico"
     },
     {
-        "id": "347",
-        "polish": "oliwka",
-        "spanish": "la aceituna"
+        "id": 348,
+        "polish": "żart, kawał",
+        "spanish": "el chiste"
     },
     {
-        "id": "348",
-        "polish": "kokos",
-        "spanish": "el coco"
+        "id": 349,
+        "polish": "cytron",
+        "spanish": "el cidro"
     },
     {
-        "id": "349",
-        "polish": "daktyl",
-        "spanish": "el dátil"
-    },
-    {
-        "id": "350",
-        "polish": "truskawka",
-        "spanish": "la fresa"
+        "id": 350,
+        "polish": "niebo",
+        "spanish": "el cielo"
     }
 ]

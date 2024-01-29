@@ -1,0 +1,252 @@
+[
+    {
+        "id": 1201,
+        "polish": "mezczyzna(jakiś)",
+        "spanish": "un hombre"
+    },
+    {
+        "id": 1202,
+        "polish": "sam, samodzielnie",
+        "spanish": "una mismo"
+    },
+    {
+        "id": 1203,
+        "polish": "kobieta(jakas)",
+        "spanish": "una mujer"
+    },
+    {
+        "id": 1204,
+        "polish": "dziewczynka(jakas)",
+        "spanish": "una niña"
+    },
+    {
+        "id": 1205,
+        "polish": "pewnego razu",
+        "spanish": "una vez"
+    },
+    {
+        "id": 1206,
+        "polish": "wyjątkowy",
+        "spanish": "único"
+    },
+    {
+        "id": 1207,
+        "polish": "jeden",
+        "spanish": "uno"
+    },
+    {
+        "id": 1208,
+        "polish": "pilnie",
+        "spanish": "urgentemente"
+    },
+    {
+        "id": 1209,
+        "polish": "używać",
+        "spanish": "usar"
+    },
+    {
+        "id": 1210,
+        "polish": "pan, pani",
+        "spanish": "usted"
+    },
+    {
+        "id": 1211,
+        "polish": "panstwo",
+        "spanish": "ustedes"
+    },
+    {
+        "id": 1212,
+        "polish": "pusty",
+        "spanish": "vacio"
+    },
+    {
+        "id": 1213,
+        "polish": "pusty",
+        "spanish": "vacío"
+    },
+    {
+        "id": 1214,
+        "polish": "próżny",
+        "spanish": "vago"
+    },
+    {
+        "id": 1215,
+        "polish": "pasować, leżeć dobrze",
+        "spanish": "valer"
+    },
+    {
+        "id": 1216,
+        "polish": "odważny, dzielny",
+        "spanish": "valiente"
+    },
+    {
+        "id": 1217,
+        "polish": "dżinsy",
+        "spanish": "vaqueros/pantalones de jean"
+    },
+    {
+        "id": 1218,
+        "polish": "różni, różne",
+        "spanish": "varios"
+    },
+    {
+        "id": 1219,
+        "polish": "dwadzieścia",
+        "spanish": "veinte"
+    },
+    {
+        "id": 1220,
+        "polish": "dwadzieścia pięć",
+        "spanish": "veinticinco"
+    },
+    {
+        "id": 1221,
+        "polish": "dwadzieścia cztery",
+        "spanish": "veinticuatro"
+    },
+    {
+        "id": 1222,
+        "polish": "dwadzieścia dwa",
+        "spanish": "veintidós"
+    },
+    {
+        "id": 1223,
+        "polish": "dwadzieścia dziewięć",
+        "spanish": "veintinueve"
+    },
+    {
+        "id": 1224,
+        "polish": "dwadzieścia osiem",
+        "spanish": "veintiocho"
+    },
+    {
+        "id": 1225,
+        "polish": "dwadzieścia sześć",
+        "spanish": "veintiséis"
+    },
+    {
+        "id": 1226,
+        "polish": "dwadzieścia siedem",
+        "spanish": "veintisiete"
+    },
+    {
+        "id": 1227,
+        "polish": "dwadzieścia trzy",
+        "spanish": "veintitrés"
+    },
+    {
+        "id": 1228,
+        "polish": "dwadzieścia jeden",
+        "spanish": "veintiuno"
+    },
+    {
+        "id": 1229,
+        "polish": "przybywać, przychodzić, przyjeżdżać",
+        "spanish": "venir"
+    },
+    {
+        "id": 1230,
+        "polish": "widzieć",
+        "spanish": "ver"
+    },
+    {
+        "id": 1231,
+        "polish": "oglądać telewizje",
+        "spanish": "ver la televisón"
+    },
+    {
+        "id": 1232,
+        "polish": "prawda ",
+        "spanish": "verdad"
+    },
+    {
+        "id": 1233,
+        "polish": "prawdziwy",
+        "spanish": "verdadero"
+    },
+    {
+        "id": 1234,
+        "polish": "zielony",
+        "spanish": "verde"
+    },
+    {
+        "id": 1235,
+        "polish": "sukienka",
+        "spanish": "vestido"
+    },
+    {
+        "id": 1236,
+        "polish": "ubierać się",
+        "spanish": "vestirse"
+    },
+    {
+        "id": 1237,
+        "polish": "stary",
+        "spanish": "viejo"
+    },
+    {
+        "id": 1238,
+        "polish": "brutalny",
+        "spanish": "violento"
+    },
+    {
+        "id": 1239,
+        "polish": "odwiedzać",
+        "spanish": "visitar"
+    },
+    {
+        "id": 1240,
+        "polish": "żyć, mieszkać",
+        "spanish": "vivir"
+    },
+    {
+        "id": 1241,
+        "polish": "latać",
+        "spanish": "volar"
+    },
+    {
+        "id": 1242,
+        "polish": "wracać",
+        "spanish": "volver"
+    },
+    {
+        "id": 1243,
+        "polish": "wy",
+        "spanish": "vosotros"
+    },
+    {
+        "id": 1244,
+        "polish": "wy",
+        "spanish": "vosotros, vosotras"
+    },
+    {
+        "id": 1245,
+        "polish": "wasz",
+        "spanish": "vuestro"
+    },
+    {
+        "id": 1246,
+        "polish": "i, a",
+        "spanish": "y"
+    },
+    {
+        "id": 1247,
+        "polish": "już",
+        "spanish": "ya"
+    },
+    {
+        "id": 1248,
+        "polish": "ja",
+        "spanish": "yo"
+    },
+    {
+        "id": 1249,
+        "polish": "kapcie",
+        "spanish": "zapatillas"
+    },
+    {
+        "id": 1250,
+        "polish": "buty",
+        "spanish": "zapatos"
+    }
+]

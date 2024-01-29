@@ -1,0 +1,252 @@
+[
+    {
+        "id": 1101,
+        "polish": "sześć",
+        "spanish": "seis"
+    },
+    {
+        "id": 1102,
+        "polish": "sześćset",
+        "spanish": "seisientos"
+    },
+    {
+        "id": 1103,
+        "polish": "wrażliwy",
+        "spanish": "sensible"
+    },
+    {
+        "id": 1104,
+        "polish": "siadać",
+        "spanish": "sentarse"
+    },
+    {
+        "id": 1105,
+        "polish": "żałować, czuć, odczuwać przykrość, żal",
+        "spanish": "sentir"
+    },
+    {
+        "id": 1106,
+        "polish": "czuć się",
+        "spanish": "sentirse"
+    },
+    {
+        "id": 1107,
+        "polish": "siódmy",
+        "spanish": "séptimo"
+    },
+    {
+        "id": 1108,
+        "polish": "być",
+        "spanish": "ser"
+    },
+    {
+        "id": 1109,
+        "polish": "poważny",
+        "spanish": "serio"
+    },
+    {
+        "id": 1110,
+        "polish": "obsługiwać",
+        "spanish": "servir"
+    },
+    {
+        "id": 1111,
+        "polish": "sześćdziesiąt",
+        "spanish": "sesenta"
+    },
+    {
+        "id": 1112,
+        "polish": "sześćdziesiąt pięć",
+        "spanish": "sesenta y cinco"
+    },
+    {
+        "id": 1113,
+        "polish": "sześćdziesiąt cztery",
+        "spanish": "sesenta y cuatro"
+    },
+    {
+        "id": 1114,
+        "polish": "sześćdziesiąt dwa",
+        "spanish": "sesenta y dos"
+    },
+    {
+        "id": 1115,
+        "polish": "sześćdziesiąt dziewięć",
+        "spanish": "sesenta y nueve"
+    },
+    {
+        "id": 1116,
+        "polish": "sześćdziesiąt osiem",
+        "spanish": "sesenta y ocho"
+    },
+    {
+        "id": 1117,
+        "polish": "sześćdziesiąt sześć",
+        "spanish": "sesenta y seis"
+    },
+    {
+        "id": 1118,
+        "polish": "sześćdziesiąt siedem",
+        "spanish": "sesenta y siete"
+    },
+    {
+        "id": 1119,
+        "polish": "sześćdziesiąt trzy",
+        "spanish": "sesenta y tres"
+    },
+    {
+        "id": 1120,
+        "polish": "sześćdziesiąt jeden",
+        "spanish": "sesenta y uno"
+    },
+    {
+        "id": 1121,
+        "polish": "siedemset",
+        "spanish": "setecientos"
+    },
+    {
+        "id": 1122,
+        "polish": "siedemdziesiąt",
+        "spanish": "setenta"
+    },
+    {
+        "id": 1123,
+        "polish": "siedemdziesiąt pięć",
+        "spanish": "setenta y cinco"
+    },
+    {
+        "id": 1124,
+        "polish": "siedemdziesiąt cztery",
+        "spanish": "setenta y cuatro"
+    },
+    {
+        "id": 1125,
+        "polish": "siedemdziesiąt dwa",
+        "spanish": "setenta y dos"
+    },
+    {
+        "id": 1126,
+        "polish": "siedemdziesiąt dziewięć",
+        "spanish": "setenta y nueve"
+    },
+    {
+        "id": 1127,
+        "polish": "siedemdziesiąt osiem",
+        "spanish": "setenta y ocho"
+    },
+    {
+        "id": 1128,
+        "polish": "siedemdziesiąt sześć",
+        "spanish": "setenta y seis"
+    },
+    {
+        "id": 1129,
+        "polish": "siedemdziesiąt siedem",
+        "spanish": "setenta y siete"
+    },
+    {
+        "id": 1130,
+        "polish": "siedemdziesiąt trzy",
+        "spanish": "setenta y tres"
+    },
+    {
+        "id": 1131,
+        "polish": "siedemdziesiąt jeden",
+        "spanish": "setenta y uno"
+    },
+    {
+        "id": 1132,
+        "polish": "szósty",
+        "spanish": "sexto"
+    },
+    {
+        "id": 1133,
+        "polish": "tak, jeśli, jeżeli, czy",
+        "spanish": "si"
+    },
+    {
+        "id": 1134,
+        "polish": "zawsze",
+        "spanish": "siempre"
+    },
+    {
+        "id": 1135,
+        "polish": "siedem",
+        "spanish": "siete"
+    },
+    {
+        "id": 1136,
+        "polish": "znaczyć, oznaczać",
+        "spanish": "significar"
+    },
+    {
+        "id": 1137,
+        "polish": "następny",
+        "spanish": "siguiente"
+    },
+    {
+        "id": 1138,
+        "polish": "sympatyczny",
+        "spanish": "simpático"
+    },
+    {
+        "id": 1139,
+        "polish": "łatwy",
+        "spanish": "simple"
+    },
+    {
+        "id": 1140,
+        "polish": "bez",
+        "spanish": "sin"
+    },
+    {
+        "id": 1141,
+        "polish": "jednak",
+        "spanish": "sin embargo"
+    },
+    {
+        "id": 1142,
+        "polish": "lecz, ale",
+        "spanish": "sino"
+    },
+    {
+        "id": 1143,
+        "polish": "na, o , na temat",
+        "spanish": "sobre"
+    },
+    {
+        "id": 1144,
+        "polish": "sam",
+        "spanish": "solo"
+    },
+    {
+        "id": 1145,
+        "polish": "samotny, nieżonaty",
+        "spanish": "soltero"
+    },
+    {
+        "id": 1146,
+        "polish": "kapelusz",
+        "spanish": "sombrero"
+    },
+    {
+        "id": 1147,
+        "polish": "marzyć, śnić",
+        "spanish": "soñar"
+    },
+    {
+        "id": 1148,
+        "polish": "głuchy",
+        "spanish": "sordo"
+    },
+    {
+        "id": 1149,
+        "polish": "jestem",
+        "spanish": "soy"
+    },
+    {
+        "id": 1150,
+        "polish": "tylko",
+        "spanish": "sólo"
+    }
+]

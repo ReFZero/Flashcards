@@ -1,252 +1,252 @@
 [
     {
-        "id": "151",
-        "polish": "szybki",
-        "spanish": "rápido"
+        "id": 151,
+        "polish": "zamykać",
+        "spanish": "cerrar"
     },
     {
-        "id": "152",
-        "polish": "dziwny",
-        "spanish": "raro"
+        "id": 152,
+        "polish": "sto",
+        "spanish": "cien"
     },
     {
-        "id": "153",
-        "polish": "prosty",
-        "spanish": "recto"
-    },
-    {
-        "id": "154",
-        "polish": "okrągły",
-        "spanish": "redondo"
-    },
-    {
-        "id": "155",
-        "polish": "bogaty",
-        "spanish": "rico"
-    },
-    {
-        "id": "156",
-        "polish": "hałaśliwy",
-        "spanish": "ruidoso"
-    },
-    {
-        "id": "157",
-        "polish": "smaczny",
-        "spanish": "sabroso"
-    },
-    {
-        "id": "158",
-        "polish": "słony",
-        "spanish": "salado"
-    },
-    {
-        "id": "159",
-        "polish": "zdrowy",
-        "spanish": "sano"
-    },
-    {
-        "id": "160",
-        "polish": "suchy",
-        "spanish": "seco"
-    },
-    {
-        "id": "161",
-        "polish": "wrażliwy",
-        "spanish": "sensible"
-    },
-    {
-        "id": "162",
-        "polish": "łatwy",
-        "spanish": "simple"
-    },
-    {
-        "id": "163",
-        "polish": "głuchy",
-        "spanish": "sordo"
-    },
-    {
-        "id": "164",
-        "polish": "delikatny",
-        "spanish": "suave"
-    },
-    {
-        "id": "165",
-        "polish": "brudny",
-        "spanish": "sucio"
-    },
-    {
-        "id": "166",
-        "polish": "głupi",
-        "spanish": "tonto"
-    },
-    {
-        "id": "167",
-        "polish": "spokojny",
-        "spanish": "tranquilo"
-    },
-    {
-        "id": "168",
-        "polish": "smutny",
-        "spanish": "triste"
-    },
-    {
-        "id": "169",
-        "polish": "wyjątkowy",
-        "spanish": "único"
-    },
-    {
-        "id": "170",
-        "polish": "pusty",
-        "spanish": "vacío"
-    },
-    {
-        "id": "171",
-        "polish": "prawdziwy",
-        "spanish": "verdadero"
-    },
-    {
-        "id": "172",
-        "polish": "stary",
-        "spanish": "viejo"
-    },
-    {
-        "id": "173",
-        "polish": "brutalny",
-        "spanish": "violento"
-    },
-    {
-        "id": "174",
-        "polish": "jeden",
-        "spanish": "uno"
-    },
-    {
-        "id": "175",
-        "polish": "dwa",
-        "spanish": "dos"
-    },
-    {
-        "id": "176",
-        "polish": "trzy",
-        "spanish": "tres"
-    },
-    {
-        "id": "177",
-        "polish": "cztery",
-        "spanish": "cuatro"
-    },
-    {
-        "id": "178",
+        "id": 153,
         "polish": "pięć",
         "spanish": "cinco"
     },
     {
-        "id": "179",
-        "polish": "sześć",
-        "spanish": "seis"
+        "id": 154,
+        "polish": "pięćdziesiąt",
+        "spanish": "cincuenta"
     },
     {
-        "id": "180",
-        "polish": "siedem",
-        "spanish": "siete"
+        "id": 155,
+        "polish": "pięćdziesiąt pięć",
+        "spanish": "cincuenta y cinco"
     },
     {
-        "id": "181",
-        "polish": "osiem",
-        "spanish": "ocho"
+        "id": 156,
+        "polish": "pięćdziesiąt cztery",
+        "spanish": "cincuenta y cuatro"
     },
     {
-        "id": "182",
-        "polish": "dziewięć",
-        "spanish": "nueve"
+        "id": 157,
+        "polish": "pięćdziesiąt dwa",
+        "spanish": "cincuenta y dos"
     },
     {
-        "id": "183",
-        "polish": "dziesięć",
-        "spanish": "diez"
+        "id": 158,
+        "polish": "pięćdziesiąt dziewięć",
+        "spanish": "cincuenta y nueve"
     },
     {
-        "id": "184",
-        "polish": "jedenaście",
-        "spanish": "once"
+        "id": 159,
+        "polish": "pięćdziesiąt osiem",
+        "spanish": "cincuenta y ocho"
     },
     {
-        "id": "185",
-        "polish": "dwanaście",
-        "spanish": "doce"
+        "id": 160,
+        "polish": "pięćdziesiąt sześć",
+        "spanish": "cincuenta y seis"
     },
     {
-        "id": "186",
-        "polish": "trzynaście",
-        "spanish": "trece"
+        "id": 161,
+        "polish": "pięćdziesiąt siedem",
+        "spanish": "cincuenta y siete"
     },
     {
-        "id": "187",
-        "polish": "czternaście",
-        "spanish": "catorce"
+        "id": 162,
+        "polish": "pięćdziesiąt trzy",
+        "spanish": "cincuenta y tres"
     },
     {
-        "id": "188",
-        "polish": "piętnaście",
-        "spanish": "quince"
+        "id": 163,
+        "polish": "pięćdziesiąt jeden",
+        "spanish": "cincuenta y uno"
     },
     {
-        "id": "189",
-        "polish": "szesnaście",
-        "spanish": "dieciséis"
+        "id": 164,
+        "polish": "wstążka",
+        "spanish": "cinta"
     },
     {
-        "id": "190",
-        "polish": "siedemnaście",
-        "spanish": "diecisiete"
+        "id": 165,
+        "polish": "pasek",
+        "spanish": "cinturón"
     },
     {
-        "id": "191",
-        "polish": "osiemnaście",
-        "spanish": "dieciocho"
+        "id": 166,
+        "polish": "jasny",
+        "spanish": "claro"
     },
     {
-        "id": "192",
-        "polish": "dziewiętnaście",
-        "spanish": "diecinueve"
+        "id": 167,
+        "polish": "gotować",
+        "spanish": "cocinar"
     },
     {
-        "id": "193",
-        "polish": "dwadzieścia",
-        "spanish": "veinte"
+        "id": 168,
+        "polish": "brać, chwytać, łapać",
+        "spanish": "coger"
     },
     {
-        "id": "194",
-        "polish": "dwadzieścia jeden",
-        "spanish": "veintiuno"
+        "id": 169,
+        "polish": "wieszać",
+        "spanish": "colgar"
     },
     {
-        "id": "195",
-        "polish": "dwadzieścia dwa",
-        "spanish": "veintidós"
+        "id": 170,
+        "polish": "umieszczać, ustawiać",
+        "spanish": "colocar"
     },
     {
-        "id": "196",
-        "polish": "dwadzieścia trzy",
-        "spanish": "veintitrés"
+        "id": 171,
+        "polish": "kolorowy",
+        "spanish": "colorido"
     },
     {
-        "id": "197",
-        "polish": "dwadzieścia cztery",
-        "spanish": "veinticuatro"
+        "id": 172,
+        "polish": "zaczynać się, rozpoczynać się",
+        "spanish": "comenzar"
     },
     {
-        "id": "198",
-        "polish": "dwadzieścia pięć",
-        "spanish": "veinticinco"
+        "id": 173,
+        "polish": "zaczynać",
+        "spanish": "comenzar(empezar)"
     },
     {
-        "id": "199",
-        "polish": "dwadzieścia sześć",
-        "spanish": "veintiséis"
+        "id": 174,
+        "polish": "jeść",
+        "spanish": "comer"
     },
     {
-        "id": "200",
-        "polish": "dwadzieścia siedem",
-        "spanish": "veintisiete"
+        "id": 175,
+        "polish": "jak",
+        "spanish": "como "
+    },
+    {
+        "id": 176,
+        "polish": "tak jakby",
+        "spanish": "como si"
+    },
+    {
+        "id": 177,
+        "polish": "całkowicie, zupełnie",
+        "spanish": "completamente"
+    },
+    {
+        "id": 178,
+        "polish": "cały, całkowity, zupełny",
+        "spanish": "completo"
+    },
+    {
+        "id": 179,
+        "polish": "skomplikowany",
+        "spanish": "complicado"
+    },
+    {
+        "id": 180,
+        "polish": "zachowywać się",
+        "spanish": "comportarse"
+    },
+    {
+        "id": 181,
+        "polish": "kupować",
+        "spanish": "comprar"
+    },
+    {
+        "id": 182,
+        "polish": "często",
+        "spanish": "con frecuencia"
+    },
+    {
+        "id": 183,
+        "polish": "z wyjatkiem",
+        "spanish": "con la salvedad de"
+    },
+    {
+        "id": 184,
+        "polish": "prowadzić samochód",
+        "spanish": "conducir"
+    },
+    {
+        "id": 185,
+        "polish": "poznać się, znać",
+        "spanish": "conocer"
+    },
+    {
+        "id": 186,
+        "polish": "zachowywać, przechowywać",
+        "spanish": "conservar"
+    },
+    {
+        "id": 187,
+        "polish": "wciąż, stale, bez przerwy",
+        "spanish": "constantemente"
+    },
+    {
+        "id": 188,
+        "polish": "liczyć, opowiadać",
+        "spanish": "contar"
+    },
+    {
+        "id": 189,
+        "polish": "zadowolony",
+        "spanish": "contento"
+    },
+    {
+        "id": 190,
+        "polish": "przeciw",
+        "spanish": "contra"
+    },
+    {
+        "id": 191,
+        "polish": "zmienić się w ",
+        "spanish": "convertirsen"
+    },
+    {
+        "id": 192,
+        "polish": "poprawny, własciwy",
+        "spanish": "correcto"
+    },
+    {
+        "id": 193,
+        "polish": "biegać",
+        "spanish": "correr"
+    },
+    {
+        "id": 194,
+        "polish": "kroić, ciąc, obcinać",
+        "spanish": "cortar"
+    },
+    {
+        "id": 195,
+        "polish": "uprzejmy, grzeczny",
+        "spanish": "cortés"
+    },
+    {
+        "id": 196,
+        "polish": "krótki",
+        "spanish": "corto"
+    },
+    {
+        "id": 197,
+        "polish": "kosztować",
+        "spanish": "costar"
+    },
+    {
+        "id": 198,
+        "polish": "wygodny",
+        "spanish": "cómodo"
+    },
+    {
+        "id": 199,
+        "polish": "rosnąć",
+        "spanish": "crecer"
+    },
+    {
+        "id": 200,
+        "polish": "wierzyć, sądzić, uważać",
+        "spanish": "creer"
     }
 ]

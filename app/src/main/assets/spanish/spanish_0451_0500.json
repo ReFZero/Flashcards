@@ -1,0 +1,252 @@
+[
+    {
+        "id": 451,
+        "polish": "wnuk",
+        "spanish": "el nieto"
+    },
+    {
+        "id": 452,
+        "polish": "dziecko",
+        "spanish": "el niño"
+    },
+    {
+        "id": 453,
+        "polish": "północ (kierunek)",
+        "spanish": "el norte"
+    },
+    {
+        "id": 454,
+        "polish": "numer, liczba",
+        "spanish": "el número"
+    },
+    {
+        "id": 455,
+        "polish": "zachód (kierunek)",
+        "spanish": "el oeste"
+    },
+    {
+        "id": 456,
+        "polish": "słuch",
+        "spanish": "el oido"
+    },
+    {
+        "id": 457,
+        "polish": "oko",
+        "spanish": "el ojo"
+    },
+    {
+        "id": 458,
+        "polish": "zapach",
+        "spanish": "el olor"
+    },
+    {
+        "id": 459,
+        "polish": "komputer",
+        "spanish": "el ordenador"
+    },
+    {
+        "id": 460,
+        "polish": "ojciec",
+        "spanish": "el padre"
+    },
+    {
+        "id": 461,
+        "polish": "ptak",
+        "spanish": "el pájaro"
+    },
+    {
+        "id": 462,
+        "polish": "chleb",
+        "spanish": "el pan"
+    },
+    {
+        "id": 463,
+        "polish": "bułka",
+        "spanish": "el panacillo"
+    },
+    {
+        "id": 464,
+        "polish": "piekarz",
+        "spanish": "el panadero"
+    },
+    {
+        "id": 465,
+        "polish": "spodnie",
+        "spanish": "el pantalón"
+    },
+    {
+        "id": 466,
+        "polish": "tata, tatuś",
+        "spanish": "el papá"
+    },
+    {
+        "id": 467,
+        "polish": "paczka",
+        "spanish": "el paquete"
+    },
+    {
+        "id": 468,
+        "polish": "park",
+        "spanish": "el parque"
+    },
+    {
+        "id": 469,
+        "polish": "spacer",
+        "spanish": "el paseo"
+    },
+    {
+        "id": 470,
+        "polish": "krok",
+        "spanish": "el paso"
+    },
+    {
+        "id": 471,
+        "polish": "ciastko, placek",
+        "spanish": "el pastel"
+    },
+    {
+        "id": 472,
+        "polish": "niebezpieczeństwo",
+        "spanish": "el peligro"
+    },
+    {
+        "id": 473,
+        "polish": "włosy",
+        "spanish": "el pelo"
+    },
+    {
+        "id": 474,
+        "polish": "gazeta",
+        "spanish": "el periódico"
+    },
+    {
+        "id": 475,
+        "polish": "pies",
+        "spanish": "el perro"
+    },
+    {
+        "id": 476,
+        "polish": "ryba (złowiona)",
+        "spanish": "el pescado"
+    },
+    {
+        "id": 477,
+        "polish": "ryba (w wodzie)",
+        "spanish": "el pez"
+    },
+    {
+        "id": 478,
+        "polish": "stopa",
+        "spanish": "el pie"
+    },
+    {
+        "id": 479,
+        "polish": "piętro, mieszkanie",
+        "spanish": "el piso"
+    },
+    {
+        "id": 480,
+        "polish": "plan",
+        "spanish": "el plano"
+    },
+    {
+        "id": 481,
+        "polish": "banan",
+        "spanish": "el plátano"
+    },
+    {
+        "id": 482,
+        "polish": "talerz",
+        "spanish": "el plato"
+    },
+    {
+        "id": 483,
+        "polish": "policjant",
+        "spanish": "el policia"
+    },
+    {
+        "id": 484,
+        "polish": "cena",
+        "spanish": "el precio"
+    },
+    {
+        "id": 485,
+        "polish": "nagroda",
+        "spanish": "el premio"
+    },
+    {
+        "id": 486,
+        "polish": "problem",
+        "spanish": "el problema"
+    },
+    {
+        "id": 487,
+        "polish": "nauczyciel",
+        "spanish": "el profesor"
+    },
+    {
+        "id": 488,
+        "polish": "wioska",
+        "spanish": "el pueblo"
+    },
+    {
+        "id": 489,
+        "polish": "most",
+        "spanish": "el puente"
+    },
+    {
+        "id": 490,
+        "polish": "stanowisko, posada",
+        "spanish": "el puesto"
+    },
+    {
+        "id": 491,
+        "polish": "miejsce spotkania",
+        "spanish": "el punto de encuentro"
+    },
+    {
+        "id": 492,
+        "polish": "chwila, moment",
+        "spanish": "el rato"
+    },
+    {
+        "id": 493,
+        "polish": "zegar",
+        "spanish": "el reloj"
+    },
+    {
+        "id": 494,
+        "polish": "przeziębienie",
+        "spanish": "el resfriado"
+    },
+    {
+        "id": 495,
+        "polish": "restauracja",
+        "spanish": "el restaurante"
+    },
+    {
+        "id": 496,
+        "polish": "reszta",
+        "spanish": "el resto"
+    },
+    {
+        "id": 497,
+        "polish": "rzeka",
+        "spanish": "el rio"
+    },
+    {
+        "id": 498,
+        "polish": "odgłos, szum, hałas",
+        "spanish": "el ruido"
+    },
+    {
+        "id": 499,
+        "polish": "salon",
+        "spanish": "el salón"
+    },
+    {
+        "id": 500,
+        "polish": "powitanie, pozdrowienie",
+        "spanish": "el saludo"
+    }
+]

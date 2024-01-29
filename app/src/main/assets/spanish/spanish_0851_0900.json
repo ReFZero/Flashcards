@@ -1,0 +1,252 @@
+[
+    {
+        "id": 851,
+        "polish": "ręcznik",
+        "spanish": "la toalla"
+    },
+    {
+        "id": 852,
+        "polish": "grejpfrut",
+        "spanish": "la toronja"
+    },
+    {
+        "id": 853,
+        "polish": "tramwaj ",
+        "spanish": "la tranbía"
+    },
+    {
+        "id": 854,
+        "polish": "spokój",
+        "spanish": "la tranquilidad"
+    },
+    {
+        "id": 855,
+        "polish": "uniwersytet",
+        "spanish": "la universidad"
+    },
+    {
+        "id": 856,
+        "polish": "krowa",
+        "spanish": "la vaca"
+    },
+    {
+        "id": 857,
+        "polish": "odwaga, dzielność",
+        "spanish": "la valentia"
+    },
+    {
+        "id": 858,
+        "polish": "zaleta",
+        "spanish": "la ventaja"
+    },
+    {
+        "id": 859,
+        "polish": "warzywa",
+        "spanish": "la verdura"
+    },
+    {
+        "id": 860,
+        "polish": "życie",
+        "spanish": "la vida"
+    },
+    {
+        "id": 861,
+        "polish": "wizyta, odwiedziny",
+        "spanish": "la visita"
+    },
+    {
+        "id": 862,
+        "polish": "jeżyna",
+        "spanish": "la zarzamora"
+    },
+    {
+        "id": 863,
+        "polish": "długo",
+        "spanish": "largo"
+    },
+    {
+        "id": 864,
+        "polish": "okulary",
+        "spanish": "las gafas"
+    },
+    {
+        "id": 865,
+        "polish": "okulary przeciwsłoneczne",
+        "spanish": "las gafas de sol"
+    },
+    {
+        "id": 866,
+        "polish": "podziękowania",
+        "spanish": "las gracias"
+    },
+    {
+        "id": 867,
+        "polish": "wiadomości",
+        "spanish": "las noticias"
+    },
+    {
+        "id": 868,
+        "polish": "wakacje",
+        "spanish": "las vacaciones"
+    },
+    {
+        "id": 869,
+        "polish": "myć, prać",
+        "spanish": "lavar"
+    },
+    {
+        "id": 870,
+        "polish": "czytać",
+        "spanish": "leer"
+    },
+    {
+        "id": 871,
+        "polish": "daleko",
+        "spanish": "lejos"
+    },
+    {
+        "id": 872,
+        "polish": "powoli",
+        "spanish": "lento"
+    },
+    {
+        "id": 873,
+        "polish": "podnosić, unosić",
+        "spanish": "levantar"
+    },
+    {
+        "id": 874,
+        "polish": "wstawać, podnosić się",
+        "spanish": "levantarse"
+    },
+    {
+        "id": 875,
+        "polish": "wolny",
+        "spanish": "libre"
+    },
+    {
+        "id": 876,
+        "polish": "lekki",
+        "spanish": "ligero"
+    },
+    {
+        "id": 877,
+        "polish": "liliowy",
+        "spanish": "lila"
+    },
+    {
+        "id": 878,
+        "polish": "czysty",
+        "spanish": "limpio"
+    },
+    {
+        "id": 879,
+        "polish": "gotowy, bystry, inteligentny",
+        "spanish": "listo"
+    },
+    {
+        "id": 880,
+        "polish": "dzwonić, wołać",
+        "spanish": "llamar"
+    },
+    {
+        "id": 881,
+        "polish": "dzwonić",
+        "spanish": "llamar por teléfono"
+    },
+    {
+        "id": 882,
+        "polish": "nazywac się",
+        "spanish": "llamarse"
+    },
+    {
+        "id": 883,
+        "polish": "przychodzić, przyjeżdżać",
+        "spanish": "llegar"
+    },
+    {
+        "id": 884,
+        "polish": "napełniać, wypełniać",
+        "spanish": "llenar"
+    },
+    {
+        "id": 885,
+        "polish": "pełny, syty, najedzony",
+        "spanish": "lleno"
+    },
+    {
+        "id": 886,
+        "polish": "nosić, zabrać, zawieźć",
+        "spanish": "llevar"
+    },
+    {
+        "id": 887,
+        "polish": "płakać",
+        "spanish": "llorar"
+    },
+    {
+        "id": 888,
+        "polish": "pada deszcz",
+        "spanish": "llover"
+    },
+    {
+        "id": 889,
+        "polish": "to, tego",
+        "spanish": "lo"
+    },
+    {
+        "id": 890,
+        "polish": "przeciwieństwo",
+        "spanish": "lo contrario"
+    },
+    {
+        "id": 891,
+        "polish": "najlepiej",
+        "spanish": "lo mejor"
+    },
+    {
+        "id": 892,
+        "polish": "najbardziej, najwięcej",
+        "spanish": "lo que más"
+    },
+    {
+        "id": 893,
+        "polish": "szalony, zwariowany",
+        "spanish": "loco"
+    },
+    {
+        "id": 894,
+        "polish": "rodzice",
+        "spanish": "lod padres"
+    },
+    {
+        "id": 895,
+        "polish": "uzyskiwać",
+        "spanish": "lograr"
+    },
+    {
+        "id": 896,
+        "polish": "dziadkowie",
+        "spanish": "los abuelos"
+    },
+    {
+        "id": 897,
+        "polish": "kreskówki",
+        "spanish": "los dibujos animados"
+    },
+    {
+        "id": 898,
+        "polish": "wydatki",
+        "spanish": "los gastos"
+    },
+    {
+        "id": 899,
+        "polish": "pierwsza pomoc",
+        "spanish": "los primeros auxilios"
+    },
+    {
+        "id": 900,
+        "polish": "dżinsy",
+        "spanish": "los vaqueros"
+    }
+]

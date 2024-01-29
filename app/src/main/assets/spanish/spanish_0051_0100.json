@@ -1,252 +1,252 @@
 [
     {
-        "id": "51",
-        "polish": "słyszeć",
-        "spanish": "oír"
+        "id": 51,
+        "polish": "wyjaśnić",
+        "spanish": "aclar"
     },
     {
-        "id": "52",
-        "polish": "płacić",
-        "spanish": "pagar"
+        "id": 52,
+        "polish": "przytulny",
+        "spanish": "acogedor"
     },
     {
-        "id": "53",
-        "polish": "prosić",
-        "spanish": "pedir"
+        "id": 53,
+        "polish": "pamietać, przypominać sobie",
+        "spanish": "acordarse"
     },
     {
-        "id": "54",
-        "polish": "myśleć",
-        "spanish": "pensar"
-    },
-    {
-        "id": "55",
-        "polish": "przegrywać/zgubić się",
-        "spanish": "perder"
-    },
-    {
-        "id": "56",
-        "polish": "móc",
-        "spanish": "poder"
-    },
-    {
-        "id": "57",
-        "polish": "kłaść",
-        "spanish": "poner"
-    },
-    {
-        "id": "58",
-        "polish": "umawiać się",
-        "spanish": "quedar"
-    },
-    {
-        "id": "59",
-        "polish": "chcieć",
-        "spanish": "querer"
-    },
-    {
-        "id": "60",
-        "polish": "wiedzieć",
-        "spanish": "saber"
-    },
-    {
-        "id": "61",
-        "polish": "wychodzić",
-        "spanish": "salir"
-    },
-    {
-        "id": "62",
-        "polish": "podskakiwać",
-        "spanish": "saltar"
-    },
-    {
-        "id": "63",
-        "polish": "siadać",
-        "spanish": "sentarse"
-    },
-    {
-        "id": "64",
-        "polish": "czuć się",
-        "spanish": "sentirse"
-    },
-    {
-        "id": "65",
-        "polish": "być (na stałe)",
-        "spanish": "ser"
-    },
-    {
-        "id": "66",
-        "polish": "mieć",
-        "spanish": "tener"
-    },
-    {
-        "id": "67",
-        "polish": "dotykać",
-        "spanish": "tocar"
-    },
-    {
-        "id": "68",
-        "polish": "brać",
-        "spanish": "tomar"
-    },
-    {
-        "id": "69",
-        "polish": "pracować",
-        "spanish": "trabajar"
-    },
-    {
-        "id": "70",
-        "polish": "przynosić",
-        "spanish": "traer"
-    },
-    {
-        "id": "71",
-        "polish": "oglądać",
-        "spanish": "ver"
-    },
-    {
-        "id": "72",
-        "polish": "żyć, mieszkać",
-        "spanish": "vivir"
-    },
-    {
-        "id": "73",
-        "polish": "nudny",
-        "spanish": "aburrido"
-    },
-    {
-        "id": "74",
-        "polish": "kwaśny",
-        "spanish": "ácido"
-    },
-    {
-        "id": "75",
+        "id": 54,
         "polish": "odpowiedni",
         "spanish": "adecuado"
     },
     {
-        "id": "76",
+        "id": 55,
+        "polish": "poza tym, ponadto",
+        "spanish": "además"
+    },
+    {
+        "id": 56,
+        "polish": "dodatkowy",
+        "spanish": "adicional"
+    },
+    {
+        "id": 57,
+        "polish": "do widzenia, cześć",
+        "spanish": "adiós"
+    },
+    {
+        "id": 58,
+        "polish": "golić się",
+        "spanish": "afeitar (se)"
+    },
+    {
+        "id": 59,
+        "polish": "ostry, zaostrzony ",
+        "spanish": "afilado"
+    },
+    {
+        "id": 60,
+        "polish": "na zewnatrz",
+        "spanish": "afuera"
+    },
+    {
+        "id": 61,
+        "polish": "wstrząsać, potrząsać",
+        "spanish": "agitar"
+    },
+    {
+        "id": 62,
+        "polish": "przyjemny, miły",
+        "spanish": "agradable"
+    },
+    {
+        "id": 63,
+        "polish": "dziękować",
+        "spanish": "agradecer"
+    },
+    {
+        "id": 64,
+        "polish": "tam",
+        "spanish": "ahi"
+    },
+    {
+        "id": 65,
+        "polish": "teraz",
+        "spanish": "ahora"
+    },
+    {
+        "id": 66,
+        "polish": "oszczędzać",
+        "spanish": "ahorrar"
+    },
+    {
+        "id": 67,
+        "polish": "obok",
+        "spanish": "al lado"
+    },
+    {
+        "id": 68,
+        "polish": "najwidoczniej, wydaje się, że",
+        "spanish": "al parecer"
+    },
+    {
+        "id": 69,
+        "polish": "osiągać, doganiać",
+        "spanish": "alcanzar"
+    },
+    {
+        "id": 70,
+        "polish": "cieszyć się",
+        "spanish": "alegrarse"
+    },
+    {
+        "id": 71,
         "polish": "wesoły",
         "spanish": "alegre"
     },
     {
-        "id": "77",
-        "polish": "wysoki",
+        "id": 72,
+        "polish": "coś",
+        "spanish": "algo"
+    },
+    {
+        "id": 73,
+        "polish": "kiedykolwiek, kiedyś",
+        "spanish": "alguna vez"
+    },
+    {
+        "id": 74,
+        "polish": "tam",
+        "spanish": "allí"
+    },
+    {
+        "id": 75,
+        "polish": "jeść obiad",
+        "spanish": "almorzar"
+    },
+    {
+        "id": 76,
+        "polish": "wynajmować, wypożyczać",
+        "spanish": "alquilar"
+    },
+    {
+        "id": 77,
+        "polish": "wysoki, głośny, głośno",
         "spanish": "alto"
     },
     {
-        "id": "78",
+        "id": 78,
+        "polish": "kochać",
+        "spanish": "amar"
+    },
+    {
+        "id": 79,
         "polish": "gorzki",
         "spanish": "amargo"
     },
     {
-        "id": "79",
-        "polish": "szeroki",
+        "id": 80,
+        "polish": "żółty",
+        "spanish": "amarillo"
+    },
+    {
+        "id": 81,
+        "polish": "obydwa, obydwoje",
+        "spanish": "ambos"
+    },
+    {
+        "id": 82,
+        "polish": "szeroki, szerokie",
         "spanish": "ancho"
     },
     {
-        "id": "80",
+        "id": 83,
+        "polish": "idąc",
+        "spanish": "andando "
+    },
+    {
+        "id": 84,
+        "polish": "chodzić, spacerować",
+        "spanish": "andar"
+    },
+    {
+        "id": 85,
+        "polish": "wczoraj wieczorem, w nocy",
+        "spanish": "anoche"
+    },
+    {
+        "id": 86,
+        "polish": "przedwczoraj",
+        "spanish": "anteayer"
+    },
+    {
+        "id": 87,
+        "polish": "dawniejszy, poprzedni, były",
+        "spanish": "anterior"
+    },
+    {
+        "id": 88,
+        "polish": "wcześniej, przedtem",
+        "spanish": "antes"
+    },
+    {
+        "id": 89,
+        "polish": "przed",
+        "spanish": "antes de"
+    },
+    {
+        "id": 90,
+        "polish": "ogłaszać",
+        "spanish": "anunciar"
+    },
+    {
+        "id": 91,
+        "polish": "wyłączony, zgaszony",
+        "spanish": "apagado"
+    },
+    {
+        "id": 92,
+        "polish": "wyłączać, gasić",
+        "spanish": "apagar"
+    },
+    {
+        "id": 93,
+        "polish": "parkować",
+        "spanish": "aparcar"
+    },
+    {
+        "id": 94,
+        "polish": "nauczyć się",
+        "spanish": "aprender"
+    },
+    {
+        "id": 95,
+        "polish": "około, w przybliżeniu",
+        "spanish": "aproximadamente"
+    },
+    {
+        "id": 96,
+        "polish": "tutaj, tu",
+        "spanish": "aquí"
+    },
+    {
+        "id": 97,
+        "polish": "palić się, płonąć",
+        "spanish": "arder"
+    },
+    {
+        "id": 98,
+        "polish": "na górze, u góry, do góry",
+        "spanish": "arriba"
+    },
+    {
+        "id": 99,
         "polish": "sztuczny",
         "spanish": "artificial"
     },
     {
-        "id": "81",
-        "polish": "obrzydliwy",
-        "spanish": "asqueroso"
-    },
-    {
-        "id": "82",
-        "polish": "niski",
-        "spanish": "bajo"
-    },
-    {
-        "id": "83",
-        "polish": "tani",
-        "spanish": "barato"
-    },
-    {
-        "id": "84",
-        "polish": "miękki",
-        "spanish": "blando"
-    },
-    {
-        "id": "85",
-        "polish": "dobry",
-        "spanish": "bueno"
-    },
-    {
-        "id": "86",
-        "polish": "ciepły",
-        "spanish": "caliente"
-    },
-    {
-        "id": "87",
-        "polish": "zmęczony",
-        "spanish": "cansado"
-    },
-    {
-        "id": "88",
-        "polish": "drogi",
-        "spanish": "caro"
-    },
-    {
-        "id": "89",
-        "polish": "kolorowy",
-        "spanish": "colorido"
-    },
-    {
-        "id": "90",
-        "polish": "skomplikowany",
-        "spanish": "complicado"
-    },
-    {
-        "id": "91",
-        "polish": "zadowolony",
-        "spanish": "contento"
-    },
-    {
-        "id": "92",
-        "polish": "krótki",
-        "spanish": "corto"
-    },
-    {
-        "id": "93",
-        "polish": "wygodny",
-        "spanish": "cómodo"
-    },
-    {
-        "id": "94",
-        "polish": "okrutny",
-        "spanish": "cruel"
-    },
-    {
-        "id": "95",
-        "polish": "kwadratowy",
-        "spanish": "cuadrado"
-    },
-    {
-        "id": "96",
-        "polish": "słaby",
-        "spanish": "débil"
-    },
-    {
-        "id": "97",
-        "polish": "szczupły",
-        "spanish": "delgado"
-    },
-    {
-        "id": "98",
-        "polish": "żywy, obudzony",
-        "spanish": "despierto"
-    },
-    {
-        "id": "99",
-        "polish": "chaotyczny",
-        "spanish": "desordenado"
-    },
-    {
-        "id": "100",
-        "polish": "różny",
-        "spanish": "diferente"
+        "id": 100,
+        "polish": "pieczony",
+        "spanish": "asado"
     }
 ]

@@ -1,252 +1,252 @@
 [
     {
-        "id": "351",
-        "polish": "jagoda",
-        "spanish": "la mora azul"
+        "id": 351,
+        "polish": "papieros",
+        "spanish": "el cigarrillo"
     },
     {
-        "id": "352",
-        "polish": "malina",
-        "spanish": "la frambuesa"
+        "id": 352,
+        "polish": "kino",
+        "spanish": "el cine"
     },
     {
-        "id": "353",
-        "polish": "jeżyna",
-        "spanish": "la zarzamora"
+        "id": 353,
+        "polish": "samochód",
+        "spanish": "el coche"
     },
     {
-        "id": "354",
-        "polish": "żurawina",
-        "spanish": "el arándano"
-    },
-    {
-        "id": "355",
-        "polish": "agrest",
-        "spanish": "la grosella"
-    },
-    {
-        "id": "356",
-        "polish": "czarna porzeczka",
-        "spanish": "la grosella negra"
-    },
-    {
-        "id": "357",
-        "polish": "arbuz",
-        "spanish": "la sandía"
-    },
-    {
-        "id": "358",
-        "polish": "awokado",
-        "spanish": "el aguacate"
-    },
-    {
-        "id": "359",
-        "polish": "banan",
-        "spanish": "el plátano"
-    },
-    {
-        "id": "360",
-        "polish": "smoczy owoc",
-        "spanish": "la pitahaya"
-    },
-    {
-        "id": "361",
-        "polish": "kiwi",
-        "spanish": "el kiwi"
-    },
-    {
-        "id": "362",
-        "polish": "papaja",
-        "spanish": "la papaya"
-    },
-    {
-        "id": "363",
-        "polish": "ananas",
-        "spanish": "la piña"
-    },
-    {
-        "id": "364",
-        "polish": "smoczy owoc",
-        "spanish": "la pitaya"
-    },
-    {
-        "id": "365",
-        "polish": "ciężarówka ",
-        "spanish": "el camión "
-    },
-    {
-        "id": "366",
-        "polish": "pociąg ",
-        "spanish": "el tren "
-    },
-    {
-        "id": "367",
-        "polish": "autobus ",
-        "spanish": "el autobùs, el bus"
-    },
-    {
-        "id": "368",
+        "id": 354,
         "polish": "samochód ",
         "spanish": "el coche, el automovil"
     },
     {
-        "id": "369",
-        "polish": "tramwaj ",
-        "spanish": "la tranbía"
+        "id": 355,
+        "polish": "kokos",
+        "spanish": "el coco"
     },
     {
-        "id": "370",
-        "polish": "motocykl ",
-        "spanish": "la moto"
+        "id": 356,
+        "polish": "szkoła",
+        "spanish": "el colegio"
     },
     {
-        "id": "371",
-        "polish": "rower ",
-        "spanish": "la bicicleta "
+        "id": 357,
+        "polish": "kolor",
+        "spanish": "el color"
     },
     {
-        "id": "372",
-        "polish": "motorower",
-        "spanish": "la motocicleta"
+        "id": 358,
+        "polish": "sklep",
+        "spanish": "el comercio"
     },
     {
-        "id": "373",
-        "polish": "taksówka ",
-        "spanish": "el taxi "
+        "id": 359,
+        "polish": "kolega z pracy",
+        "spanish": "el compañero de trabajo"
     },
     {
-        "id": "374",
-        "polish": "metro ",
-        "spanish": "el metro "
+        "id": 360,
+        "polish": "rada, porada",
+        "spanish": "el consejo"
     },
     {
-        "id": "375",
-        "polish": "kolejka podmiejska",
-        "spanish": "el tren de cercanías"
+        "id": 361,
+        "polish": "poczta, korespondencja",
+        "spanish": "el correo"
     },
     {
-        "id": "376",
-        "polish": "pieszo ",
-        "spanish": "a pie "
+        "id": 362,
+        "polish": "poczta elektroniczna",
+        "spanish": "el correo electrónico"
     },
     {
-        "id": "377",
-        "polish": "idąc",
-        "spanish": "andando "
+        "id": 363,
+        "polish": "szyba",
+        "spanish": "el cristal"
     },
     {
-        "id": "378",
-        "polish": "konno",
-        "spanish": "a caballo "
+        "id": 364,
+        "polish": "obraz, obrazek",
+        "spanish": "el cuadro"
     },
     {
-        "id": "379",
-        "polish": "żaglówka",
-        "spanish": "el velero"
+        "id": 365,
+        "polish": "ćwiartka, ćwierć",
+        "spanish": "el cuarto"
     },
     {
-        "id": "380",
-        "polish": "łódka",
-        "spanish": "la barca"
+        "id": 366,
+        "polish": "łazienka",
+        "spanish": "el cuarto de baño"
     },
     {
-        "id": "381",
-        "polish": "statek ",
-        "spanish": "el barco "
+        "id": 367,
+        "polish": "nóż",
+        "spanish": "el cuchillo"
     },
     {
-        "id": "382",
-        "polish": "helikopter ",
-        "spanish": "el helicoptero"
+        "id": 368,
+        "polish": "szyja",
+        "spanish": "el cuello"
     },
     {
-        "id": "383",
-        "polish": "balon",
-        "spanish": "el globo "
+        "id": 369,
+        "polish": "ciało",
+        "spanish": "el cuerpo"
     },
     {
-        "id": "384",
-        "polish": "samolot",
-        "spanish": "el avion"
+        "id": 370,
+        "polish": "urodziny",
+        "spanish": "el cumpleaños"
     },
     {
-        "id": "385",
-        "polish": "ubrania",
-        "spanish": "la ropa"
+        "id": 371,
+        "polish": "daktyl",
+        "spanish": "el dátil"
     },
     {
-        "id": "386",
-        "polish": "czapka",
-        "spanish": "gorra"
+        "id": 372,
+        "polish": "palec",
+        "spanish": "el dedo"
     },
     {
-        "id": "387",
-        "polish": "kurtka",
-        "spanish": "campera"
+        "id": 373,
+        "polish": "dentysta",
+        "spanish": "el dentista"
     },
     {
-        "id": "388",
-        "polish": "chustka",
-        "spanish": "pañuelo"
+        "id": 374,
+        "polish": "prawo",
+        "spanish": "el derecho"
     },
     {
-        "id": "389",
-        "polish": "koszulka",
-        "spanish": "camiseta/remera"
+        "id": 375,
+        "polish": "śniadanie",
+        "spanish": "el desayuno"
     },
     {
-        "id": "390",
-        "polish": "rekawice",
-        "spanish": "guantes"
+        "id": 376,
+        "polish": "budzik",
+        "spanish": "el despertador"
     },
     {
-        "id": "391",
-        "polish": "spodnie",
-        "spanish": "pantalón"
+        "id": 377,
+        "polish": "dzień",
+        "spanish": "el día"
     },
     {
-        "id": "392",
-        "polish": "kapcie",
-        "spanish": "zapatillas"
+        "id": 378,
+        "polish": "dzień tygodnia",
+        "spanish": "el día de la semana"
     },
     {
-        "id": "393",
-        "polish": "koszula",
-        "spanish": "camisa"
+        "id": 379,
+        "polish": "ząb",
+        "spanish": "el diente"
     },
     {
-        "id": "394",
-        "polish": "dżinsy",
-        "spanish": "vaqueros/pantalones de jean"
+        "id": 380,
+        "polish": "pieniądze",
+        "spanish": "el dinero"
     },
     {
-        "id": "395",
-        "polish": "buty",
-        "spanish": "zapatos"
+        "id": 381,
+        "polish": "gotówka",
+        "spanish": "el dinero en metálico"
     },
     {
-        "id": "396",
-        "polish": "pasek",
-        "spanish": "cinturón"
+        "id": 382,
+        "polish": "bóg",
+        "spanish": "el dios"
     },
     {
-        "id": "397",
-        "polish": "bluzka",
-        "spanish": "blusa"
+        "id": 383,
+        "polish": "niepełnosprawny",
+        "spanish": "el disminuido"
     },
     {
-        "id": "398",
-        "polish": "spódnica",
-        "spanish": "pollero"
+        "id": 384,
+        "polish": "ból",
+        "spanish": "el dolor"
     },
     {
-        "id": "399",
-        "polish": "kapelusz",
-        "spanish": "sombrero"
+        "id": 385,
+        "polish": "ból głowy",
+        "spanish": "el dolor de cabeza"
     },
     {
-        "id": "400",
-        "polish": "sukienka",
-        "spanish": "vestido"
+        "id": 386,
+        "polish": "sypialnia",
+        "spanish": "el dormitorio"
+    },
+    {
+        "id": 387,
+        "polish": "brzoskwinia",
+        "spanish": "el durazno"
+    },
+    {
+        "id": 388,
+        "polish": "pielegniarz",
+        "spanish": "el enfermero"
+    },
+    {
+        "id": 389,
+        "polish": "bagaż",
+        "spanish": "el equipaje"
+    },
+    {
+        "id": 390,
+        "polish": "wysiłek",
+        "spanish": "el esfuerzo"
+    },
+    {
+        "id": 391,
+        "polish": "państwo, kraj",
+        "spanish": "el estado"
+    },
+    {
+        "id": 392,
+        "polish": "kierunek: wschód",
+        "spanish": "el este"
+    },
+    {
+        "id": 393,
+        "polish": "styl",
+        "spanish": "el estilo"
+    },
+    {
+        "id": 394,
+        "polish": "student, uczeń",
+        "spanish": "el estudiante"
+    },
+    {
+        "id": 395,
+        "polish": "sukces",
+        "spanish": "el éxito"
+    },
+    {
+        "id": 396,
+        "polish": "zagranica, cudzoziemiec",
+        "spanish": "el extranjero"
+    },
+    {
+        "id": 397,
+        "polish": "nieznajomy",
+        "spanish": "el extraño"
+    },
+    {
+        "id": 398,
+        "polish": "prom",
+        "spanish": "el ferry"
+    },
+    {
+        "id": 399,
+        "polish": "koniec, cel",
+        "spanish": "el fin"
+    },
+    {
+        "id": 400,
+        "polish": "weekend",
+        "spanish": "el fin de semana"
     }
 ]

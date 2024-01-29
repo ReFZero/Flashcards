@@ -1,252 +1,252 @@
 [
     {
-        "id": "101",
-        "polish": "trudny",
-        "spanish": "difícil"
+        "id": 101,
+        "polish": "pracownik",
+        "spanish": "asalariado"
     },
     {
-        "id": "102",
-        "polish": "zabawny",
-        "spanish": "divertido"
+        "id": 102,
+        "polish": "wznosić się, iść w góre, wzrastać",
+        "spanish": "ascender"
     },
     {
-        "id": "103",
-        "polish": "śpiący",
-        "spanish": "dormido"
+        "id": 103,
+        "polish": "w ten sposób",
+        "spanish": "asi"
     },
     {
-        "id": "104",
-        "polish": "słodki",
-        "spanish": "dulce"
+        "id": 104,
+        "polish": "obrzydliwy",
+        "spanish": "asqueroso"
     },
     {
-        "id": "105",
-        "polish": "twardy",
-        "spanish": "duro"
+        "id": 105,
+        "polish": "przestraszyć się",
+        "spanish": "asustarse"
     },
     {
-        "id": "106",
-        "polish": "obrażony",
-        "spanish": "enfadado"
+        "id": 106,
+        "polish": "spóźniony",
+        "spanish": "atrasado"
     },
     {
-        "id": "107",
-        "polish": "chory",
-        "spanish": "enfermo"
+        "id": 107,
+        "polish": "chociaż, choć",
+        "spanish": "aunque"
     },
     {
-        "id": "108",
-        "polish": "wyjątkowy",
-        "spanish": "especial"
+        "id": 108,
+        "polish": "prawdziwy, autentyczny",
+        "spanish": "auténtico"
     },
     {
-        "id": "109",
-        "polish": "wąski",
-        "spanish": "estrecho"
+        "id": 109,
+        "polish": "sknera",
+        "spanish": "avaro"
     },
     {
-        "id": "110",
-        "polish": "łatwy",
-        "spanish": "fácil"
+        "id": 110,
+        "polish": "wczoraj",
+        "spanish": "ayer"
     },
     {
-        "id": "111",
-        "polish": "fałszywy",
-        "spanish": "falso"
+        "id": 111,
+        "polish": "pomagać",
+        "spanish": "ayudar"
     },
     {
-        "id": "112",
-        "polish": "znany",
-        "spanish": "famoso"
+        "id": 112,
+        "polish": "niebieski",
+        "spanish": "azul"
     },
     {
-        "id": "113",
-        "polish": "fantastyczny",
-        "spanish": "fantástico"
+        "id": 113,
+        "polish": "jasnoniebieski, błekitny",
+        "spanish": "azul claro"
     },
     {
-        "id": "114",
-        "polish": "szczęśliwy",
-        "spanish": "feliz"
+        "id": 114,
+        "polish": "ciemnoniebieski, granatowy",
+        "spanish": "azul oscuro"
     },
     {
-        "id": "115",
-        "polish": "brzydki",
-        "spanish": "feo"
+        "id": 115,
+        "polish": "niebieski",
+        "spanish": "azur"
     },
     {
-        "id": "116",
-        "polish": "wierny",
-        "spanish": "fiel"
+        "id": 116,
+        "polish": "tańczyć",
+        "spanish": "bailar"
     },
     {
-        "id": "117",
-        "polish": "świeży",
-        "spanish": "fresco"
+        "id": 117,
+        "polish": "schodzić, zjeżdżać, wysiadać",
+        "spanish": "bajar"
     },
     {
-        "id": "118",
-        "polish": "ciekły",
-        "spanish": "líquido"
+        "id": 118,
+        "polish": "cicho, niski",
+        "spanish": "bajo"
     },
     {
-        "id": "119",
-        "polish": "zimny",
-        "spanish": "frío"
+        "id": 119,
+        "polish": "kąpać się",
+        "spanish": "bañarse"
     },
     {
-        "id": "120",
-        "polish": "silny",
-        "spanish": "fuerte"
+        "id": 120,
+        "polish": "tanio",
+        "spanish": "barato"
     },
     {
-        "id": "121",
-        "polish": "gruby",
-        "spanish": "gordo"
+        "id": 121,
+        "polish": "dosyć, wystarczająco, całkiem",
+        "spanish": "bastante"
     },
     {
-        "id": "122",
-        "polish": "zabawny",
-        "spanish": "gracioso"
+        "id": 122,
+        "polish": "pić",
+        "spanish": "beber"
     },
     {
-        "id": "123",
-        "polish": "duży",
-        "spanish": "grande"
+        "id": 123,
+        "polish": "całować, pocałować",
+        "spanish": "besar"
     },
     {
-        "id": "124",
+        "id": 124,
+        "polish": "dobrze",
+        "spanish": "bien"
+    },
+    {
+        "id": 125,
+        "polish": "biały",
+        "spanish": "blanco"
+    },
+    {
+        "id": 126,
+        "polish": "miękki",
+        "spanish": "blando"
+    },
+    {
+        "id": 127,
+        "polish": "bluzka",
+        "spanish": "blusa"
+    },
+    {
+        "id": 128,
+        "polish": "głupiutki, tępy",
+        "spanish": "bobo"
+    },
+    {
+        "id": 129,
         "polish": "ładny",
-        "spanish": "guapo"
+        "spanish": "bonito"
     },
     {
-        "id": "125",
-        "polish": "piękny",
-        "spanish": "hermoso"
+        "id": 130,
+        "polish": "błyszczący",
+        "spanish": "brillante"
     },
     {
-        "id": "126",
-        "polish": "wilgotny",
-        "spanish": "húmedo"
+        "id": 131,
+        "polish": "dobry",
+        "spanish": "bueno"
     },
     {
-        "id": "127",
-        "polish": "identyczny",
-        "spanish": "igual"
+        "id": 132,
+        "polish": "szukać",
+        "spanish": "buscar"
     },
     {
-        "id": "128",
-        "polish": "interesujący",
-        "spanish": "interesante"
+        "id": 133,
+        "polish": "każdy",
+        "spanish": "cada"
     },
     {
-        "id": "129",
-        "polish": "młody",
-        "spanish": "joven"
+        "id": 134,
+        "polish": "za każdym razem",
+        "spanish": "cada vez"
     },
     {
-        "id": "130",
-        "polish": "długi",
-        "spanish": "largo"
+        "id": 135,
+        "polish": "upadać, spadać",
+        "spanish": "caerse"
     },
     {
-        "id": "131",
-        "polish": "powolny",
-        "spanish": "lento"
+        "id": 136,
+        "polish": "gorący",
+        "spanish": "caliente"
     },
     {
-        "id": "132",
-        "polish": "wolny",
-        "spanish": "libre"
+        "id": 137,
+        "polish": "milczący, cichy",
+        "spanish": "callado"
     },
     {
-        "id": "133",
-        "polish": "lekki",
-        "spanish": "ligero"
+        "id": 138,
+        "polish": "zmieniać, wymieniać",
+        "spanish": "cambiar"
     },
     {
-        "id": "134",
-        "polish": "czysty",
-        "spanish": "limpio"
+        "id": 139,
+        "polish": "iść na piechotę",
+        "spanish": "caminar"
     },
     {
-        "id": "135",
-        "polish": "pełny",
-        "spanish": "lleno"
+        "id": 140,
+        "polish": "koszula",
+        "spanish": "camisa"
     },
     {
-        "id": "136",
-        "polish": "zły",
-        "spanish": "malo"
+        "id": 141,
+        "polish": "koszulka",
+        "spanish": "camiseta/remera"
     },
     {
-        "id": "137",
-        "polish": "cudny",
-        "spanish": "maravilloso"
+        "id": 142,
+        "polish": "kurtka",
+        "spanish": "campera"
     },
     {
-        "id": "138",
-        "polish": "starszy",
-        "spanish": "mayor"
+        "id": 143,
+        "polish": "unieważniać",
+        "spanish": "cancelar"
     },
     {
-        "id": "139",
-        "polish": "młodszy",
-        "spanish": "menor"
+        "id": 144,
+        "polish": "zmęczony",
+        "spanish": "cansado"
     },
     {
-        "id": "140",
-        "polish": "nowoczesny",
-        "spanish": "moderno"
+        "id": 145,
+        "polish": "śpiewać",
+        "spanish": "cantar"
     },
     {
-        "id": "141",
-        "polish": "naturalny",
-        "spanish": "natural"
+        "id": 146,
+        "polish": "drogi",
+        "spanish": "caro"
     },
     {
-        "id": "142",
-        "polish": "nowy",
-        "spanish": "nuevo"
+        "id": 147,
+        "polish": "żonaty",
+        "spanish": "casado"
     },
     {
-        "id": "143",
-        "polish": "zajęty",
-        "spanish": "ocupado"
+        "id": 148,
+        "polish": "prawie",
+        "spanish": "casi"
     },
     {
-        "id": "144",
-        "polish": "uporządkowany",
-        "spanish": "ordenado"
+        "id": 149,
+        "polish": "czternaście",
+        "spanish": "catorce"
     },
     {
-        "id": "145",
-        "polish": "mały",
-        "spanish": "pequeño"
-    },
-    {
-        "id": "146",
-        "polish": "ciężki",
-        "spanish": "pesado"
-    },
-    {
-        "id": "147",
-        "polish": "biedny",
-        "spanish": "pobre"
-    },
-    {
-        "id": "148",
-        "polish": "zgniły",
-        "spanish": "podrido"
-    },
-    {
-        "id": "149",
-        "polish": "śliczny",
-        "spanish": "precioso"
-    },
-    {
-        "id": "150",
-        "polish": "główny",
-        "spanish": "principal"
+        "id": 150,
+        "polish": "blisko",
+        "spanish": "cerca"
     }
 ]

@@ -1,0 +1,252 @@
+[
+    {
+        "id": 501,
+        "polish": "znaczek",
+        "spanish": "el sello"
+    },
+    {
+        "id": 502,
+        "polish": "sygnalizacja świetlna",
+        "spanish": "el semáforo"
+    },
+    {
+        "id": 503,
+        "polish": "toaleta",
+        "spanish": "el servicio"
+    },
+    {
+        "id": 504,
+        "polish": "sofa",
+        "spanish": "el sofá"
+    },
+    {
+        "id": 505,
+        "polish": "słońce",
+        "spanish": "el sol"
+    },
+    {
+        "id": 506,
+        "polish": "dźwięk",
+        "spanish": "el sonido"
+    },
+    {
+        "id": 507,
+        "polish": "napisy",
+        "spanish": "el subtítulo"
+    },
+    {
+        "id": 508,
+        "polish": "sen, marzenie",
+        "spanish": "el sueño"
+    },
+    {
+        "id": 509,
+        "polish": "supermarket",
+        "spanish": "el supermercado"
+    },
+    {
+        "id": 510,
+        "polish": "południe (kierunek)",
+        "spanish": "el sur"
+    },
+    {
+        "id": 511,
+        "polish": "taksówka ",
+        "spanish": "el taxi "
+    },
+    {
+        "id": 512,
+        "polish": "dach",
+        "spanish": "el tejado"
+    },
+    {
+        "id": 513,
+        "polish": "telefon",
+        "spanish": "el teléfono"
+    },
+    {
+        "id": 514,
+        "polish": "telewizor",
+        "spanish": "el televisor"
+    },
+    {
+        "id": 515,
+        "polish": "widelec",
+        "spanish": "el tenedor"
+    },
+    {
+        "id": 516,
+        "polish": "pogoda, czas",
+        "spanish": "el tiempo"
+    },
+    {
+        "id": 517,
+        "polish": "wolny czas",
+        "spanish": "el tiempo libre"
+    },
+    {
+        "id": 518,
+        "polish": "wujek, gość, facet",
+        "spanish": "el tio"
+    },
+    {
+        "id": 519,
+        "polish": "rodzaj",
+        "spanish": "el tipo"
+    },
+    {
+        "id": 520,
+        "polish": "praca",
+        "spanish": "el trabajo"
+    },
+    {
+        "id": 521,
+        "polish": "garnitur",
+        "spanish": "el traje"
+    },
+    {
+        "id": 522,
+        "polish": "tramwaj",
+        "spanish": "el tranvia"
+    },
+    {
+        "id": 523,
+        "polish": "pociąg",
+        "spanish": "el tren"
+    },
+    {
+        "id": 524,
+        "polish": "pociąg ",
+        "spanish": "el tren "
+    },
+    {
+        "id": 525,
+        "polish": "kolejka podmiejska",
+        "spanish": "el tren de cercanías"
+    },
+    {
+        "id": 526,
+        "polish": "kawałek",
+        "spanish": "el trozo"
+    },
+    {
+        "id": 527,
+        "polish": "szklanka",
+        "spanish": "el vaso"
+    },
+    {
+        "id": 528,
+        "polish": "żaglówka",
+        "spanish": "el velero"
+    },
+    {
+        "id": 529,
+        "polish": "sukienka",
+        "spanish": "el vestido"
+    },
+    {
+        "id": 530,
+        "polish": "podróż",
+        "spanish": "el viaje"
+    },
+    {
+        "id": 531,
+        "polish": "wiatr",
+        "spanish": "el viento"
+    },
+    {
+        "id": 532,
+        "polish": "wino",
+        "spanish": "el vino"
+    },
+    {
+        "id": 533,
+        "polish": "gość, odwiedzający",
+        "spanish": "el visitante"
+    },
+    {
+        "id": 534,
+        "polish": "but",
+        "spanish": "el zapato"
+    },
+    {
+        "id": 535,
+        "polish": "sok",
+        "spanish": "el zumo"
+    },
+    {
+        "id": 536,
+        "polish": "elektryczny",
+        "spanish": "eléctrico"
+    },
+    {
+        "id": 537,
+        "polish": "elegancki",
+        "spanish": "elegante"
+    },
+    {
+        "id": 538,
+        "polish": "ona",
+        "spanish": "ella"
+    },
+    {
+        "id": 539,
+        "polish": "one",
+        "spanish": "ellas"
+    },
+    {
+        "id": 540,
+        "polish": "to; ono",
+        "spanish": "ello"
+    },
+    {
+        "id": 541,
+        "polish": "oni",
+        "spanish": "ellos"
+    },
+    {
+        "id": 542,
+        "polish": "zaczyna się, rozpoczyna się",
+        "spanish": "empezar"
+    },
+    {
+        "id": 543,
+        "polish": "używać, stosować, zatrudniać",
+        "spanish": "emplear"
+    },
+    {
+        "id": 544,
+        "polish": "w, na",
+        "spanish": "en"
+    },
+    {
+        "id": 545,
+        "polish": "w domu",
+        "spanish": "en casa"
+    },
+    {
+        "id": 546,
+        "polish": "u kogoś",
+        "spanish": "en casa de"
+    },
+    {
+        "id": 547,
+        "polish": "prządnie, starannie, należycie",
+        "spanish": "en condiciones"
+    },
+    {
+        "id": 548,
+        "polish": "na żywo",
+        "spanish": "en directo"
+    },
+    {
+        "id": 549,
+        "polish": "przeciętnie",
+        "spanish": "en promedio"
+    },
+    {
+        "id": 550,
+        "polish": "właściwie",
+        "spanish": "en realidad"
+    }
+]

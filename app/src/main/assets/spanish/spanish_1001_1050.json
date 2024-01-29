@@ -1,0 +1,252 @@
+[
+    {
+        "id": 1001,
+        "polish": "spędzać",
+        "spanish": "pasar"
+    },
+    {
+        "id": 1002,
+        "polish": "spacerować",
+        "spanish": "pasear"
+    },
+    {
+        "id": 1003,
+        "polish": "prosić, zamawiać",
+        "spanish": "pedir"
+    },
+    {
+        "id": 1004,
+        "polish": "uderzyć, pobić, bić",
+        "spanish": "pegar"
+    },
+    {
+        "id": 1005,
+        "polish": "niebezpieczny",
+        "spanish": "peligroso"
+    },
+    {
+        "id": 1006,
+        "polish": "myśleć",
+        "spanish": "pensar"
+    },
+    {
+        "id": 1007,
+        "polish": "mały",
+        "spanish": "pequeño"
+    },
+    {
+        "id": 1008,
+        "polish": "zgubić, stracić, przegrać",
+        "spanish": "perder"
+    },
+    {
+        "id": 1009,
+        "polish": "leniwy",
+        "spanish": "perezoso"
+    },
+    {
+        "id": 1010,
+        "polish": "pozwalać",
+        "spanish": "permitir"
+    },
+    {
+        "id": 1011,
+        "polish": "ale, lecz",
+        "spanish": "pero"
+    },
+    {
+        "id": 1012,
+        "polish": "osobiście",
+        "spanish": "personalmente"
+    },
+    {
+        "id": 1013,
+        "polish": "należeć",
+        "spanish": "pertenecer"
+    },
+    {
+        "id": 1014,
+        "polish": "ciężki, nużący",
+        "spanish": "pesado"
+    },
+    {
+        "id": 1015,
+        "polish": "pikantny, ostry",
+        "spanish": "picante"
+    },
+    {
+        "id": 1016,
+        "polish": "biedny",
+        "spanish": "pobre"
+    },
+    {
+        "id": 1017,
+        "polish": "mało, niewiele",
+        "spanish": "poco"
+    },
+    {
+        "id": 1018,
+        "polish": "móc",
+        "spanish": "poder"
+    },
+    {
+        "id": 1019,
+        "polish": "zgniły",
+        "spanish": "podrido"
+    },
+    {
+        "id": 1020,
+        "polish": "spódnica",
+        "spanish": "pollero"
+    },
+    {
+        "id": 1021,
+        "polish": "kłaść",
+        "spanish": "poner"
+    },
+    {
+        "id": 1022,
+        "polish": "troszeczkę, odrobinę",
+        "spanish": "poquito"
+    },
+    {
+        "id": 1023,
+        "polish": "z powodu, ze względu, dla, przez",
+        "spanish": "por"
+    },
+    {
+        "id": 1024,
+        "polish": "przypadkowo, przypadkiem",
+        "spanish": "por casualidad"
+    },
+    {
+        "id": 1025,
+        "polish": "proszę",
+        "spanish": "por favor"
+    },
+    {
+        "id": 1026,
+        "polish": "nareszcie, w końcu",
+        "spanish": "por fin"
+    },
+    {
+        "id": 1027,
+        "polish": "rano, rankiem",
+        "spanish": "por la mañana"
+    },
+    {
+        "id": 1028,
+        "polish": "po południu",
+        "spanish": "por la tarde"
+    },
+    {
+        "id": 1029,
+        "polish": "dlaczego",
+        "spanish": "por qué"
+    },
+    {
+        "id": 1030,
+        "polish": "oczywiście",
+        "spanish": "por sepuesto"
+    },
+    {
+        "id": 1031,
+        "polish": "w nocy, nocą",
+        "spanish": "pora la noche"
+    },
+    {
+        "id": 1032,
+        "polish": "ponieważ",
+        "spanish": "porque"
+    },
+    {
+        "id": 1033,
+        "polish": "możliwy",
+        "spanish": "posible"
+    },
+    {
+        "id": 1034,
+        "polish": "pocztówka",
+        "spanish": "postal"
+    },
+    {
+        "id": 1035,
+        "polish": "praktyczny",
+        "spanish": "práctico"
+    },
+    {
+        "id": 1036,
+        "polish": "śliczny",
+        "spanish": "precioso"
+    },
+    {
+        "id": 1037,
+        "polish": "ulubiony",
+        "spanish": "preferido"
+    },
+    {
+        "id": 1038,
+        "polish": "pytać",
+        "spanish": "preguntar"
+    },
+    {
+        "id": 1039,
+        "polish": "martwić się, przejmować się",
+        "spanish": "preocuparse"
+    },
+    {
+        "id": 1040,
+        "polish": "pożyczać",
+        "spanish": "prestar"
+    },
+    {
+        "id": 1041,
+        "polish": "skupić uwage na",
+        "spanish": "prestar atención a"
+    },
+    {
+        "id": 1042,
+        "polish": "najpierw, pierwszy",
+        "spanish": "primero"
+    },
+    {
+        "id": 1043,
+        "polish": "główny",
+        "spanish": "principal"
+    },
+    {
+        "id": 1044,
+        "polish": "prywatny",
+        "spanish": "privado"
+    },
+    {
+        "id": 1045,
+        "polish": "prawdopodobnie",
+        "spanish": "probablemente"
+    },
+    {
+        "id": 1046,
+        "polish": "próbować",
+        "spanish": "probar"
+    },
+    {
+        "id": 1047,
+        "polish": "głeboki",
+        "spanish": "profundo"
+    },
+    {
+        "id": 1048,
+        "polish": "zabroniony",
+        "spanish": "prohibido"
+    },
+    {
+        "id": 1049,
+        "polish": "zabraniać",
+        "spanish": "prohibir"
+    },
+    {
+        "id": 1050,
+        "polish": "obiecywać",
+        "spanish": "prometer"
+    }
+]
