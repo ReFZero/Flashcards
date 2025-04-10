@@ -9,7 +9,7 @@ public class Validator {
 
     // Checks the provided file path is in the correct format
     public static boolean validateFullFilePath(String filePath){
-        String regex = "^(english|norwegian|spanish|germany)/\\1_\\d{4}_\\d{4}\\.json$";
+        String regex = "^(english|norwegian|spanish|german)/\\1_\\d{4}_\\d{4}\\.json$";
         Pattern pattern = Pattern.compile(regex);
         Matcher matcher = pattern.matcher(filePath);
         if (matcher.matches()) return true;
