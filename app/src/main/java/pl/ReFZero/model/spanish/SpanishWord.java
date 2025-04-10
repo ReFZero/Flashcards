@@ -1,11 +1,11 @@
-package pl.ReFZero.model;
+package pl.ReFZero.model.spanish;
 
-public class EnglishWord {
+public class SpanishWord  {
     private Integer id;
     private String polish;
-    private String english;
+    private String spanish;
 
-    public EnglishWord() {
+    public SpanishWord() {
     }
 
     public Integer getId() {
@@ -24,11 +24,11 @@ public class EnglishWord {
         this.polish = polish;
     }
 
-    public String getEnglish() {
-        return english;
+    public String getSpanish() {
+        return spanish;
     }
 
-    public void setEnglish(String english) {
-        this.english = english;
+    public void setSpanish(String spanish) {
+        this.spanish = spanish;
     }
 }

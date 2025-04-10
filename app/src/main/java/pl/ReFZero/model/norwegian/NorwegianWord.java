@@ -1,11 +1,11 @@
-package pl.ReFZero.model;
+package pl.ReFZero.model.norwegian;
 
-public class GermanWord {
+public class NorwegianWord  {
     private Integer id;
     private String polish;
-    private String german;
+    private String norwegian;
 
-    public GermanWord() {
+    public NorwegianWord() {
     }
 
     public Integer getId() {
@@ -24,11 +24,11 @@ public class GermanWord {
         this.polish = polish;
     }
 
-    public String getGerman() {
-        return german;
+    public String getNorwegian() {
+        return norwegian;
     }
 
-    public void setGerman(String german) {
-        this.german = german;
+    public void setNorwegian(String norwegian) {
+        this.norwegian = norwegian;
     }
 }

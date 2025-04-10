@@ -12,7 +12,7 @@ In:
  MenuLanguages - allows you to select the language
  MenuSet - allows you to select a collection of flashcards
  Flashcards - allows you to learn words from a selected language and set
- ReFZero 2023
+ ReFZero 2025
 */
 
 package pl.ReFZero.activity;

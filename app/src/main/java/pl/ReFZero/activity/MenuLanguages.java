@@ -17,6 +17,7 @@ import java.util.List;
 
 import pl.ReFZero.R;
 import pl.ReFZero.exceptions.ButtonNotSupportedException;
+import pl.ReFZero.model.DataCollector;
 
 public class MenuLanguages extends AppCompatActivity {
 
@@ -57,29 +58,38 @@ public class MenuLanguages extends AppCompatActivity {
     }
 
     private void addInformationAboutLanguageType(Intent intent, int buttonId) {
-        String languageType = getLanguageTypeFromButtonId(buttonId);
-        intent.putExtra("languageType", languageType);
+        DataCollector dataCollector = new DataCollector();
+        getLanguageTypeFromButtonId(buttonId, dataCollector);
+        intent.putExtra("dataCollector", dataCollector);
     }
 
     @SuppressLint("NonConstantResourceId")
-    private String getLanguageTypeFromButtonId(int buttonId) {
+    private void getLanguageTypeFromButtonId(int buttonId, DataCollector collector) {
         switch (buttonId) {
             case R.id.ib_polish_english:
-                return "polish_english";
+                collector.setLanguages( "polish", "english");
+                break;
             case R.id.ib_english_polish:
-                return "english_polish";
+                collector.setLanguages( "english", "polish");
+                break;
             case R.id.ib_polish_german:
-                return "polish_german";
+                collector.setLanguages( "polish", "german");
+                break;
             case R.id.ib_german_polish:
-                return "german_polish";
+                collector.setLanguages( "german", "polish");
+                break;
             case R.id.ib_polish_spanish:
-                return "polish_spanish";
+                collector.setLanguages( "polish", "spanish");
+                break;
             case R.id.ib_spanish_polish:
-                return "spanish_polish";
+                collector.setLanguages( "spanish", "polish");
+                break;
             case R.id.ib_polish_norwegian:
-                return "polish_norwegian";
+                collector.setLanguages( "polish", "norwegian");
+                break;
             case R.id.ib_norwegian_polish:
-                return "norwegian_polish";
+                collector.setLanguages( "norwegian", "polish");
+                break;
             default:
                 throw new ButtonNotSupportedException("Button not supported. Check id button.");
         }
